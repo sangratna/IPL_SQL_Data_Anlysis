@@ -1,0 +1,900 @@
+season,id,short_name,venue_name,start_date,home_team,away_team,toss_won,decision,1st_inning_score,2nd_inning_score,winner,pom,umpire1,umpire2
+2023,1359544,RCB v GT,"M.Chinnaswamy Stadium, Bengaluru",2023-05-21T14:00Z,RCB,GT,GT,BOWL FIRST,197/5,198/4,GT,Shubman Gill,Nitin Menon,Virender Sharma
+2023,1359543,MI v SRH,"Wankhede Stadium, Mumbai",2023-05-21T10:00Z,MI,SRH,MI,BOWL FIRST,200/5,201/2,MI,Cameron Green,KN Ananthapadmanabhan,Rod Tucker
+2023,1359542,KKR v LSG,"Eden Gardens, Kolkata",2023-05-20T14:00Z,KKR,LSG,KKR,BOWL FIRST,176/8,175/7,LSG,Nicholas Pooran,Ulhas Gandhe,Jayaraman Madanagopal
+2023,1359541,DC v CSK,"Arun Jaitley Stadium, Delhi",2023-05-20T10:00Z,DC,CSK,CSK,BAT FIRST,223/3,146/9,CSK,Ruturaj Gaikwad,Chris Gaffaney,Nikhil Patwardhan
+2023,1359540,PBKS v RR,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2023-05-19T14:00Z,PBKS,RR,RR,BOWL FIRST,187/5,189/6,RR,Devdutt Padikkal,Nand Kishore,Rod Tucker
+2023,1359539,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-05-18T14:00Z,SRH,RCB,RCB,BOWL FIRST,186/5,187/2,RCB,Virat Kohli,Bruce Oxenford,Virender Sharma
+2023,1359538,PBKS v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2023-05-17T14:00Z,PBKS,DC,PBKS,BOWL FIRST,213/2,198/8,DC,Rilee Rossouw,KN Ananthapadmanabhan,Saidharshan Kumar
+2023,1359537,LSG v MI,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-05-16T14:00Z,LSG,MI,MI,BOWL FIRST,177/3,172/5,LSG,Marcus Stoinis,Anil Chaudhary,Nand Kishore
+2023,1359536,GT v SRH,"Narendra Modi Stadium, Motera, Ahmedabad",2023-05-15T14:00Z,GT,SRH,SRH,BOWL FIRST,188/9,154/9,GT,Shubman Gill,Ulhas Gandhe,Jayaraman Madanagopal
+2023,1359535,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-14T14:00Z,CSK,KKR,CSK,BAT FIRST,144/6,147/4,KKR,Rinku Singh,Tapan Sharma,Vinod Seshan
+2023,1359534,RR v RCB,"Sawai Mansingh Stadium, Jaipur",2023-05-14T10:00Z,RR,RCB,RCB,BAT FIRST,171/5,59,RCB,Wayne Parnell,KN Ananthapadmanabhan,Navdeep Singh
+2023,1359533,DC v PBKS,"Arun Jaitley Stadium, Delhi",2023-05-13T14:00Z,DC,PBKS,DC,BOWL FIRST,167/7,136/8,PBKS,Prabhsimran Singh,Chris Gaffaney,Nikhil Patwardhan
+2023,1359532,SRH v LSG,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-05-13T10:00Z,SRH,LSG,SRH,BAT FIRST,182/6,185/3,LSG,Prerak Mankad,Jayaraman Madanagopal,Akshay Totre
+2023,1359531,MI v GT,"Wankhede Stadium, Mumbai",2023-05-12T14:00Z,MI,GT,GT,BOWL FIRST,218/5,191/8,MI,Suryakumar Yadav,Nitin Menon,Tapan Sharma
+2023,1359530,KKR v RR,"Eden Gardens, Kolkata",2023-05-11T14:00Z,KKR,RR,RR,BOWL FIRST,149/8,151/1,RR,Yashasvi Jaiswal,Saidharshan Kumar,Rod Tucker
+2023,1359529,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-10T14:00Z,CSK,DC,CSK,BAT FIRST,167/8,140/8,CSK,Ravindra Jadeja,Chris Gaffaney,Nikhil Patwardhan
+2023,1359528,MI v RCB,"Wankhede Stadium, Mumbai",2023-05-09T14:00Z,MI,RCB,MI,BOWL FIRST,199/6,200/4,MI,Suryakumar Yadav,Saiyed Khalid,Virender Sharma
+2023,1359527,KKR v PBKS,"Eden Gardens, Kolkata",2023-05-08T14:00Z,KKR,PBKS,PBKS,BAT FIRST,179/7,182/5,KKR,Andre Russell,Jayaraman Madanagopal,Akshay Totre
+2023,1359526,RR v SRH,"Sawai Mansingh Stadium, Jaipur",2023-05-07T14:00Z,RR,SRH,RR,BAT FIRST,214/2,217/6,SRH,Glenn Phillips,Nitin Menon,Vinod Seshan
+2023,1359525,GT v LSG,"Narendra Modi Stadium, Motera, Ahmedabad",2023-05-07T10:00Z,GT,LSG,LSG,BOWL FIRST,227/2,171/7,GT,Shubman Gill,Anil Chaudhary,Nand Kishore
+2023,1359524,DC v RCB,"Arun Jaitley Stadium, Delhi",2023-05-06T14:00Z,DC,RCB,RCB,BAT FIRST,181/4,187/3,DC,Phil Salt,Yeshwant Barde,Rod Tucker
+2023,1359523,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",2023-05-06T10:00Z,CSK,MI,CSK,BOWL FIRST,139/8,140/4,CSK,Matheesha Pathirana,Navdeep Singh,Bruce Oxenford
+2023,1359522,RR v GT,"Sawai Mansingh Stadium, Jaipur",2023-05-05T14:00Z,RR,GT,RR,BAT FIRST,118,119/1,GT,Rashid Khan,Saiyed Khalid,Virender Sharma
+2023,1359521,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-05-04T14:00Z,SRH,KKR,KKR,BAT FIRST,171/9,166/8,KKR,Varun Chakravarthy,KN Ananthapadmanabhan,Michael Gough
+2023,1359520,PBKS v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-05-03T14:00Z,PBKS,MI,MI,BOWL FIRST,214/3,216/4,MI,Ishan Kishan,Jayaraman Madanagopal,Rod Tucker
+2023,1359518,GT v DC,"Narendra Modi Stadium, Motera, Ahmedabad",2023-05-02T14:00Z,GT,DC,DC,BAT FIRST,130/8,125/6,DC,Mohammed Shami,Michael Gough,Rohan Pandit
+2023,1359517,LSG v RCB,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-05-01T14:00Z,LSG,RCB,RCB,BAT FIRST,126/9,108,RCB,Faf du Plessis,Anil Chaudhary,Sadashiv Iyer
+2023,1359516,MI v RR,"Wankhede Stadium, Mumbai",2023-04-30T14:00Z,MI,RR,RR,BAT FIRST,212/7,214/4,MI,Yashasvi Jaiswal,Virender Sharma,Vinod Seshan
+2023,1359515,CSK v PBKS,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-30T10:00Z,CSK,PBKS,CSK,BAT FIRST,200/4,201/6,PBKS,Devon Conway,Ulhas Gandhe,Rod Tucker
+2023,1359514,DC v SRH,"Arun Jaitley Stadium, Delhi",2023-04-29T14:00Z,DC,SRH,SRH,BAT FIRST,197/6,188/6,SRH,Mitchell Marsh,Michael Gough,Navdeep Singh
+2023,1359513,KKR v GT,"Eden Gardens, Kolkata",2023-04-29T10:00Z,KKR,GT,GT,BOWL FIRST,179/7,180/3,GT,Josh Little,Nikhil Patwardhan,Sadashiv Iyer
+2023,1359512,PBKS v LSG,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-28T14:00Z,PBKS,LSG,PBKS,BOWL FIRST,257/5,201,LSG,Marcus Stoinis,Nitin Menon,Vinod Seshan
+2023,1359511,RR v CSK,"Sawai Mansingh Stadium, Jaipur",2023-04-27T14:00Z,RR,CSK,RR,BAT FIRST,202/5,170/6,RR,Yashasvi Jaiswal,Yeshwant Barde,Akshay Totre
+2023,1359510,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2023-04-26T14:00Z,RCB,KKR,RCB,BOWL FIRST,200/5,179/8,KKR,Varun Chakravarthy,KN Ananthapadmanabhan,Rohan Pandit
+2023,1359509,GT v MI,"Narendra Modi Stadium, Motera, Ahmedabad",2023-04-25T14:00Z,GT,MI,MI,BOWL FIRST,207/6,152/9,GT,Abhinav Manohar,Anil Chaudhary,Nand Kishore
+2023,1359508,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-24T14:00Z,SRH,DC,DC,BAT FIRST,144/9,137/6,DC,Axar Patel,Jayaraman Madanagopal,Rod Tucker
+2023,1359507,KKR v CSK,"Eden Gardens, Kolkata",2023-04-23T14:00Z,KKR,CSK,KKR,BOWL FIRST,235/4,186/8,CSK,Ajinkya Rahane,Nitin Menon,Tapan Sharma
+2023,1359506,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",2023-04-23T10:00Z,RCB,RR,RR,BOWL FIRST,189/9,182/6,RCB,Glenn Maxwell,Michael Gough,Saidharshan Kumar
+2023,1359505,MI v PBKS,"Wankhede Stadium, Mumbai",2023-04-22T14:00Z,MI,PBKS,MI,BOWL FIRST,214/8,201/6,PBKS,Sam Curran,Chris Gaffaney,Sadashiv Iyer
+2023,1359504,LSG v GT,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-22T10:00Z,LSG,GT,GT,BAT FIRST,135/6,128/7,GT,Mohit Sharma,Akshay Totre,Rod Tucker
+2023,1359503,CSK v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-21T14:00Z,CSK,SRH,CSK,BOWL FIRST,134/7,138/3,CSK,Ravindra Jadeja,Saiyed Khalid,Virender Sharma
+2023,1359502,DC v KKR,"Arun Jaitley Stadium, Delhi",2023-04-20T14:00Z,DC,KKR,DC,BOWL FIRST,127,128/6,DC,Ishant Sharma,Michael Gough,Rohan Pandit
+2023,1359501,PBKS v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-20T10:00Z,PBKS,RCB,PBKS,BOWL FIRST,174/4,150,RCB,Mohammed Siraj,Anil Chaudhary,Sadashiv Iyer
+2023,1359500,RR v LSG,"Sawai Mansingh Stadium, Jaipur",2023-04-19T14:00Z,RR,LSG,RR,BOWL FIRST,154/7,144/6,LSG,Marcus Stoinis,Yeshwant Barde,Jayaraman Madanagopal
+2023,1359499,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-18T14:00Z,SRH,MI,SRH,BOWL FIRST,192/5,178,MI,Cameron Green,Nitin Menon,Vinod Seshan
+2023,1359498,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",2023-04-17T14:00Z,RCB,CSK,RCB,BOWL FIRST,226/6,218/8,CSK,Devon Conway,KN Ananthapadmanabhan,Navdeep Singh
+2023,1359497,GT v RR,"Narendra Modi Stadium, Motera, Ahmedabad",2023-04-16T14:00Z,GT,RR,RR,BOWL FIRST,177/7,179/7,RR,Shimron Hetmyer,Anil Chaudhary,Chris Gaffaney
+2023,1359496,MI v KKR,"Wankhede Stadium, Mumbai",2023-04-16T10:00Z,MI,KKR,MI,BOWL FIRST,185/6,186/5,MI,Venkatesh Iyer,Ulhas Gandhe,Bruce Oxenford
+2023,1359495,LSG v PBKS,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-15T14:00Z,LSG,PBKS,PBKS,BOWL FIRST,159/8,161/8,PBKS,Sikandar Raza,Saiyed Khalid,Virender Sharma
+2023,1359494,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2023-04-15T10:00Z,RCB,DC,DC,BOWL FIRST,174/6,151/9,RCB,Virat Kohli,KN Ananthapadmanabhan,Saidharshan Kumar
+2023,1359493,KKR v SRH,"Eden Gardens, Kolkata",2023-04-14T14:00Z,KKR,SRH,KKR,BOWL FIRST,228/4,205/7,SRH,Harry Brook,Chris Gaffaney,Sadashiv Iyer
+2023,1359492,PBKS v GT,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-13T14:00Z,PBKS,GT,GT,BOWL FIRST,153/8,154/4,GT,Mohit Sharma,Jayaraman Madanagopal,Akshay Totre
+2023,1359491,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-12T14:00Z,CSK,RR,CSK,BOWL FIRST,175/8,172/6,RR,Ravichandran Ashwin,Virender Sharma,Vinod Seshan
+2023,1359490,DC v MI,"Arun Jaitley Stadium, Delhi",2023-04-11T14:00Z,DC,MI,MI,BOWL FIRST,172,173/4,MI,Rohit Sharma,Michael Gough,Rohan Pandit
+2023,1359489,RCB v LSG,"M.Chinnaswamy Stadium, Bengaluru",2023-04-10T14:00Z,RCB,LSG,LSG,BOWL FIRST,212/2,213/9,LSG,Nicholas Pooran,Anil Chaudhary,Nand Kishore
+2023,1359488,SRH v PBKS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-09T14:00Z,SRH,PBKS,SRH,BOWL FIRST,143/9,145/2,SRH,Shikhar Dhawan,Ulhas Gandhe,Bruce Oxenford
+2023,1359487,GT v KKR,"Narendra Modi Stadium, Motera, Ahmedabad",2023-04-09T10:00Z,GT,KKR,GT,BAT FIRST,204/4,207/7,KKR,Rinku Singh,Nitin Menon,Tapan Sharma
+2023,1359486,MI v CSK,"Wankhede Stadium, Mumbai",2023-04-08T14:00Z,MI,CSK,CSK,BOWL FIRST,157/8,159/3,CSK,Ravindra Jadeja,Chris Gaffaney,Nikhil Patwardhan
+2023,1359485,RR v DC,"Barsapara Cricket Stadium, Guwahati",2023-04-08T10:00Z,RR,DC,DC,BOWL FIRST,199/4,142/9,RR,Yashasvi Jaiswal,Navdeep Singh,Saidharshan Kumar
+2023,1359484,LSG v SRH,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-07T14:00Z,LSG,SRH,SRH,BAT FIRST,121/8,127/5,LSG,Krunal Pandya,Yeshwant Barde,Jayaraman Madanagopal
+2023,1359483,KKR v RCB,"Eden Gardens, Kolkata",2023-04-06T14:00Z,KKR,RCB,RCB,BOWL FIRST,204/7,123,KKR,Shardul Thakur,Virender Sharma,Vinod Seshan
+2023,1359482,RR v PBKS,"Barsapara Cricket Stadium, Guwahati",2023-04-05T14:00Z,RR,PBKS,RR,BOWL FIRST,197/4,192/7,PBKS,Nathan Ellis,KN Ananthapadmanabhan,Saidharshan Kumar
+2023,1359481,DC v GT,"Arun Jaitley Stadium, Delhi",2023-04-04T14:00Z,DC,GT,GT,BOWL FIRST,162/8,163/4,GT,Sai Sudharsan,Nand Kishore,Sadashiv Iyer
+2023,1359480,CSK v LSG,"MA Chidambaram Stadium, Chepauk, Chennai",2023-04-03T14:00Z,CSK,LSG,LSG,BOWL FIRST,217/7,205/7,CSK,Moeen Ali,Bruce Oxenford,Akshay Totre
+2023,1359479,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",2023-04-02T14:00Z,RCB,MI,RCB,BOWL FIRST,171/7,172/2,RCB,Faf du Plessis,Nitin Menon,Tapan Sharma
+2023,1359478,SRH v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2023-04-02T10:00Z,SRH,RR,SRH,BOWL FIRST,203/5,131/8,RR,Jos Buttler,KN Ananthapadmanabhan,Rohan Pandit
+2023,1359477,LSG v DC,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2023-04-01T14:00Z,LSG,DC,DC,BOWL FIRST,193/6,143/9,LSG,Mark Wood,Anil Chaudhary,Nikhil Patwardhan
+2023,1359476,PBKS v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2023-04-01T10:00Z,PBKS,KKR,KKR,BOWL FIRST,191/5,146/7,PBKS,Arshdeep Singh,Yeshwant Barde,Bruce Oxenford
+2023,1359475,GT v CSK,"Narendra Modi Stadium, Motera, Ahmedabad",2023-03-31T14:00Z,GT,CSK,GT,BOWL FIRST,178/7,182/5,GT,Rashid Khan,Saiyed Khalid,Nitin Menon
+2022,1304047,CSK v KKR,"Wankhede Stadium, Mumbai",2022-03-26T14:00Z,CSK,KKR,KKR,BOWL FIRST,131/5,133/4,KKR,Umesh Yadav,Anil Chaudhary,Nitin Menon
+2022,1304048,DC v MI,"Brabourne Stadium, Mumbai",2022-03-27T10:00Z,DC,MI,DC,BOWL FIRST,177/5,179/6,DC,Kuldeep Yadav,Saiyed Khalid,Rod Tucker
+2022,1304049,PBKS v RCB,"Dr DY Patil Sports Academy, Navi Mumbai",2022-03-27T14:00Z,PBKS,RCB,KXIP,BOWL FIRST,205/2,208/5,PBKS,Odean Smith,Yeshwant Barde,Nitin Menon
+2022,1304050,GT v LSG,"Wankhede Stadium, Mumbai",2022-03-28T14:00Z,GT,LSG,GT,BOWL FIRST,158/6,161/5,GT,Mohammed Shami,Pashchim Pathak,Virender Sharma
+2022,1304051,SRH v RR,"Maharashtra Cricket Association Stadium, Pune",2022-03-29T14:00Z,SRH,RR,SRH,BOWL FIRST,210/6,149/7,RR,Sanju Samson,Ulhas Gandhe,Bruce Oxenford
+2022,1304052,RCB v KKR,"Dr DY Patil Sports Academy, Navi Mumbai",2022-03-30T14:00Z,RCB,KKR,RCB,BOWL FIRST,128,132/7,RCB,Wanindu Hasaranga de Silva,Jayaraman Madanagopal,Navdeep Singh
+2022,1304053,LSG v CSK,"Brabourne Stadium, Mumbai",2022-03-31T14:00Z,LSG,CSK,LSG,BOWL FIRST,210/7,211/4,LSG,Evin Lewis,Virender Sharma,Rod Tucker
+2022,1304054,KKR v PBKS,"Wankhede Stadium, Mumbai",2022-04-01T14:00Z,KKR,PBKS,KKR,BOWL FIRST,137,141/4,KKR,Umesh Yadav,Anil Chaudhary,Saiyed Khalid
+2022,1304055,MI v RR,"Dr DY Patil Sports Academy, Navi Mumbai",2022-04-02T10:00Z,MI,RR,MI,BOWL FIRST,193/8,170/8,RR,Jos Buttler,Nitin Menon,Pashchim Pathak
+2022,1304056,GT v DC,"Maharashtra Cricket Association Stadium, Pune",2022-04-02T14:00Z,GT,DC,DC,BOWL FIRST,171/6,157/9,GT,Lockie Ferguson,KN Ananthapadmanabhan,Ulhas Gandhe
+2022,1304057,CSK v PBKS,"Brabourne Stadium, Mumbai",2022-04-03T14:00Z,CSK,PBKS,CSK,BOWL FIRST,180/8,126,PBKS,Liam Livingstone,Yeshwant Barde,Rod Tucker
+2022,1304059,RR v RCB,"Wankhede Stadium, Mumbai",2022-04-05T14:00Z,RR,RCB,RCB,BOWL FIRST,169/3,173/6,RCB,Dinesh Karthik,Anil Chaudhary,Saiyed Khalid
+2022,1304060,KKR v MI,"Maharashtra Cricket Association Stadium, Pune",2022-04-06T14:00Z,KKR,MI,KKR,BOWL FIRST,161/4,162/5,KKR,Pat Cummins,KN Ananthapadmanabhan,Bruce Oxenford
+2022,1304061,LSG v DC,"Dr DY Patil Sports Academy, Navi Mumbai",2022-04-07T14:00Z,LSG,DC,LSG,BOWL FIRST,149/3,155/4,LSG,Quinton de Kock,Tapan Sharma,Rod Tucker
+2022,1304062,PBKS v GT,"Brabourne Stadium, Mumbai",2022-04-08T14:00Z,PBKS,GT,GT,BOWL FIRST,189/9,190/4,GT,Shubman Gill,Anil Chaudhary,Virender Sharma
+2022,1304063,CSK v SRH,"Dr DY Patil Sports Academy, Navi Mumbai",2022-04-09T10:00Z,CSK,SRH,SRH,BOWL FIRST,154/7,155/2,SRH,Abhishek Sharma,Nitin Menon,Navdeep Singh
+2022,1304064,RCB v MI,"Maharashtra Cricket Association Stadium, Pune",2022-04-09T14:00Z,RCB,MI,RCB,BOWL FIRST,151/6,152/3,RCB,Anuj Rawat,KN Ananthapadmanabhan,Bruce Oxenford
+2022,1304068,CSK v RCB,"Dr DY Patil Sports Academy, Navi Mumbai",2022-04-12T14:00Z,CSK,RCB,RCB,BOWL FIRST,216/4,193/9,CSK,Shivam Dube,Nitin Menon,Nitin Pandit
+2022,1304069,MI v PBKS,"Maharashtra Cricket Association Stadium, Pune",2022-04-13T14:00Z,MI,PBKS,MI,BOWL FIRST,198/5,186/9,PBKS,Mayank Agarwal,Ulhas Gandhe,Bruce Oxenford
+2022,1304070,RR v GT,"Dr DY Patil Sports Academy, Navi Mumbai",2022-04-14T14:00Z,RR,GT,RR,BOWL FIRST,192/4,155/9,GT,Hardik Pandya,Chris Gaffaney,Rohan Pandit
+2022,1304071,SRH v KKR,"Brabourne Stadium, Mumbai",2022-04-15T14:00Z,SRH,KKR,SRH,BOWL FIRST,175/8,176/3,SRH,Rahul Tripathi,Sadashiv Iyer,Virender Sharma
+2022,1304072,MI v LSG,"Brabourne Stadium, Mumbai",2022-04-16T10:00Z,MI,LSG,MI,BOWL FIRST,199/4,181/9,LSG,KL Rahul,Anil Chaudhary,Nikhil Patwardhan
+2022,1304073,DC v RCB,"Wankhede Stadium, Mumbai",2022-04-16T14:00Z,DC,RCB,DC,BOWL FIRST,189/5,173/7,RCB,Dinesh Karthik,Jayaraman Madanagopal,Chirra Ravikanthreddy
+2022,1304074,PBKS v SRH,"Dr DY Patil Sports Academy, Navi Mumbai",2022-04-17T10:00Z,PBKS,SRH,SRH,BOWL FIRST,151,152/3,SRH,Umran Malik,Rohan Pandit,Pashchim Pathak
+2022,1304075,GT v CSK,"Maharashtra Cricket Association Stadium, Pune",2022-04-17T14:00Z,GT,CSK,GT,BOWL FIRST,169/5,170/7,GT,David Miller,KN Ananthapadmanabhan,Ulhas Gandhe
+2022,1304076,RR v KKR,"Brabourne Stadium, Mumbai",2022-04-18T14:00Z,RR,KKR,KKR,BOWL FIRST,217/5,210,RR,Yuzvendra Chahal,Sadashiv Iyer,Virender Sharma
+2022,1304077,LSG v RCB,"Dr DY Patil Sports Academy, Navi Mumbai",2022-04-19T14:00Z,LSG,RCB,LSG,BOWL FIRST,181/6,163/8,RCB,Faf du Plessis,Chris Gaffaney,Nitin Pandit
+2022,1304078,DC v PBKS,"Brabourne Stadium, Mumbai",2022-04-20T14:00Z,DC,PBKS,DC,BOWL FIRST,115,119/1,DC,Kuldeep Yadav,Tapan Sharma,Rod Tucker
+2022,1304079,MI v CSK,"Dr DY Patil Sports Academy, Navi Mumbai",2022-04-21T14:00Z,MI,CSK,CSK,BOWL FIRST,155/7,156/7,CSK,Mukesh Choudhary,Ulhas Gandhe,Bruce Oxenford
+2022,1304080,DC v RR,"Wankhede Stadium, Mumbai",2022-04-22T14:00Z,DC,RR,DC,BOWL FIRST,222/2,207/8,RR,Jos Buttler,Nitin Menon,Nikhil Patwardhan
+2022,1304081,KKR v GT,"Dr DY Patil Sports Academy, Navi Mumbai",2022-04-23T10:00Z,KKR,GT,GT,BAT FIRST,156/9,148/8,GT,Rashid Khan,KN Ananthapadmanabhan,Ulhas Gandhe
+2022,1304082,RCB v SRH,"Brabourne Stadium, Mumbai",2022-04-23T14:00Z,RCB,SRH,SRH,BOWL FIRST,68,72/1,SRH,Marco Jansen,Jayaraman Madanagopal,Chirra Ravikanthreddy
+2022,1304083,LSG v MI,"Wankhede Stadium, Mumbai",2022-04-24T14:00Z,LSG,MI,MI,BOWL FIRST,168/6,132/8,LSG,KL Rahul,Marais Erasmus,Saiyed Khalid
+2022,1304084,PBKS v CSK,"Wankhede Stadium, Mumbai",2022-04-25T14:00Z,PBKS,CSK,CSK,BOWL FIRST,187/4,176/6,PBKS,Shikhar Dhawan,Marais Erasmus,Tapan Sharma
+2022,1304085,RCB v RR,"Maharashtra Cricket Association Stadium, Pune",2022-04-26T14:00Z,RCB,RR,RCB,BOWL FIRST,144/8,115,RR,Riyan Parag,KN Ananthapadmanabhan,Bruce Oxenford
+2022,1304086,GT v SRH,"Wankhede Stadium, Mumbai",2022-04-27T14:00Z,GT,SRH,GT,BOWL FIRST,195/6,199/5,GT,Umran Malik,Chris Gaffaney,Navdeep Singh
+2022,1304087,DC v KKR,"Wankhede Stadium, Mumbai",2022-04-28T14:00Z,DC,KKR,DC,BOWL FIRST,146/9,150/6,DC,Kuldeep Yadav,Anil Chaudhary,Pashchim Pathak
+2022,1304088,PBKS v LSG,"Maharashtra Cricket Association Stadium, Pune",2022-04-29T14:00Z,PBKS,LSG,KXIP,BOWL FIRST,153/8,133/8,LSG,Krunal Pandya,Ulhas Gandhe,Michael Gough
+2022,1304089,GT v RCB,"Brabourne Stadium, Mumbai",2022-04-30T10:00Z,GT,RCB,RCB,BAT FIRST,170/6,174/4,GT,Rahul Tewatia,Saiyed Khalid,Virender Sharma
+2022,1304090,RR v MI,"Dr DY Patil Sports Academy, Navi Mumbai",2022-04-30T14:00Z,RR,MI,MI,BOWL FIRST,158/6,161/5,MI,Suryakumar Yadav,Yeshwant Barde,Bruce Oxenford
+2022,1304091,DC v LSG,"Wankhede Stadium, Mumbai",2022-05-01T10:00Z,DC,LSG,LSG,BAT FIRST,195/3,189/7,LSG,Mohsin Khan,Chris Gaffaney,Chirra Ravikanthreddy
+2022,1304092,SRH v CSK,"Maharashtra Cricket Association Stadium, Pune",2022-05-01T14:00Z,SRH,CSK,SRH,BOWL FIRST,202/2,189/6,CSK,Ruturaj Gaikwad,KN Ananthapadmanabhan,Anil Chaudhary
+2022,1304093,KKR v RR,"Wankhede Stadium, Mumbai",2022-05-02T14:00Z,KKR,RR,KKR,BOWL FIRST,152/5,158/3,KKR,Rinku Singh,Jayaraman Madanagopal,Nitin Pandit
+2022,1304094,GT v PBKS,"Dr DY Patil Sports Academy, Navi Mumbai",2022-05-03T14:00Z,GT,PBKS,GT,BAT FIRST,143/8,145/2,PBKS,Kagiso Rabada,Rohan Pandit,Virender Sharma
+2022,1304095,RCB v CSK,"Maharashtra Cricket Association Stadium, Pune",2022-05-04T14:00Z,RCB,CSK,CSK,BOWL FIRST,173/8,160/8,RCB,Harshal Patel,KN Ananthapadmanabhan,Michael Gough
+2022,1304096,DC v SRH,"Brabourne Stadium, Mumbai",2022-05-05T14:00Z,DC,SRH,SRH,BOWL FIRST,207/3,186/8,DC,David Warner,Navdeep Singh,Nikhil Patwardhan
+2022,1304097,GT v MI,"Brabourne Stadium, Mumbai",2022-05-06T14:00Z,GT,MI,GT,BOWL FIRST,177/6,172/5,MI,Tim David,Jayaraman Madanagopal,Sadashiv Iyer
+2022,1304098,PBKS v RR,"Wankhede Stadium, Mumbai",2022-05-07T10:00Z,PBKS,RR,KXIP,BAT FIRST,189/5,190/4,RR,Yashasvi Jaiswal,Yeshwant Barde,Chirra Ravikanthreddy
+2022,1304099,LSG v KKR,"Maharashtra Cricket Association Stadium, Pune",2022-05-07T14:00Z,LSG,KKR,KKR,BOWL FIRST,176/7,101,LSG,Avesh Khan,Anil Chaudhary,Michael Gough
+2022,1304100,SRH v RCB,"Wankhede Stadium, Mumbai",2022-05-08T10:00Z,SRH,RCB,RCB,BAT FIRST,192/3,125,RCB,Wanindu Hasaranga de Silva,Bruce Oxenford,Nitin Pandit
+2022,1304101,CSK v DC,"Dr DY Patil Sports Academy, Navi Mumbai",2022-05-08T14:00Z,CSK,DC,DC,BOWL FIRST,208/6,117,CSK,Devon Conway,Nitin Menon,Rohan Pandit
+2022,1304102,MI v KKR,"Dr DY Patil Sports Academy, Navi Mumbai",2022-05-09T14:00Z,MI,KKR,MI,BOWL FIRST,165/9,113,KKR,Jasprit Bumrah,Chris Gaffaney,Sadashiv Iyer
+2022,1304103,LSG v GT,"Maharashtra Cricket Association Stadium, Pune",2022-05-10T14:00Z,LSG,GT,GT,BAT FIRST,144/4,82,GT,Shubman Gill,KN Ananthapadmanabhan,Michael Gough
+2022,1304104,RR v DC,"Dr DY Patil Sports Academy, Navi Mumbai",2022-05-11T14:00Z,RR,DC,DC,BOWL FIRST,160/6,161/2,DC,Mitchell Marsh,Nitin Menon,Nikhil Patwardhan
+2022,1304105,CSK v MI,"Wankhede Stadium, Mumbai",2022-05-12T14:00Z,CSK,MI,MI,BOWL FIRST,97,103/5,MI,Daniel Sams,Chris Gaffaney,Chirra Ravikanthreddy
+2022,1304106,RCB v PBKS,"Brabourne Stadium, Mumbai",2022-05-13T14:00Z,RCB,PBKS,RCB,BOWL FIRST,209/9,155/9,PBKS,Jonny Bairstow,Jayaraman Madanagopal,Nitin Pandit
+2022,1304107,KKR v SRH,"Maharashtra Cricket Association Stadium, Pune",2022-05-14T14:00Z,KKR,SRH,KKR,BAT FIRST,177/6,123/8,KKR,Andre Russell,KN Ananthapadmanabhan,Anil Chaudhary
+2022,1304108,CSK v GT,"Wankhede Stadium, Mumbai",2022-05-15T10:00Z,CSK,GT,CSK,BAT FIRST,133/5,137/3,GT,Wriddhiman Saha,Rohan Pandit,Virender Sharma
+2022,1304109,LSG v RR,"Brabourne Stadium, Mumbai",2022-05-15T14:00Z,LSG,RR,RR,BAT FIRST,178/6,154/8,RR,Trent Boult,Pashchim Pathak,Tapan Sharma
+2022,1304110,PBKS v DC,"Dr DY Patil Sports Academy, Navi Mumbai",2022-05-16T14:00Z,PBKS,DC,KXIP,BOWL FIRST,159/7,142/9,DC,Shardul Thakur,Nitin Menon,Sadashiv Iyer
+2022,1304111,MI v SRH,"Wankhede Stadium, Mumbai",2022-05-17T14:00Z,MI,SRH,MI,BOWL FIRST,193/6,190/7,SRH,Rahul Tripathi,Chris Gaffaney,Nitin Pandit
+2022,1304112,KKR v LSG,"Dr DY Patil Sports Academy, Navi Mumbai",2022-05-18T14:00Z,KKR,LSG,LSG,BAT FIRST,210/0,208/8,LSG,Quinton de Kock,Yeshwant Barde,Rohan Pandit
+2022,1304113,RCB v GT,"Wankhede Stadium, Mumbai",2022-05-19T14:00Z,RCB,GT,GT,BAT FIRST,168/5,170/2,RCB,Virat Kohli,KN Ananthapadmanabhan,Sadashiv Iyer
+2022,1304114,RR v CSK,"Brabourne Stadium, Mumbai",2022-05-20T14:00Z,RR,CSK,CSK,BAT FIRST,150/6,151/5,RR,Ravichandran Ashwin,Chris Gaffaney,Nikhil Patwardhan
+2022,1304115,MI v DC,"Wankhede Stadium, Mumbai",2022-05-21T14:00Z,MI,DC,MI,BOWL FIRST,159/7,160/5,MI,Jasprit Bumrah,Nitin Menon,Tapan Sharma
+2022,1304116,SRH v PBKS,"Wankhede Stadium, Mumbai",2022-05-22T14:00Z,SRH,PBKS,SRH,BAT FIRST,157/8,160/5,PBKS,Harpreet Brar,Anil Chaudhary,Nikhil Patwardhan
+2021,1254101,RCB v DC,Dubai International Cricket Stadium,2021-10-08T14:00Z,RCB,DC,RCB,BOWL FIRST,164/5,166/3,RCB,Srikar Bharat,KN Ananthapadmanabhan,Nitin Menon
+2021,1254106,KKR v RR,Sharjah Cricket Stadium,2021-10-07T14:00Z,KKR,RR,RR,BOWL FIRST,171/4,85,KKR,Shivam Mavi,Michael Gough,Saiyed Khalid
+2021,1254094,CSK v PBKS,Dubai International Cricket Stadium,2021-10-07T10:00Z,CSK,PBKS,KXIP,BOWL FIRST,134/6,139/4,PBKS,KL Rahul,Richard Illingworth,Krishnamachari Srinivasan
+2021,1254095,RCB v SRH,"Sheikh Zayed Stadium, Abu Dhabi",2021-10-06T14:00Z,RCB,SRH,RCB,BOWL FIRST,141/7,137/6,SRH,Kane Williamson,Ulhas Gandhe,Sundaram Ravi
+2021,1254093,RR v MI,Sharjah Cricket Stadium,2021-10-05T14:00Z,RR,MI,MI,BOWL FIRST,90/9,94/2,MI,Nathan Coulter-Nile,Anil Chaudhary,Michael Gough
+2021,1254110,DC v CSK,Dubai International Cricket Stadium,2021-10-04T14:00Z,DC,CSK,DC,BOWL FIRST,136/5,139/7,DC,Axar Patel,Anil Chaudhary,Nitin Menon
+2021,1254109,KKR v SRH,Dubai International Cricket Stadium,2021-10-03T14:00Z,KKR,SRH,SRH,BAT FIRST,115/8,119/4,KKR,Shubman Gill,Michael Gough,Jayaraman Madanagopal
+2021,1254090,RCB v PBKS,Sharjah Cricket Stadium,2021-10-03T10:00Z,RCB,PBKS,RCB,BAT FIRST,164/7,158/6,RCB,Glenn Maxwell,KN Ananthapadmanabhan,Richard Illingworth
+2021,1254089,RR v CSK,"Sheikh Zayed Stadium, Abu Dhabi",2021-10-02T14:00Z,RR,CSK,RR,BOWL FIRST,189/4,190/3,RR,Ruturaj Gaikwad,Chris Gaffaney,Virender Sharma
+2021,1254112,MI v DC,Sharjah Cricket Stadium,2021-10-02T10:00Z,MI,DC,DC,BOWL FIRST,129/8,132/6,DC,Axar Patel,Anil Chaudhary,Michael Gough
+2021,1254102,KKR v PBKS,Dubai International Cricket Stadium,2021-10-01T14:00Z,KKR,PBKS,KXIP,BOWL FIRST,165/7,168/5,PBKS,KL Rahul,KN Ananthapadmanabhan,Richard Illingworth
+2021,1254091,SRH v CSK,Sharjah Cricket Stadium,2021-09-30T14:00Z,SRH,CSK,CSK,BOWL FIRST,134/7,139/4,CSK,Josh Hazlewood,Yeshwant Barde,Nitin Menon
+2021,1254103,RR v RCB,Dubai International Cricket Stadium,2021-09-29T14:00Z,RR,RCB,RCB,BOWL FIRST,149/9,153/3,RCB,Yuzvendra Chahal,KN Ananthapadmanabhan,Anil Dandekar
+2021,1254099,MI v PBKS,"Sheikh Zayed Stadium, Abu Dhabi",2021-09-28T14:00Z,MI,PBKS,MI,BOWL FIRST,135/6,137/4,MI,Kieron Pollard,Sundaram Ravi,Virender Sharma
+2021,1254092,KKR v DC,Sharjah Cricket Stadium,2021-09-28T10:00Z,KKR,DC,KKR,BOWL FIRST,127/9,130/7,KKR,Sunil Narine,Saiyed Khalid,Nitin Menon
+2021,1254100,SRH v RR,Dubai International Cricket Stadium,2021-09-27T14:00Z,SRH,RR,RR,BAT FIRST,164/5,167/3,SRH,Jason Roy,KN Ananthapadmanabhan,Navdeep Singh
+2021,1254108,RCB v MI,Dubai International Cricket Stadium,2021-09-26T14:00Z,RCB,MI,MI,BOWL FIRST,165/6,111,RCB,Glenn Maxwell,Anil Chaudhary,Michael Gough
+2021,1254098,CSK v KKR,"Sheikh Zayed Stadium, Abu Dhabi",2021-09-26T10:00Z,CSK,KKR,KKR,BAT FIRST,171/6,172/8,CSK,Ravindra Jadeja,Chris Gaffaney,Tapan Sharma
+2021,1254107,SRH v PBKS,Sharjah Cricket Stadium,2021-09-25T14:00Z,SRH,PBKS,SRH,BOWL FIRST,125/7,120/7,PBKS,Jason Holder,Yeshwant Barde,Richard Illingworth
+2021,1254097,DC v RR,"Sheikh Zayed Stadium, Abu Dhabi",2021-09-25T10:00Z,DC,RR,RR,BOWL FIRST,154/6,121/6,DC,Shreyas Iyer,Chris Gaffaney,Ulhas Gandhe
+2021,1254113,RCB v CSK,Sharjah Cricket Stadium,2021-09-24T14:00Z,RCB,CSK,CSK,BOWL FIRST,156/6,157/4,CSK,Dwayne Bravo,Anil Chaudhary,Nitin Menon
+2021,1254096,MI v KKR,"Sheikh Zayed Stadium, Abu Dhabi",2021-09-23T14:00Z,MI,KKR,KKR,BOWL FIRST,155/6,159/3,KKR,Sunil Narine,Sundaram Ravi,Virender Sharma
+2021,1254105,DC v SRH,Dubai International Cricket Stadium,2021-09-22T14:00Z,DC,SRH,SRH,BAT FIRST,134/9,139/2,DC,Anrich Nortje,KN Ananthapadmanabhan,Richard Illingworth
+2021,1254111,PBKS v RR,Dubai International Cricket Stadium,2021-09-21T14:00Z,PBKS,RR,KXIP,BOWL FIRST,185,183/4,RR,Kartik Tyagi,Anil Chaudhary,Michael Gough
+2021,1254087,KKR v RCB,"Sheikh Zayed Stadium, Abu Dhabi",2021-09-20T14:00Z,KKR,RCB,RCB,BAT FIRST,92,94/1,KKR,Varun Chakravarthy,Chris Gaffaney,Sundaram Ravi
+2021,1254104,CSK v MI,Dubai International Cricket Stadium,2021-09-19T14:00Z,CSK,MI,CSK,BAT FIRST,156/6,136/8,CSK,Ruturaj Gaikwad,Richard Illingworth,Nitin Menon
+2021,1254086,PBKS v DC,"Narendra Modi Stadium, Motera, Ahmedabad",2021-05-02T14:00Z,PBKS,DC,DC,BOWL FIRST,166/6,167/3,DC,Mayank Agarwal,Anil Chaudhary,Anil Dandekar
+2021,1254085,RR v SRH,"Arun Jaitley Stadium, Delhi",2021-05-02T10:00Z,RR,SRH,SRH,BOWL FIRST,220/3,165/8,RR,Jos Buttler,Chris Gaffaney,Chettithody Shamshuddin
+2021,1254084,MI v CSK,"Arun Jaitley Stadium, Delhi",2021-05-01T14:00Z,MI,CSK,MI,BOWL FIRST,218/4,219/6,MI,Kieron Pollard,KN Ananthapadmanabhan,Nandan
+2021,1254083,PBKS v RCB,"Narendra Modi Stadium, Motera, Ahmedabad",2021-04-30T14:00Z,PBKS,RCB,RCB,BOWL FIRST,179/5,145/8,PBKS,Harpreet Brar,Sundaram Ravi,Virender Sharma
+2021,1254082,DC v KKR,"Narendra Modi Stadium, Motera, Ahmedabad",2021-04-29T14:00Z,DC,KKR,DC,BOWL FIRST,154/6,156/3,DC,Prithvi Shaw,Yeshwant Barde,Anil Chaudhary
+2021,1254081,MI v RR,"Arun Jaitley Stadium, Delhi",2021-04-29T10:00Z,MI,RR,MI,BOWL FIRST,171/4,172/3,MI,Quinton de Kock,KN Ananthapadmanabhan,Chris Gaffaney
+2021,1254080,CSK v SRH,"Arun Jaitley Stadium, Delhi",2021-04-28T14:00Z,CSK,SRH,SRH,BAT FIRST,171/3,173/3,CSK,Ruturaj Gaikwad,Nandan,Chettithody Shamshuddin
+2021,1254079,DC v RCB,"Narendra Modi Stadium, Motera, Ahmedabad",2021-04-27T14:00Z,DC,RCB,DC,BOWL FIRST,171/5,170/4,RCB,AB de Villiers,Sundaram Ravi,Virender Sharma
+2021,1254078,PBKS v KKR,"Narendra Modi Stadium, Motera, Ahmedabad",2021-04-26T14:00Z,PBKS,KKR,KKR,BOWL FIRST,123/9,126/5,KKR,Eoin Morgan,Yeshwant Barde,Paul Reiffel
+2021,1254077,SRH v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2021-04-25T14:00Z,SRH,DC,DC,BAT FIRST,159/4,159/7,SRH,Prithvi Shaw,KN Ananthapadmanabhan,Chris Gaffaney
+2021,1254076,CSK v RCB,"Wankhede Stadium, Mumbai",2021-04-25T10:00Z,CSK,RCB,CSK,BAT FIRST,191/4,122/9,CSK,Ravindra Jadeja,Anil Chaudhary,Virender Sharma
+2021,1254075,RR v KKR,"Wankhede Stadium, Mumbai",2021-04-24T14:00Z,RR,KKR,RR,BOWL FIRST,133/9,134/4,RR,Chris Morris,Navdeep Singh,Sundaram Ravi
+2021,1254074,PBKS v MI,"MA Chidambaram Stadium, Chepauk, Chennai",2021-04-23T14:00Z,PBKS,MI,KXIP,BOWL FIRST,131/6,132/1,PBKS,KL Rahul,Nitin Menon,Chettithody Shamshuddin
+2021,1254073,RCB v RR,"Wankhede Stadium, Mumbai",2021-04-22T14:00Z,RCB,RR,RCB,BOWL FIRST,177/9,181/0,RCB,Devdutt Padikkal,Jayaraman Madanagopal,Sundaram Ravi
+2021,1254072,KKR v CSK,"Wankhede Stadium, Mumbai",2021-04-21T14:00Z,KKR,CSK,KKR,BOWL FIRST,220/3,202,CSK,Faf du Plessis,Anil Dandekar,Paul Reiffel
+2021,1254071,PBKS v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2021-04-21T10:00Z,PBKS,SRH,KXIP,BAT FIRST,120,121/1,SRH,Jonny Bairstow,Nitin Menon,Krishnamachari Srinivasan
+2021,1254070,DC v MI,"MA Chidambaram Stadium, Chepauk, Chennai",2021-04-20T14:00Z,DC,MI,MI,BAT FIRST,137/9,138/4,DC,Amit Mishra,Chris Gaffaney,Chettithody Shamshuddin
+2021,1254069,CSK v RR,"Wankhede Stadium, Mumbai",2021-04-19T14:00Z,CSK,RR,RR,BOWL FIRST,188/9,143/9,CSK,Moeen Ali,Paul Reiffel,Virender Sharma
+2021,1254068,DC v PBKS,"Wankhede Stadium, Mumbai",2021-04-18T14:00Z,DC,PBKS,DC,BOWL FIRST,195/4,198/4,DC,Shikhar Dhawan,Anil Chaudhary,Paul Reiffel
+2021,1254067,RCB v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2021-04-18T10:00Z,RCB,KKR,RCB,BAT FIRST,204/4,166/8,RCB,AB de Villiers,Nitin Menon,Chettithody Shamshuddin
+2021,1254066,MI v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2021-04-17T14:00Z,MI,SRH,MI,BAT FIRST,150/5,137,MI,Kieron Pollard,Chris Gaffaney,Krishnamachari Srinivasan
+2021,1254065,PBKS v CSK,"Wankhede Stadium, Mumbai",2021-04-16T14:00Z,PBKS,CSK,CSK,BOWL FIRST,106/8,107/4,CSK,Deepak Chahar,Anil Chaudhary,Anil Dandekar
+2021,1254064,RR v DC,"Wankhede Stadium, Mumbai",2021-04-15T14:00Z,RR,DC,RR,BOWL FIRST,147/8,150/7,RR,Jaydev Unadkat,Sundaram Ravi,Virender Sharma
+2021,1254063,SRH v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2021-04-14T14:00Z,SRH,RCB,SRH,BOWL FIRST,149/8,143/9,RCB,Glenn Maxwell,Ulhas Gandhe,Nitin Menon
+2021,1254062,KKR v MI,"MA Chidambaram Stadium, Chepauk, Chennai",2021-04-13T14:00Z,KKR,MI,KKR,BOWL FIRST,152,142/7,MI,Rahul Chahar,Chris Gaffaney,Chettithody Shamshuddin
+2021,1254061,RR v PBKS,"Wankhede Stadium, Mumbai",2021-04-12T14:00Z,RR,PBKS,RR,BOWL FIRST,221/6,217/7,PBKS,Sanju Samson,Anil Chaudhary,Sundaram Ravi
+2021,1254060,SRH v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2021-04-11T14:00Z,SRH,KKR,SRH,BOWL FIRST,187/6,177/5,KKR,Nitish Rana,KN Ananthapadmanabhan,Nitin Menon
+2020,1216492,MI v CSK,"Sheikh Zayed Stadium, Abu Dhabi",2020-09-19T14:00Z,MI,CSK,CSK,BOWL FIRST,162/9,166/5,CSK,Ambati Rayudu,Chris Gaffaney,Virender Sharma
+2020,1216493,DC v KXIP,Dubai International Cricket Stadium,2020-09-20T14:00Z,DC,KXIP,KXIP,BOWL FIRST,157/8,157/8,KXIP,Marcus Stoinis,Anil Chaudhary,Nitin Menon
+2020,1216534,SRH v RCB,Dubai International Cricket Stadium,2020-09-21T14:00Z,SRH,RCB,SRH,BOWL FIRST,163/5,153,RCB,Yuzvendra Chahal,Anil Dandekar,Nitin Menon
+2020,1216496,RR v CSK,Sharjah Cricket Stadium,2020-09-22T14:00Z,RR,CSK,CSK,BOWL FIRST,216/7,200/6,RR,Sanju Samson,Chettithody Shamshuddin,Vineet Kulkarni
+2020,1216508,KKR v MI,"Sheikh Zayed Stadium, Abu Dhabi",2020-09-23T14:00Z,KKR,MI,KKR,BOWL FIRST,195/5,146/9,MI,Rohit Sharma,Chris Gaffaney,Sundaram Ravi
+2020,1216510,KXIP v RCB,Dubai International Cricket Stadium,2020-09-24T14:00Z,KXIP,RCB,RCB,BOWL FIRST,206/3,109,KXIP,KL Rahul,Anil Chaudhary,Paul Reiffel
+2020,1216539,CSK v DC,Dubai International Cricket Stadium,2020-09-25T14:00Z,CSK,DC,CSK,BOWL FIRST,175/3,131/7,DC,Prithvi Shaw,KN Ananthapadmanabhan,Richard Illingworth
+2020,1216545,KKR v SRH,"Sheikh Zayed Stadium, Abu Dhabi",2020-09-26T14:00Z,KKR,SRH,SRH,BAT FIRST,142/4,145/3,KKR,Shubman Gill,Chris Gaffaney,Virender Sharma
+2020,1216527,RR v KXIP,Sharjah Cricket Stadium,2020-09-27T14:00Z,RR,KXIP,RR,BOWL FIRST,223/2,226/6,RR,Sanju Samson,Richard Illingworth,Krishnamachari Srinivasan
+2020,1216547,RCB v MI,Dubai International Cricket Stadium,2020-09-28T14:00Z,RCB,MI,MI,BOWL FIRST,201/3,201/5,MI,AB de Villiers,Nitin Menon,Paul Reiffel
+2020,1216532,DC v SRH,"Sheikh Zayed Stadium, Abu Dhabi",2020-09-29T14:00Z,DC,SRH,DC,BOWL FIRST,162/4,147/7,SRH,Rashid Khan,Virender Sharma,Sundaram Ravi
+2020,1216504,RR v KKR,Dubai International Cricket Stadium,2020-09-30T14:00Z,RR,KKR,RR,BOWL FIRST,174/6,137/9,KKR,Shivam Mavi,KN Ananthapadmanabhan,Chettithody Shamshuddin
+2020,1216503,KXIP v MI,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-01T14:00Z,KXIP,MI,KXIP,BOWL FIRST,191/4,143/8,MI,Kieron Pollard,Virender Sharma,Sundaram Ravi
+2020,1216516,CSK v SRH,Dubai International Cricket Stadium,2020-10-02T14:00Z,CSK,SRH,SRH,BAT FIRST,164/5,157/5,SRH,Priyam Garg,Anil Chaudhary,Paul Reiffel
+2020,1216514,RCB v RR,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-03T10:00Z,RCB,RR,RR,BAT FIRST,154/6,158/2,RCB,Yuzvendra Chahal,Chris Gaffaney,Sundaram Ravi
+2020,1216515,DC v KKR,Sharjah Cricket Stadium,2020-10-03T14:00Z,DC,KKR,KKR,BOWL FIRST,228/4,210/8,DC,Shreyas Iyer,Vineet Kulkarni,Richard Illingworth
+2020,1216538,MI v SRH,Sharjah Cricket Stadium,2020-10-04T10:00Z,MI,SRH,MI,BAT FIRST,208/5,174/7,MI,Trent Boult,KN Ananthapadmanabhan,Richard Illingworth
+2020,1216513,KXIP v CSK,Dubai International Cricket Stadium,2020-10-04T14:00Z,KXIP,CSK,KXIP,BAT FIRST,178/4,181/0,CSK,Shane Watson,Anil Dandekar,Nitin Menon
+2020,1216519,RCB v DC,Dubai International Cricket Stadium,2020-10-05T14:00Z,RCB,DC,RCB,BOWL FIRST,196/4,137/9,DC,Axar Patel,Nitin Menon,Yeshwant Barde
+2020,1216511,MI v RR,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-06T14:00Z,MI,RR,MI,BAT FIRST,193/4,136,MI,Suryakumar Yadav,Virender Sharma,Sundaram Ravi
+2020,1216501,KKR v CSK,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-07T14:00Z,KKR,CSK,KKR,BAT FIRST,167,157/5,KKR,Rahul Tripathi,KN Ananthapadmanabhan,Richard Illingworth
+2020,1216542,SRH v KXIP,Dubai International Cricket Stadium,2020-10-08T14:00Z,SRH,KXIP,SRH,BAT FIRST,201/6,132,SRH,Jonny Bairstow,Anil Chaudhary,Nitin Menon
+2020,1216500,RR v DC,Sharjah Cricket Stadium,2020-10-09T14:00Z,RR,DC,RR,BOWL FIRST,184/8,138,DC,Ravichandran Ashwin,KN Ananthapadmanabhan,Chettithody Shamshuddin
+2020,1216523,KXIP v KKR,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-10T10:00Z,KXIP,KKR,KKR,BAT FIRST,164/6,162/5,KKR,Dinesh Karthik,Ulhas Gandhe,Chris Gaffaney
+2020,1216525,CSK v RCB,Dubai International Cricket Stadium,2020-10-10T14:00Z,CSK,RCB,RCB,BAT FIRST,169/4,132/8,RCB,Virat Kohli,Anil Chaudhary,Paul Reiffel
+2020,1216507,SRH v RR,Dubai International Cricket Stadium,2020-10-11T10:00Z,SRH,RR,SRH,BAT FIRST,158/4,163/5,RR,Rahul Tewatia,Yeshwant Barde,Paul Reiffel
+2020,1216529,MI v DC,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-11T14:00Z,MI,DC,DC,BAT FIRST,162/4,166/5,MI,Quinton de Kock,Chris Gaffaney,Sundaram Ravi
+2020,1216540,RCB v KKR,Sharjah Cricket Stadium,2020-10-12T14:00Z,RCB,KKR,RCB,BAT FIRST,194/2,112/9,RCB,AB de Villiers,Richard Illingworth,Krishnamachari Srinivasan
+2020,1216528,SRH v CSK,Dubai International Cricket Stadium,2020-10-13T14:00Z,SRH,CSK,CSK,BAT FIRST,167/6,147/8,CSK,Ravindra Jadeja,Anil Chaudhary,Paul Reiffel
+2020,1216543,DC v RR,Dubai International Cricket Stadium,2020-10-14T14:00Z,DC,RR,DC,BAT FIRST,161/7,148/8,DC,Anrich Nortje,Anil Chaudhary,Nitin Menon
+2020,1216531,RCB v KXIP,Sharjah Cricket Stadium,2020-10-15T14:00Z,RCB,KXIP,RCB,BAT FIRST,171/6,177/2,KXIP,KL Rahul,KN Ananthapadmanabhan,Chettithody Shamshuddin
+2020,1216526,MI v KKR,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-16T14:00Z,MI,KKR,KKR,BAT FIRST,148/5,149/2,MI,Quinton de Kock,Chris Gaffaney,Virender Sharma
+2020,1216522,RR v RCB,Dubai International Cricket Stadium,2020-10-17T10:00Z,RR,RCB,RR,BAT FIRST,177/6,179/3,RCB,AB de Villiers,Anil Chaudhary,Nitin Menon
+2020,1216509,DC v CSK,Sharjah Cricket Stadium,2020-10-17T14:00Z,DC,CSK,CSK,BAT FIRST,179/4,185/5,DC,Shikhar Dhawan,KN Ananthapadmanabhan,Richard Illingworth
+2020,1216512,SRH v KKR,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-18T10:00Z,SRH,KKR,SRH,BOWL FIRST,163/5,163/6,SRH,Lockie Ferguson,Pashchim Pathak,Sundaram Ravi
+2020,1216517,MI v KXIP,Dubai International Cricket Stadium,2020-10-18T14:00Z,MI,KXIP,MI,BAT FIRST,176/6,176/6,KXIP,KL Rahul,Nitin Menon,Paul Reiffel
+2020,1216533,CSK v RR,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-19T14:00Z,CSK,RR,CSK,BAT FIRST,125/5,126/3,RR,Jos Buttler,Chris Gaffaney,Virender Sharma
+2020,1216546,KXIP v DC,Dubai International Cricket Stadium,2020-10-20T14:00Z,KXIP,DC,DC,BAT FIRST,164/5,167/5,KXIP,Shikhar Dhawan,Chettithody Shamshuddin,Richard Illingworth
+2020,1216494,KKR v RCB,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-21T14:00Z,KKR,RCB,KKR,BAT FIRST,84/8,85/2,RCB,Mohammed Siraj,Virender Sharma,Sundaram Ravi
+2020,1216521,CSK v MI,Sharjah Cricket Stadium,2020-10-23T14:00Z,CSK,MI,MI,BOWL FIRST,114/9,116/0,MI,Trent Boult,Chettithody Shamshuddin,Vineet Kulkarni
+2020,1216497,KKR v DC,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-24T10:00Z,KKR,DC,DC,BOWL FIRST,194/6,135/9,KKR,Varun Chakravarthy,Chris Gaffaney,Pashchim Pathak
+2020,1216498,KXIP v SRH,Dubai International Cricket Stadium,2020-10-24T14:00Z,KXIP,SRH,SRH,BOWL FIRST,126/7,114,KXIP,Chris Jordan,Anil Dandekar,Paul Reiffel
+2020,1216544,RCB v CSK,Dubai International Cricket Stadium,2020-10-25T10:00Z,RCB,CSK,RCB,BAT FIRST,145/6,150/2,CSK,Ruturaj Gaikwad,Chettithody Shamshuddin,Richard Illingworth
+2020,1216541,RR v MI,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-25T14:00Z,RR,MI,MI,BAT FIRST,195/5,196/2,RR,Ben Stokes,Ulhas Gandhe,Virender Sharma
+2020,1216520,KKR v KXIP,Sharjah Cricket Stadium,2020-10-26T14:00Z,KKR,KXIP,KXIP,BOWL FIRST,149/9,150/2,KXIP,Chris Gayle,KN Ananthapadmanabhan,Richard Illingworth
+2020,1216524,SRH v DC,Dubai International Cricket Stadium,2020-10-27T14:00Z,SRH,DC,DC,BOWL FIRST,219/2,131,SRH,Wriddhiman Saha,Anil Chaudhary,Nitin Menon
+2020,1216499,MI v RCB,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-28T14:00Z,MI,RCB,MI,BOWL FIRST,164/6,166/5,MI,Suryakumar Yadav,Ulhas Gandhe,Chris Gaffaney
+2020,1216536,CSK v KKR,Dubai International Cricket Stadium,2020-10-29T14:00Z,CSK,KKR,CSK,BOWL FIRST,172/5,178/4,CSK,Ruturaj Gaikwad,Chettithody Shamshuddin,Richard Illingworth
+2020,1216537,KXIP v RR,"Sheikh Zayed Stadium, Abu Dhabi",2020-10-30T14:00Z,KXIP,RR,RR,BOWL FIRST,185/4,186/3,RR,Ben Stokes,Chris Gaffaney,Sundaram Ravi
+2020,1216535,DC v MI,Dubai International Cricket Stadium,2020-10-31T10:00Z,DC,MI,MI,BOWL FIRST,110/9,111/1,MI,Ishan Kishan,Yeshwant Barde,Paul Reiffel
+2020,1216506,CSK v KXIP,"Sheikh Zayed Stadium, Abu Dhabi",2020-11-01T10:00Z,CSK,KXIP,CSK,BOWL FIRST,153/6,154/1,CSK,Ruturaj Gaikwad,Pashchim Pathak,Virender Sharma
+2020,1216530,KKR v RR,Dubai International Cricket Stadium,2020-11-01T14:00Z,KKR,RR,RR,BOWL FIRST,191/7,131/9,KKR,Pat Cummins,Nitin Menon,Paul Reiffel
+2020,1216505,DC v RCB,"Sheikh Zayed Stadium, Abu Dhabi",2020-11-02T14:00Z,DC,RCB,DC,BOWL FIRST,152/7,154/4,DC,Anrich Nortje,Chris Gaffaney,Sundaram Ravi
+2020,1216495,SRH v MI,Sharjah Cricket Stadium,2020-11-03T14:00Z,SRH,MI,SRH,BOWL FIRST,149/8,151/0,SRH,Shahbaz Nadeem,Chettithody Shamshuddin,Richard Illingworth
+2019,1175356,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2019-03-23T14:30Z,CSK,RCB,CSK,BOWL FIRST,70,71/3,CSK,Harbhajan Singh,Anil Dandekar,Bruce Oxenford
+2019,1175357,KKR v SRH,"Eden Gardens, Kolkata",2019-03-24T10:30Z,KKR,SRH,KKR,BOWL FIRST,181/3,183/4,KKR,Andre Russell,Chris Gaffaney,Anil Chaudhary
+2019,1175358,MI v DC,"Wankhede Stadium, Mumbai",2019-03-24T14:30Z,MI,DC,MI,BOWL FIRST,213/6,176,DC,Rishabh Pant,Yeshwant Barde,Sundaram Ravi
+2019,1175359,RR v KXIP,"Sawai Mansingh Stadium, Jaipur",2019-03-25T14:30Z,RR,KXIP,RR,BOWL FIRST,184/4,170/9,KXIP,Chris Gayle,KN Ananthapadmanabhan,Chettithody Shamshuddin
+2019,1175360,DC v CSK,"Arun Jaitley Stadium, Delhi",2019-03-26T14:30Z,DC,CSK,DC,BAT FIRST,147/6,150/4,CSK,Shane Watson,Marais Erasmus,Nitin Menon
+2019,1175361,KKR v KXIP,"Eden Gardens, Kolkata",2019-03-27T14:30Z,KKR,KXIP,KXIP,BOWL FIRST,218/4,190/4,KKR,Andre Russell,Vineet Kulkarni,Anil Chaudhary
+2019,1175362,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",2019-03-28T14:30Z,RCB,MI,RCB,BOWL FIRST,187/8,181/5,MI,Jasprit Bumrah,Nandan,Sundaram Ravi
+2019,1175363,SRH v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2019-03-29T14:30Z,SRH,RR,RR,BAT FIRST,198/2,201/5,SRH,Rashid Khan,Chettithody Shamshuddin,Bruce Oxenford
+2019,1175364,KXIP v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2019-03-30T10:30Z,KXIP,MI,KXIP,BOWL FIRST,176/7,177/2,KXIP,Mayank Agarwal,Vineet Kulkarni,Chris Gaffaney
+2019,1175365,DC v KKR,"Arun Jaitley Stadium, Delhi",2019-03-30T14:30Z,DC,KKR,DC,BOWL FIRST,185/8,185/6,DC,Prithvi Shaw,Anil Dandekar,Nitin Menon
+2019,1175366,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2019-03-31T10:30Z,SRH,RCB,RCB,BOWL FIRST,231/2,113,SRH,Jonny Bairstow,KN Ananthapadmanabhan,Sundaram Ravi
+2019,1175367,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",2019-03-31T14:30Z,CSK,RR,RR,BOWL FIRST,175/5,167/8,CSK,MS Dhoni,Yeshwant Barde,Nandan
+2019,1175368,KXIP v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2019-04-01T14:30Z,KXIP,DC,DC,BOWL FIRST,166/9,152,KXIP,Sam Curran,Chris Gaffaney,Anil Chaudhary
+2019,1175369,RR v RCB,"Sawai Mansingh Stadium, Jaipur",2019-04-02T14:30Z,RR,RCB,RR,BOWL FIRST,158/4,164/3,RR,Shreyas Gopal,Anil Dandekar,Marais Erasmus
+2019,1175370,MI v CSK,"Wankhede Stadium, Mumbai",2019-04-03T14:30Z,MI,CSK,CSK,BOWL FIRST,170/5,133/8,MI,Hardik Pandya,Rod Tucker,Bruce Oxenford
+2019,1175371,DC v SRH,"Arun Jaitley Stadium, Delhi",2019-04-04T14:30Z,DC,SRH,SRH,BOWL FIRST,129/8,131/5,SRH,Jonny Bairstow,KN Ananthapadmanabhan,Chettithody Shamshuddin
+2019,1175372,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2019-04-05T14:30Z,RCB,KKR,KKR,BOWL FIRST,205/3,206/5,KKR,Andre Russell,Chris Gaffaney,Anil Chaudhary
+2019,1178393,CSK v KXIP,"MA Chidambaram Stadium, Chepauk, Chennai",2019-04-06T10:30Z,CSK,KXIP,CSK,BAT FIRST,160/3,138/5,CSK,Harbhajan Singh,KN Ananthapadmanabhan,Rod Tucker
+2019,1178394,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2019-04-06T14:30Z,SRH,MI,SRH,BOWL FIRST,136/7,96,MI,Alzarri Joseph,Anil Dandekar,Nitin Menon
+2019,1178395,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2019-04-07T10:30Z,RCB,DC,DC,BOWL FIRST,149/8,152/6,DC,Kagiso Rabada,Yeshwant Barde,Sundaram Ravi
+2019,1178396,RR v KKR,"Sawai Mansingh Stadium, Jaipur",2019-04-07T14:30Z,RR,KKR,KKR,BOWL FIRST,139/3,140/2,KKR,Harry Gurney,Chris Gaffaney,Anil Chaudhary
+2019,1178397,KXIP v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2019-04-08T14:30Z,KXIP,SRH,KXIP,BOWL FIRST,150/4,151/4,KXIP,KL Rahul,Anil Dandekar,Marais Erasmus
+2019,1178398,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2019-04-09T14:30Z,CSK,KKR,CSK,BOWL FIRST,108/9,111/3,CSK,Deepak Chahar,Rod Tucker,Chettithody Shamshuddin
+2019,1178399,MI v KXIP,"Wankhede Stadium, Mumbai",2019-04-10T14:30Z,MI,KXIP,MI,BOWL FIRST,197/4,198/7,MI,Kieron Pollard,Yeshwant Barde,Sundaram Ravi
+2019,1178400,RR v CSK,"Sawai Mansingh Stadium, Jaipur",2019-04-11T14:30Z,RR,CSK,CSK,BOWL FIRST,151/7,155/6,CSK,MS Dhoni,Ulhas Gandhe,Bruce Oxenford
+2019,1178401,KKR v DC,"Eden Gardens, Kolkata",2019-04-12T14:30Z,KKR,DC,DC,BOWL FIRST,178/7,180/3,DC,Shikhar Dhawan,Yeshwant Barde,Nandan
+2019,1178402,MI v RR,"Wankhede Stadium, Mumbai",2019-04-13T10:30Z,MI,RR,RR,BOWL FIRST,187/5,188/6,RR,Jos Buttler,Nitin Menon,Nand Kishore
+2019,1178403,KXIP v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2019-04-13T14:30Z,KXIP,RCB,RCB,BOWL FIRST,173/4,174/2,RCB,AB de Villiers,Ulhas Gandhe,Sundaram Ravi
+2019,1178404,KKR v CSK,"Eden Gardens, Kolkata",2019-04-14T10:30Z,KKR,CSK,CSK,BOWL FIRST,161/8,162/5,CSK,Imran Tahir,Rod Tucker,Nandan
+2019,1178405,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2019-04-14T14:30Z,SRH,DC,SRH,BOWL FIRST,155/7,116,DC,Keemo Paul,Bruce Oxenford,Anil Chaudhary
+2019,1178406,MI v RCB,"Wankhede Stadium, Mumbai",2019-04-15T14:30Z,MI,RCB,MI,BOWL FIRST,171/7,172/5,MI,Lasith Malinga,Marais Erasmus,Nitin Menon
+2019,1178407,KXIP v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2019-04-16T14:30Z,KXIP,RR,RR,BOWL FIRST,182/6,170/7,KXIP,Ravichandran Ashwin,Vineet Kulkarni,Anil Chaudhary
+2019,1178408,SRH v CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2019-04-17T14:30Z,SRH,CSK,CSK,BAT FIRST,132/5,137/4,SRH,David Warner,Ulhas Gandhe,Ian Gould
+2019,1178409,DC v MI,"Arun Jaitley Stadium, Delhi",2019-04-18T14:30Z,DC,MI,MI,BAT FIRST,168/5,128/9,MI,Hardik Pandya,Bruce Oxenford,Nigel Llong
+2019,1178410,KKR v RCB,"Eden Gardens, Kolkata",2019-04-19T14:30Z,KKR,RCB,KKR,BOWL FIRST,213/4,203/5,RCB,Virat Kohli,Ian Gould,Nitin Menon
+2019,1178411,RR v MI,"Sawai Mansingh Stadium, Jaipur",2019-04-20T10:30Z,RR,MI,RR,BOWL FIRST,161/5,162/5,RR,Steven Smith,Yeshwant Barde,Sundaram Ravi
+2019,1178412,DC v KXIP,"Arun Jaitley Stadium, Delhi",2019-04-20T14:30Z,DC,KXIP,DC,BOWL FIRST,163/7,166/5,DC,Shreyas Iyer,Ulhas Gandhe,Chettithody Shamshuddin
+2019,1178413,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2019-04-21T10:30Z,SRH,KKR,SRH,BOWL FIRST,159/8,161/1,SRH,Khaleel Ahmed,Nigel Llong,Nitin Menon
+2019,1178414,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",2019-04-21T14:30Z,RCB,CSK,CSK,BOWL FIRST,161/7,160/8,RCB,Parthiv Patel,Rod Tucker,Vineet Kulkarni
+2019,1178415,RR v DC,"Sawai Mansingh Stadium, Jaipur",2019-04-22T14:30Z,RR,DC,DC,BOWL FIRST,191/6,193/4,DC,Rishabh Pant,Nand Kishore,Sundaram Ravi
+2019,1178416,CSK v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2019-04-23T14:30Z,CSK,SRH,CSK,BOWL FIRST,175/3,176/4,CSK,Shane Watson,Nigel Llong,Anil Chaudhary
+2019,1178417,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2019-04-24T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,202/4,185/7,RCB,AB de Villiers,Chettithody Shamshuddin,Bruce Oxenford
+2019,1178418,KKR v RR,"Eden Gardens, Kolkata",2019-04-25T14:30Z,KKR,RR,RR,BOWL FIRST,175/6,177/7,RR,Varun Aaron,Anil Dandekar,Ian Gould
+2019,1178419,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",2019-04-26T14:30Z,CSK,MI,CSK,BOWL FIRST,155/4,109,MI,Rohit Sharma,Nigel Llong,Anil Chaudhary
+2019,1178420,RR v SRH,"Sawai Mansingh Stadium, Jaipur",2019-04-27T14:30Z,RR,SRH,RR,BOWL FIRST,160/8,161/3,RR,Jaydev Unadkat,Yeshwant Barde,Nand Kishore
+2019,1178421,DC v RCB,"Arun Jaitley Stadium, Delhi",2019-04-28T10:30Z,DC,RCB,DC,BAT FIRST,187/5,171/7,DC,Shikhar Dhawan,KN Ananthapadmanabhan,Bruce Oxenford
+2019,1178422,KKR v MI,"Eden Gardens, Kolkata",2019-04-28T14:30Z,KKR,MI,MI,BOWL FIRST,232/2,198/7,KKR,Andre Russell,Ian Gould,Nitin Menon
+2019,1178423,SRH v KXIP,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2019-04-29T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,212/6,167/8,SRH,David Warner,Nandan,Sundaram Ravi
+2019,1178425,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2019-05-01T14:30Z,CSK,DC,DC,BOWL FIRST,179/4,99,CSK,MS Dhoni,Anil Dandekar,Nitin Menon
+2019,1178426,MI v SRH,"Wankhede Stadium, Mumbai",2019-05-02T14:30Z,MI,SRH,MI,BAT FIRST,162/5,162/6,SRH,Jasprit Bumrah,Nandan,Sundaram Ravi
+2019,1178427,KXIP v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2019-05-03T14:30Z,KXIP,KKR,KKR,BOWL FIRST,183/6,185/3,KKR,Shubman Gill,Chettithody Shamshuddin,Bruce Oxenford
+2019,1178428,DC v RR,"Arun Jaitley Stadium, Delhi",2019-05-04T10:30Z,DC,RR,RR,BAT FIRST,115/9,121/5,DC,Amit Mishra,Anil Dandekar,Ian Gould
+2019,1178430,KXIP v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2019-05-05T10:30Z,KXIP,CSK,KXIP,BOWL FIRST,170/5,173/4,KXIP,KL Rahul,KN Ananthapadmanabhan,Chettithody Shamshuddin
+2019,1178431,MI v KKR,"Wankhede Stadium, Mumbai",2019-05-05T14:30Z,MI,KKR,MI,BOWL FIRST,133/7,134/1,MI,Hardik Pandya,Nand Kishore,Nandan
+2018,1136561,MI v CSK,"Wankhede Stadium, Mumbai",2018-04-07T14:30Z,MI,CSK,CSK,BOWL FIRST,165/4,169/9,CSK,Dwayne Bravo,Chris Gaffaney,Nand Kishore
+2018,1136562,KXIP v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2018-04-08T10:30Z,KXIP,DC,KXIP,BOWL FIRST,166/7,167/4,KXIP,KL Rahul,KN Ananthapadmanabhan,Rod Tucker
+2018,1136563,KKR v RCB,"Eden Gardens, Kolkata",2018-04-08T14:30Z,KKR,RCB,KKR,BOWL FIRST,176/7,177/6,KKR,Sunil Narine,Chettithody Shamshuddin,Abhijit Deshmukh
+2018,1136564,SRH v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2018-04-09T14:30Z,SRH,RR,SRH,BOWL FIRST,125/9,127/1,SRH,Shikhar Dhawan,Vineet Kulkarni,Nigel Llong
+2018,1136565,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2018-04-10T14:30Z,CSK,KKR,CSK,BOWL FIRST,202/6,205/5,CSK,Sam Billings,Chris Gaffaney,Anil Chaudhary
+2018,1136566,RR v DC,"Sawai Mansingh Stadium, Jaipur",2018-04-11T14:30Z,RR,DC,DC,BOWL FIRST,153/5,60/4,RR,Sanju Samson,KN Ananthapadmanabhan,Nitin Menon
+2018,1136567,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2018-04-12T14:30Z,SRH,MI,SRH,BOWL FIRST,147/8,151/9,SRH,Rashid Khan,Nigel Llong,Nandan
+2018,1136568,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2018-04-13T14:30Z,RCB,KXIP,RCB,BOWL FIRST,155,159/6,RCB,Umesh Yadav,Abhijit Deshmukh,Sundaram Ravi
+2018,1136569,MI v DC,"Wankhede Stadium, Mumbai",2018-04-14T10:30Z,MI,DC,DC,BOWL FIRST,194/7,195/3,DC,Jason Roy,KN Ananthapadmanabhan,Nitin Menon
+2018,1136570,KKR v SRH,"Eden Gardens, Kolkata",2018-04-14T14:30Z,KKR,SRH,SRH,BOWL FIRST,138/8,139/5,SRH,Billy Stanlake,Anil Chaudhary,Nand Kishore
+2018,1136571,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",2018-04-15T10:30Z,RCB,RR,RCB,BOWL FIRST,217/4,198/6,RR,Sanju Samson,Chettithody Shamshuddin,Sundaram Ravi
+2018,1136572,KXIP v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2018-04-15T14:30Z,KXIP,CSK,CSK,BOWL FIRST,197/7,193/5,KXIP,Chris Gayle,Vineet Kulkarni,Nandan
+2018,1136573,KKR v DC,"Eden Gardens, Kolkata",2018-04-16T14:30Z,KKR,DC,DC,BOWL FIRST,200/9,129,KKR,Nitish Rana,Anil Chaudhary,Nand Kishore
+2018,1136574,MI v RCB,"Wankhede Stadium, Mumbai",2018-04-17T14:30Z,MI,RCB,RCB,BOWL FIRST,213/6,167/8,MI,Rohit Sharma,Rod Tucker,Nitin Menon
+2018,1136575,RR v KKR,"Sawai Mansingh Stadium, Jaipur",2018-04-18T14:30Z,RR,KKR,KKR,BOWL FIRST,160/8,163/3,KKR,Nitish Rana,Abhijit Deshmukh,Sundaram Ravi
+2018,1136576,KXIP v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2018-04-19T14:30Z,KXIP,SRH,KXIP,BAT FIRST,193/3,178/4,KXIP,Chris Gayle,Nigel Llong,Anil Chaudhary
+2018,1136577,CSK v RR,"Maharashtra Cricket Association Stadium, Pune",2018-04-20T14:30Z,CSK,RR,RR,BOWL FIRST,204/5,140,CSK,Shane Watson,KN Ananthapadmanabhan,Nitin Menon
+2018,1136578,KKR v KXIP,"Eden Gardens, Kolkata",2018-04-21T10:30Z,KKR,KXIP,KXIP,BOWL FIRST,191/7,126/1,KXIP,KL Rahul,Chettithody Shamshuddin,Abhijit Deshmukh
+2018,1136579,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2018-04-21T14:30Z,RCB,DC,RCB,BOWL FIRST,174/5,176/4,RCB,AB de Villiers,Chris Gaffaney,Nandan
+2018,1136580,SRH v CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2018-04-22T10:30Z,SRH,CSK,SRH,BOWL FIRST,182/3,178/6,CSK,Ambati Rayudu,Vineet Kulkarni,Anil Chaudhary
+2018,1136581,RR v MI,"Sawai Mansingh Stadium, Jaipur",2018-04-22T14:30Z,RR,MI,MI,BAT FIRST,167/7,168/7,RR,Jofra Archer,KN Ananthapadmanabhan,Rod Tucker
+2018,1136582,DC v KXIP,"Arun Jaitley Stadium, Delhi",2018-04-23T14:30Z,DC,KXIP,DC,BOWL FIRST,143/8,139/8,KXIP,Ankit Rajpoot,Nand Kishore,Nandan
+2018,1136583,MI v SRH,"Wankhede Stadium, Mumbai",2018-04-24T14:30Z,MI,SRH,MI,BOWL FIRST,118,87,SRH,Rashid Khan,Chettithody Shamshuddin,Sundaram Ravi
+2018,1136584,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",2018-04-25T14:30Z,RCB,CSK,CSK,BOWL FIRST,205/8,207/5,CSK,MS Dhoni,Nigel Llong,Virender Sharma
+2018,1136585,SRH v KXIP,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2018-04-26T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,132/6,119,SRH,Ankit Rajpoot,Yeshwant Barde,Nandan
+2018,1136586,DC v KKR,"Arun Jaitley Stadium, Delhi",2018-04-27T14:30Z,DC,KKR,KKR,BOWL FIRST,219/4,164/9,DC,Shreyas Iyer,Chettithody Shamshuddin,Sundaram Ravi
+2018,1136587,CSK v MI,"Maharashtra Cricket Association Stadium, Pune",2018-04-28T14:30Z,CSK,MI,MI,BOWL FIRST,169/5,170/2,MI,Rohit Sharma,Chris Gaffaney,Nitin Menon
+2018,1136588,RR v SRH,"Sawai Mansingh Stadium, Jaipur",2018-04-29T10:30Z,RR,SRH,SRH,BAT FIRST,151/7,140/6,SRH,Kane Williamson,Bruce Oxenford,Nand Kishore
+2018,1136589,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2018-04-29T14:30Z,RCB,KKR,KKR,BOWL FIRST,175/4,176/4,KKR,Chris Lynn,Nigel Llong,Anil Chaudhary
+2018,1136590,CSK v DC,"Maharashtra Cricket Association Stadium, Pune",2018-04-30T14:30Z,CSK,DC,DC,BOWL FIRST,211/4,198/5,CSK,Shane Watson,Anil Dandekar,Chettithody Shamshuddin
+2018,1136591,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",2018-05-01T14:30Z,RCB,MI,MI,BOWL FIRST,167/7,153/7,RCB,Tim Southee,Marais Erasmus,Nitin Menon
+2018,1136592,DC v RR,"Arun Jaitley Stadium, Delhi",2018-05-02T14:30Z,DC,RR,RR,BOWL FIRST,196/6,146/5,DC,Rishabh Pant,Virender Sharma,Nandan
+2018,1136593,KKR v CSK,"Eden Gardens, Kolkata",2018-05-03T14:30Z,KKR,CSK,KKR,BOWL FIRST,177/5,180/4,KKR,Sunil Narine,Kumar Dharmasena,Abhijit Deshmukh
+2018,1136594,KXIP v MI,"Holkar Cricket Stadium, Indore",2018-05-04T14:30Z,KXIP,MI,MI,BOWL FIRST,174/6,176/4,MI,Suryakumar Yadav,Anil Dandekar,Sundaram Ravi
+2018,1136595,CSK v RCB,"Maharashtra Cricket Association Stadium, Pune",2018-05-05T10:30Z,CSK,RCB,CSK,BOWL FIRST,127/9,128/4,CSK,Ravindra Jadeja,Nitin Menon,Yeshwant Barde
+2018,1136596,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2018-05-05T14:30Z,SRH,DC,DC,BAT FIRST,163/5,164/3,SRH,Rashid Khan,Bruce Oxenford,Nandan
+2018,1136597,MI v KKR,"Wankhede Stadium, Mumbai",2018-05-06T10:30Z,MI,KKR,KKR,BOWL FIRST,181/4,168/6,MI,Hardik Pandya,Kumar Dharmasena,Abhijit Deshmukh
+2018,1136598,KXIP v RR,"Holkar Cricket Stadium, Indore",2018-05-06T14:30Z,KXIP,RR,KXIP,BOWL FIRST,152/9,155/4,KXIP,Mujeeb Ur Rahman,Chettithody Shamshuddin,Sundaram Ravi
+2018,1136599,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2018-05-07T14:30Z,SRH,RCB,RCB,BOWL FIRST,146,141/6,SRH,Kane Williamson,Bruce Oxenford,Virender Sharma
+2018,1136600,RR v KXIP,"Sawai Mansingh Stadium, Jaipur",2018-05-08T14:30Z,RR,KXIP,RR,BAT FIRST,158/8,143/7,RR,Jos Buttler,Marais Erasmus,Nitin Menon
+2018,1136601,KKR v MI,"Eden Gardens, Kolkata",2018-05-09T14:30Z,KKR,MI,KKR,BOWL FIRST,210/6,108,MI,Ishan Kishan,KN Ananthapadmanabhan,Anil Chaudhary
+2018,1136602,DC v SRH,"Arun Jaitley Stadium, Delhi",2018-05-10T14:30Z,DC,SRH,DC,BAT FIRST,187/5,191/1,SRH,Shikhar Dhawan,Anil Dandekar,Chettithody Shamshuddin
+2018,1136603,RR v CSK,"Sawai Mansingh Stadium, Jaipur",2018-05-11T14:30Z,RR,CSK,CSK,BAT FIRST,176/4,177/6,RR,Jos Buttler,Marais Erasmus,Yeshwant Barde
+2018,1136604,KXIP v KKR,"Holkar Cricket Stadium, Indore",2018-05-12T10:30Z,KXIP,KKR,KXIP,BOWL FIRST,245/6,214/8,KKR,Sunil Narine,Virender Sharma,Nandan
+2018,1136605,DC v RCB,"Arun Jaitley Stadium, Delhi",2018-05-12T14:30Z,DC,RCB,RCB,BOWL FIRST,181/4,187/5,RCB,AB de Villiers,KN Ananthapadmanabhan,Kumar Dharmasena
+2018,1136606,CSK v SRH,"Maharashtra Cricket Association Stadium, Pune",2018-05-13T10:30Z,CSK,SRH,CSK,BOWL FIRST,179/4,180/2,CSK,Ambati Rayudu,Marais Erasmus,Yeshwant Barde
+2018,1136607,MI v RR,"Wankhede Stadium, Mumbai",2018-05-13T14:30Z,MI,RR,RR,BOWL FIRST,168/6,171/3,RR,Jos Buttler,Narendra Menon,Nitin Menon
+2018,1136608,KXIP v RCB,"Holkar Cricket Stadium, Indore",2018-05-14T14:30Z,KXIP,RCB,RCB,BOWL FIRST,88,92/0,RCB,Umesh Yadav,Bruce Oxenford,Virender Sharma
+2018,1136609,KKR v RR,"Eden Gardens, Kolkata",2018-05-15T14:30Z,KKR,RR,KKR,BOWL FIRST,142,145/4,KKR,Kuldeep Yadav,Kumar Dharmasena,Anil Chaudhary
+2018,1136610,MI v KXIP,"Wankhede Stadium, Mumbai",2018-05-16T14:30Z,MI,KXIP,KXIP,BOWL FIRST,186/8,183/5,MI,Jasprit Bumrah,Marais Erasmus,Nitin Menon
+2018,1136611,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",2018-05-17T14:30Z,RCB,SRH,SRH,BOWL FIRST,218/6,204/3,RCB,AB de Villiers,Anil Dandekar,Sundaram Ravi
+2018,1136612,DC v CSK,"Arun Jaitley Stadium, Delhi",2018-05-18T14:30Z,DC,CSK,CSK,BOWL FIRST,162/5,128/6,DC,Harshal Patel,Vineet Kulkarni,Kumar Dharmasena
+2018,1136613,RR v RCB,"Sawai Mansingh Stadium, Jaipur",2018-05-19T10:30Z,RR,RCB,RR,BAT FIRST,164/5,134,RR,Shreyas Gopal,Bruce Oxenford,Virender Sharma
+2018,1136614,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2018-05-19T14:30Z,SRH,KKR,SRH,BAT FIRST,172/9,173/5,KKR,Chris Lynn,Anil Chaudhary,Sundaram Ravi
+2018,1136615,DC v MI,"Arun Jaitley Stadium, Delhi",2018-05-20T10:30Z,DC,MI,DC,BAT FIRST,174/4,163,DC,Amit Mishra,Kumar Dharmasena,Nandan
+2018,1136616,CSK v KXIP,"Maharashtra Cricket Association Stadium, Pune",2018-05-20T14:30Z,CSK,KXIP,CSK,BOWL FIRST,153,159/5,CSK,Lungi Ngidi,Nitin Menon,Yeshwant Barde
+2017,1082592,RPS v MI,"Maharashtra Cricket Association Stadium, Pune",2017-04-06T14:30Z,RPS,MI,RPS,BOWL FIRST,184/8,187/3,RPS,Steven Smith,Nand Kishore,Sundaram Ravi
+2017,1082593,GL v KKR,"Saurashtra Cricket Association Stadium, Rajkot",2017-04-07T14:30Z,GL,KKR,KKR,BOWL FIRST,183/4,184/0,KKR,Chris Lynn,Nitin Menon,Nandan
+2017,1082594,KXIP v RPS,"Holkar Cricket Stadium, Indore",2017-04-08T10:30Z,KXIP,RPS,KXIP,BOWL FIRST,163/6,164/4,KXIP,Glenn Maxwell,Chettithody Shamshuddin,Anil Chaudhary
+2017,1082595,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2017-04-08T14:30Z,RCB,DC,RCB,BAT FIRST,157/8,142/9,RCB,Kedar Jadhav,Virender Sharma,Sundaram Ravi
+2017,1082596,SRH v GL,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2017-04-09T10:30Z,SRH,GL,SRH,BOWL FIRST,135/7,140/1,SRH,Rashid Khan,Abhijit Deshmukh,Nigel Llong
+2017,1082597,MI v KKR,"Wankhede Stadium, Mumbai",2017-04-09T14:30Z,MI,KKR,MI,BOWL FIRST,178/7,180/6,MI,Nitish Rana,Nitin Menon,Nandan
+2017,1082598,KXIP v RCB,"Holkar Cricket Stadium, Indore",2017-04-10T14:30Z,KXIP,RCB,RCB,BAT FIRST,148/4,150/2,KXIP,Axar Patel,Chettithody Shamshuddin,Anil Chaudhary
+2017,1082599,RPS v DC,"Maharashtra Cricket Association Stadium, Pune",2017-04-11T14:30Z,RPS,DC,RPS,BOWL FIRST,205/4,108,DC,Sanju Samson,Anil Dandekar,Sundaram Ravi
+2017,1082600,MI v SRH,"Wankhede Stadium, Mumbai",2017-04-12T14:30Z,MI,SRH,MI,BOWL FIRST,158/8,159/6,MI,Jasprit Bumrah,Nitin Menon,Nandan
+2017,1082601,KKR v KXIP,"Eden Gardens, Kolkata",2017-04-13T14:30Z,KKR,KXIP,KKR,BOWL FIRST,170/9,171/2,KKR,Sunil Narine,Abhijit Deshmukh,Nigel Llong
+2017,1082602,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",2017-04-14T10:30Z,RCB,MI,MI,BOWL FIRST,142/5,145/6,MI,Kieron Pollard,KN Ananthapadmanabhan,Anil Chaudhary
+2017,1082603,GL v RPS,"Saurashtra Cricket Association Stadium, Rajkot",2017-04-14T14:30Z,GL,RPS,GL,BOWL FIRST,171/8,172/3,GL,Andrew Tye,Nand Kishore,Sundaram Ravi
+2017,1082604,KKR v SRH,"Eden Gardens, Kolkata",2017-04-15T10:30Z,KKR,SRH,SRH,BOWL FIRST,172/6,155/6,KKR,Robin Uthappa,Anil Dandekar,Nigel Llong
+2017,1082605,DC v KXIP,"Arun Jaitley Stadium, Delhi",2017-04-15T14:30Z,DC,KXIP,DC,BAT FIRST,188/6,137/9,DC,Corey Anderson,Nitin Menon,Yeshwant Barde
+2017,1082606,MI v GL,"Wankhede Stadium, Mumbai",2017-04-16T10:30Z,MI,GL,MI,BOWL FIRST,176/4,177/4,MI,Nitish Rana,Nand Kishore,Sundaram Ravi
+2017,1082607,RCB v RPS,"M.Chinnaswamy Stadium, Bengaluru",2017-04-16T14:30Z,RCB,RPS,RCB,BOWL FIRST,161/8,134/9,RPS,Ben Stokes,KN Ananthapadmanabhan,Chettithody Shamshuddin
+2017,1082608,DC v KKR,"Arun Jaitley Stadium, Delhi",2017-04-17T10:30Z,DC,KKR,DC,BAT FIRST,168/7,169/6,KKR,Nathan Coulter-Nile,Nitin Menon,Nandan
+2017,1082609,SRH v KXIP,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2017-04-17T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,159/6,154,SRH,Bhuvneshwar Kumar,Anil Dandekar,Abhijit Deshmukh
+2017,1082610,GL v RCB,"Saurashtra Cricket Association Stadium, Rajkot",2017-04-18T14:30Z,GL,RCB,GL,BOWL FIRST,213/2,192/7,RCB,Chris Gayle,Virender Sharma,Sundaram Ravi
+2017,1082611,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2017-04-19T14:30Z,SRH,DC,SRH,BAT FIRST,191/4,176/5,SRH,Kane Williamson,Chris Gaffaney,Nigel Llong
+2017,1082612,KXIP v MI,"Holkar Cricket Stadium, Indore",2017-04-20T14:30Z,KXIP,MI,MI,BOWL FIRST,198/4,199/2,MI,Jos Buttler,Chettithody Shamshuddin,Marais Erasmus
+2017,1082613,KKR v GL,"Eden Gardens, Kolkata",2017-04-21T14:30Z,KKR,GL,GL,BOWL FIRST,187/5,188/6,GL,Suresh Raina,Chris Gaffaney,Nitin Menon
+2017,1082615,RPS v SRH,"Maharashtra Cricket Association Stadium, Pune",2017-04-22T10:30Z,RPS,SRH,RPS,BOWL FIRST,176/3,179/4,RPS,MS Dhoni,Anil Dandekar,Abhijit Deshmukh
+2017,1082614,MI v DC,"Wankhede Stadium, Mumbai",2017-04-22T14:30Z,MI,DC,DC,BOWL FIRST,142/8,128/7,MI,Mitchell McClenaghan,Nand Kishore,Sundaram Ravi
+2017,1082616,GL v KXIP,"Saurashtra Cricket Association Stadium, Rajkot",2017-04-23T10:30Z,GL,KXIP,GL,BOWL FIRST,188/7,162/7,KXIP,Hashim Amla,Marais Erasmus,Anil Chaudhary
+2017,1082617,KKR v RCB,"Eden Gardens, Kolkata",2017-04-23T14:30Z,KKR,RCB,RCB,BOWL FIRST,131,49,KKR,Nathan Coulter-Nile,Chris Gaffaney,Nandan
+2017,1082618,MI v RPS,"Wankhede Stadium, Mumbai",2017-04-24T14:30Z,MI,RPS,MI,BOWL FIRST,160/6,157/8,RPS,Ben Stokes,Nand Kishore,Sundaram Ravi
+2017,1082620,RPS v KKR,"Maharashtra Cricket Association Stadium, Pune",2017-04-26T14:30Z,RPS,KKR,KKR,BOWL FIRST,182/5,184/3,KKR,Robin Uthappa,Anil Dandekar,Nigel Llong
+2017,1082621,RCB v GL,"M.Chinnaswamy Stadium, Bengaluru",2017-04-27T14:30Z,RCB,GL,GL,BOWL FIRST,134,135/3,GL,Andrew Tye,Chettithody Shamshuddin,Anil Chaudhary
+2017,1082622,KKR v DC,"Eden Gardens, Kolkata",2017-04-28T10:30Z,KKR,DC,KKR,BOWL FIRST,160/6,161/3,KKR,Gautam Gambhir,Nigel Llong,Sundaram Ravi
+2017,1082623,KXIP v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2017-04-28T14:30Z,KXIP,SRH,KXIP,BOWL FIRST,207/3,181/9,SRH,Rashid Khan,Nitin Menon,Nandan
+2017,1082624,RPS v RCB,"Maharashtra Cricket Association Stadium, Pune",2017-04-29T10:30Z,RPS,RCB,RCB,BOWL FIRST,157/3,96/9,RPS,Lockie Ferguson,KN Ananthapadmanabhan,Marais Erasmus
+2017,1082625,GL v MI,"Saurashtra Cricket Association Stadium, Rajkot",2017-04-29T14:30Z,GL,MI,GL,BAT FIRST,153/9,153,MI,Krunal Pandya,Chris Gaffaney,Anil Chaudhary
+2017,1082626,KXIP v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2017-04-30T10:30Z,KXIP,DC,KXIP,BOWL FIRST,67,68/0,KXIP,Sandeep Sharma,Yeshwant Barde,Nandan
+2017,1082627,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2017-04-30T14:30Z,SRH,KKR,KKR,BOWL FIRST,209/3,161/7,SRH,David Warner,Anil Dandekar,Sundaram Ravi
+2017,1082628,MI v RCB,"Wankhede Stadium, Mumbai",2017-05-01T10:30Z,MI,RCB,RCB,BAT FIRST,162/8,165/5,MI,Rohit Sharma,Chris Gaffaney,Anil Chaudhary
+2017,1082629,RPS v GL,"Maharashtra Cricket Association Stadium, Pune",2017-05-01T14:30Z,RPS,GL,RPS,BOWL FIRST,161,167/5,RPS,Ben Stokes,Chettithody Shamshuddin,Marais Erasmus
+2017,1082630,DC v SRH,"Arun Jaitley Stadium, Delhi",2017-05-02T14:30Z,DC,SRH,DC,BOWL FIRST,185/3,189/4,DC,Mohammed Shami,Nitin Menon,Yeshwant Barde
+2017,1082631,KKR v RPS,"Eden Gardens, Kolkata",2017-05-03T14:30Z,KKR,RPS,RPS,BOWL FIRST,155/8,158/6,RPS,Rahul Tripathi,KN Ananthapadmanabhan,Nand Kishore
+2017,1082632,DC v GL,"Arun Jaitley Stadium, Delhi",2017-05-04T14:30Z,DC,GL,DC,BOWL FIRST,208/7,214/3,DC,Rishabh Pant,Marais Erasmus,Nitin Menon
+2017,1082633,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2017-05-05T14:30Z,RCB,KXIP,RCB,BOWL FIRST,138/7,119,KXIP,Sandeep Sharma,Chettithody Shamshuddin,Chris Gaffaney
+2017,1082634,SRH v RPS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2017-05-06T10:30Z,SRH,RPS,SRH,BOWL FIRST,148/8,136/9,RPS,Jaydev Unadkat,KN Ananthapadmanabhan,Anil Chaudhary
+2017,1082635,DC v MI,"Arun Jaitley Stadium, Delhi",2017-05-06T14:30Z,DC,MI,DC,BOWL FIRST,212/3,66,MI,Lendl Simmons,Nitin Menon,Nandan
+2017,1082636,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2017-05-07T10:30Z,RCB,KKR,KKR,BOWL FIRST,158/6,159/4,KKR,Sunil Narine,Anil Dandekar,Chettithody Shamshuddin
+2017,1082637,KXIP v GL,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2017-05-07T14:30Z,KXIP,GL,GL,BOWL FIRST,189/3,192/4,GL,Dwayne Smith,Nand Kishore,Virender Sharma
+2017,1082638,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2017-05-08T14:30Z,SRH,MI,MI,BAT FIRST,138/7,140/3,SRH,Shikhar Dhawan,KN Ananthapadmanabhan,Marais Erasmus
+2017,1082639,KXIP v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2017-05-09T14:30Z,KXIP,KKR,KKR,BOWL FIRST,167/6,153/6,KXIP,Mohit Sharma,Nand Kishore,Sundaram Ravi
+2017,1082640,GL v DC,"Green Park, Kanpur",2017-05-10T14:30Z,GL,DC,DC,BOWL FIRST,195/5,197/8,DC,Shreyas Iyer,Anil Chaudhary,Yeshwant Barde
+2017,1082641,MI v KXIP,"Wankhede Stadium, Mumbai",2017-05-11T14:30Z,MI,KXIP,MI,BOWL FIRST,230/3,223/6,KXIP,Wriddhiman Saha,Abhijit Deshmukh,Nand Kishore
+2017,1082642,DC v RPS,"Arun Jaitley Stadium, Delhi",2017-05-12T14:30Z,DC,RPS,DC,BAT FIRST,168/8,161/7,DC,Karun Nair,KN Ananthapadmanabhan,Nandan
+2017,1082643,GL v SRH,"Green Park, Kanpur",2017-05-13T10:30Z,GL,SRH,SRH,BOWL FIRST,154,158/2,SRH,Mohammed Siraj,Anil Chaudhary,Nitin Menon
+2017,1082644,KKR v MI,"Eden Gardens, Kolkata",2017-05-13T14:30Z,KKR,MI,KKR,BOWL FIRST,173/5,164/8,MI,Ambati Rayudu,Nand Kishore,Sundaram Ravi
+2017,1082645,RPS v KXIP,"Maharashtra Cricket Association Stadium, Pune",2017-05-14T10:30Z,RPS,KXIP,RPS,BOWL FIRST,73,78/1,RPS,Jaydev Unadkat,Anil Dandekar,Abhijit Deshmukh
+2017,1082646,DC v RCB,"Arun Jaitley Stadium, Delhi",2017-05-14T14:30Z,DC,RCB,RCB,BAT FIRST,161/6,151,RCB,Harshal Patel,Chettithody Shamshuddin,Nandan
+2016,980901,MI v RPS,"Wankhede Stadium, Mumbai",2016-04-09T14:30Z,MI,RPS,MI,BAT FIRST,121/8,126/1,RPS,Ajinkya Rahane,Kumar Dharmasena,Nandan
+2016,980905,KXIP v GL,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2016-04-11T14:30Z,KXIP,GL,GL,BOWL FIRST,161/6,162/5,GL,Aaron Finch,Vineet Kulkarni,Anil Chaudhary
+2016,980907,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",2016-04-12T14:30Z,RCB,SRH,SRH,BOWL FIRST,227/4,182/6,RCB,AB de Villiers,Kumar Dharmasena,Virender Sharma
+2016,980909,KKR v MI,"Eden Gardens, Kolkata",2016-04-13T14:30Z,KKR,MI,MI,BOWL FIRST,187/5,188/4,MI,Rohit Sharma,Nitin Menon,Sundaram Ravi
+2016,980913,DC v KXIP,"Arun Jaitley Stadium, Delhi",2016-04-15T14:30Z,DC,KXIP,DC,BOWL FIRST,111/9,113/2,DC,Amit Mishra,Chettithody Shamshuddin,Sundaram Ravi
+2016,980917,MI v GL,"Wankhede Stadium, Mumbai",2016-04-16T14:30Z,MI,GL,GL,BOWL FIRST,143/8,147/7,GL,Aaron Finch,Kumar Dharmasena,Virender Sharma
+2016,980921,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2016-04-17T14:30Z,RCB,DC,DC,BOWL FIRST,191/5,192/3,DC,Quinton de Kock,Vineet Kulkarni,Nand Kishore
+2016,980923,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2016-04-18T14:30Z,SRH,MI,SRH,BOWL FIRST,142/6,145/3,SRH,David Warner,Kumar Dharmasena,Virender Sharma
+2016,980925,KXIP v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2016-04-19T14:30Z,KXIP,KKR,KKR,BOWL FIRST,138/8,141/4,KKR,Robin Uthappa,Chettithody Shamshuddin,Sundaram Ravi
+2016,980927,MI v RCB,"Wankhede Stadium, Mumbai",2016-04-20T14:30Z,MI,RCB,MI,BOWL FIRST,170/7,171/4,MI,Rohit Sharma,Anil Chaudhary,Nandan
+2016,980935,SRH v KXIP,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2016-04-23T14:30Z,SRH,KXIP,SRH,BOWL FIRST,143/6,146/5,SRH,Mustafizur Rahman,Anil Chaudhary,Nandan
+2016,980941,KXIP v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2016-04-25T14:30Z,KXIP,MI,KXIP,BOWL FIRST,189/6,164/7,MI,Parthiv Patel,Rod Tucker,Nitin Menon
+2016,980943,SRH v RPS,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2016-04-26T14:30Z,SRH,RPS,RPS,BOWL FIRST,118/8,94/3,RPS,Ashok Dinda,Anil Dandekar,Nandan
+2016,980945,DC v GL,"Arun Jaitley Stadium, Delhi",2016-04-27T14:30Z,DC,GL,DC,BOWL FIRST,172/6,171/5,GL,Chris Morris,Marais Erasmus,Sundaram Ravi
+2016,980947,MI v KKR,"Wankhede Stadium, Mumbai",2016-04-28T14:30Z,MI,KKR,MI,BOWL FIRST,174/5,178/4,MI,Rohit Sharma,Rod Tucker,Nitin Menon
+2016,980949,RPS v GL,"Maharashtra Cricket Association Stadium, Pune",2016-04-29T14:30Z,RPS,GL,GL,BOWL FIRST,195/3,196/7,GL,Dwayne Smith,Bruce Oxenford,Chris Gaffaney
+2016,980951,DC v KKR,"Arun Jaitley Stadium, Delhi",2016-04-30T10:30Z,DC,KKR,KKR,BOWL FIRST,186/8,159,DC,Carlos Brathwaite,KN Ananthapadmanabhan,Marais Erasmus
+2016,980953,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2016-04-30T14:30Z,SRH,RCB,RCB,BOWL FIRST,194/5,179/6,SRH,David Warner,Kumar Dharmasena,Anil Chaudhary
+2016,980955,GL v KXIP,"Saurashtra Cricket Association Stadium, Rajkot",2016-05-01T10:30Z,GL,KXIP,GL,BOWL FIRST,154,131/9,KXIP,Axar Patel,Bruce Oxenford,Virender Sharma
+2016,980957,RPS v MI,"Maharashtra Cricket Association Stadium, Pune",2016-05-01T14:30Z,RPS,MI,MI,BOWL FIRST,159/5,161/2,MI,Rohit Sharma,Rod Tucker,Anil Dandekar
+2016,980959,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2016-05-02T14:30Z,RCB,KKR,KKR,BOWL FIRST,185/7,189/5,KKR,Andre Russell,Marais Erasmus,Sundaram Ravi
+2016,980961,GL v DC,"Saurashtra Cricket Association Stadium, Rajkot",2016-05-03T14:30Z,GL,DC,DC,BOWL FIRST,149/7,150/2,DC,Rishabh Pant,Bruce Oxenford,Chris Gaffaney
+2016,980965,DC v RPS,"Arun Jaitley Stadium, Delhi",2016-05-05T14:30Z,DC,RPS,RPS,BOWL FIRST,162/7,166/3,RPS,Ajinkya Rahane,Rod Tucker,Chettithody Shamshuddin
+2016,980973,MI v SRH,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2016-05-08T10:30Z,MI,SRH,MI,BOWL FIRST,177/3,92,SRH,Ashish Nehra,Chettithody Shamshuddin,Sundaram Ravi
+2016,980975,KKR v GL,"Eden Gardens, Kolkata",2016-05-08T14:30Z,KKR,GL,GL,BOWL FIRST,158/4,164/5,GL,Praveen Kumar,Rod Tucker,Marais Erasmus
+2016,980977,KXIP v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2016-05-09T14:30Z,KXIP,RCB,KXIP,BOWL FIRST,175/6,174/4,RCB,Shane Watson,Kumar Dharmasena,Anil Chaudhary
+2016,980979,RPS v SRH,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2016-05-10T14:30Z,RPS,SRH,SRH,BAT FIRST,137/8,133/8,SRH,Adam Zampa,Chris Gaffaney,Virender Sharma
+2016,980981,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",2016-05-11T14:30Z,RCB,MI,MI,BOWL FIRST,151/4,153/4,MI,Krunal Pandya,Anil Dandekar,Chettithody Shamshuddin
+2016,980983,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2016-05-12T14:30Z,SRH,DC,DC,BOWL FIRST,146/8,150/3,DC,Chris Morris,Krishnamachari Bharatan,Marais Erasmus
+2016,980985,MI v KXIP,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2016-05-13T14:30Z,MI,KXIP,MI,BAT FIRST,124/9,127/3,KXIP,Marcus Stoinis,Kumar Dharmasena,Nandan
+2016,980987,RCB v GL,"M.Chinnaswamy Stadium, Bengaluru",2016-05-14T10:30Z,RCB,GL,GL,BOWL FIRST,248/3,104,RCB,AB de Villiers,Anil Dandekar,Virender Sharma
+2016,980989,KKR v RPS,"Eden Gardens, Kolkata",2016-05-14T14:30Z,KKR,RPS,RPS,BAT FIRST,103/6,66/2,KKR,Yusuf Pathan,Bruce Oxenford,Nand Kishore
+2016,980991,KXIP v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2016-05-15T10:30Z,KXIP,SRH,KXIP,BAT FIRST,179/4,180/3,SRH,Hashim Amla,KN Ananthapadmanabhan,Marais Erasmus
+2016,980993,MI v DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2016-05-15T14:30Z,MI,DC,DC,BOWL FIRST,206/4,126,MI,Krunal Pandya,Nitin Menon,Nandan
+2016,980995,KKR v RCB,"Eden Gardens, Kolkata",2016-05-16T14:30Z,KKR,RCB,RCB,BOWL FIRST,183/5,186/1,RCB,Virat Kohli,Chris Gaffaney,Nand Kishore
+2016,980997,RPS v DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2016-05-17T14:30Z,RPS,DC,RPS,BOWL FIRST,121/6,76/1,RPS,Ashok Dinda,Chettithody Shamshuddin,Nitin Menon
+2016,980999,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2016-05-18T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,211/3,120/9,RCB,Virat Kohli,KN Ananthapadmanabhan,Marais Erasmus
+2016,981001,GL v KKR,"Green Park, Kanpur",2016-05-19T14:30Z,GL,KKR,GL,BOWL FIRST,124/8,125/4,GL,Dwayne Smith,Anil Chaudhary,Nandan
+2016,981003,DC v SRH,"Shaheed Veer Narayan Singh International Stadium, Raipur",2016-05-20T14:30Z,DC,SRH,DC,BOWL FIRST,158/7,161/4,DC,Karun Nair,Bruce Oxenford,Nand Kishore
+2016,981005,RPS v KXIP,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2016-05-21T10:30Z,RPS,KXIP,KXIP,BAT FIRST,172/7,173/6,RPS,MS Dhoni,Kumar Dharmasena,Nitin Menon
+2016,981007,GL v MI,"Green Park, Kanpur",2016-05-21T14:30Z,GL,MI,GL,BOWL FIRST,172/8,173/4,GL,Suresh Raina,Anil Chaudhary,Nandan
+2016,981009,KKR v SRH,"Eden Gardens, Kolkata",2016-05-22T10:30Z,KKR,SRH,SRH,BOWL FIRST,171/6,149/8,KKR,Yusuf Pathan,KN Ananthapadmanabhan,Marais Erasmus
+2016,981011,DC v RCB,"Shaheed Veer Narayan Singh International Stadium, Raipur",2016-05-22T14:30Z,DC,RCB,RCB,BOWL FIRST,138/8,139/4,RCB,Virat Kohli,Bruce Oxenford,Nand Kishore
+2015,829705,KKR v MI,"Eden Gardens, Kolkata",2015-04-08T14:30Z,KKR,MI,KKR,BOWL FIRST,168/3,170/3,KKR,Morne Morkel,Chettithody Shamshuddin,Sundaram Ravi
+2015,829707,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2015-04-09T14:30Z,CSK,DC,DC,BOWL FIRST,150/7,149/9,CSK,Ashish Nehra,Vineet Kulkarni,Richard Illingworth
+2015,829709,KXIP v RR,"Maharashtra Cricket Association Stadium, Pune",2015-04-10T14:30Z,KXIP,RR,KXIP,BOWL FIRST,162/7,136/8,RR,James Faulkner,Chris Gaffaney,Simon Fry
+2015,829711,CSK v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2015-04-11T10:30Z,CSK,SRH,CSK,BAT FIRST,209/4,164/6,CSK,Brendon McCullum,Vineet Kulkarni,Richard Illingworth
+2015,829713,KKR v RCB,"Eden Gardens, Kolkata",2015-04-11T14:30Z,KKR,RCB,RCB,BOWL FIRST,177/6,179/7,RCB,Chris Gayle,Chettithody Shamshuddin,Sundaram Ravi
+2015,829715,DC v RR,"Arun Jaitley Stadium, Delhi",2015-04-12T10:30Z,DC,RR,RR,BOWL FIRST,184/3,186/7,RR,Deepak Hooda,Chris Gaffaney,Simon Fry
+2015,829717,MI v KXIP,"Wankhede Stadium, Mumbai",2015-04-12T14:30Z,MI,KXIP,MI,BOWL FIRST,177/5,159/7,KXIP,George Bailey,Anil Chaudhary,Krishnamachari Srinivasan
+2015,829719,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",2015-04-13T14:30Z,RCB,SRH,SRH,BOWL FIRST,166,172/2,SRH,David Warner,Rajesh Deshpande,Richard Illingworth
+2015,829721,RR v MI,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2015-04-14T14:30Z,RR,MI,MI,BAT FIRST,164/5,165/3,RR,Steven Smith,Anil Chaudhary,Simon Fry
+2015,829725,KXIP v DC,"Maharashtra Cricket Association Stadium, Pune",2015-04-15T14:30Z,KXIP,DC,KXIP,BAT FIRST,165/7,169/5,DC,Mayank Agarwal,Krishnaraj Srinath,Chris Gaffaney
+2015,829727,SRH v RR,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2015-04-16T14:30Z,SRH,RR,RR,BOWL FIRST,127/5,131/4,RR,Ajinkya Rahane,Pashchim Pathak,Sundaram Ravi
+2015,829729,MI v CSK,"Wankhede Stadium, Mumbai",2015-04-17T14:30Z,MI,CSK,MI,BAT FIRST,183/7,189/4,CSK,Ashish Nehra,Marais Erasmus,Anil Chaudhary
+2015,829731,SRH v DC,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2015-04-18T10:30Z,SRH,DC,DC,BAT FIRST,167/4,163/8,DC,Jean-Paul Duminy,Pashchim Pathak,Sundaram Ravi
+2015,829733,KXIP v KKR,"Maharashtra Cricket Association Stadium, Pune",2015-04-18T14:30Z,KXIP,KKR,KKR,BOWL FIRST,155/9,159/6,KKR,Andre Russell,Simon Fry,Nandan
+2015,829735,RR v CSK,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2015-04-19T10:30Z,RR,CSK,CSK,BAT FIRST,156/4,157/2,RR,Ajinkya Rahane,Marais Erasmus,Anil Chaudhary
+2015,829737,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",2015-04-19T14:30Z,RCB,MI,RCB,BOWL FIRST,209/7,191/7,MI,Harbhajan Singh,Vineet Kulkarni,Richard Illingworth
+2015,829739,DC v KKR,"Arun Jaitley Stadium, Delhi",2015-04-20T14:30Z,DC,KKR,KKR,BOWL FIRST,146/8,147/4,KKR,Umesh Yadav,Chris Gaffaney,Simon Fry
+2015,829741,RR v KXIP,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2015-04-21T14:30Z,RR,KXIP,KXIP,BOWL FIRST,191/6,191/6,KXIP,Shaun Marsh,Marais Erasmus,Sundaram Ravi
+2015,829743,SRH v KKR,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2015-04-22T10:30Z,SRH,KKR,KKR,BOWL FIRST,176/4,101/4,SRH,David Warner,Vineet Kulkarni,Richard Illingworth
+2015,829745,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",2015-04-22T14:30Z,RCB,CSK,RCB,BOWL FIRST,181/8,154/8,CSK,Suresh Raina,Johan Cloete,Chettithody Shamshuddin
+2015,829747,DC v MI,"Arun Jaitley Stadium, Delhi",2015-04-23T14:30Z,DC,MI,MI,BOWL FIRST,190/4,153/9,DC,Shreyas Iyer,Simon Fry,Nandan
+2015,829749,RR v RCB,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2015-04-24T14:30Z,RR,RCB,RCB,BOWL FIRST,130/9,134/1,RCB,Mitchell Starc,Marais Erasmus,Sundaram Ravi
+2015,829751,MI v SRH,"Wankhede Stadium, Mumbai",2015-04-25T10:30Z,MI,SRH,MI,BAT FIRST,157/8,137/8,MI,Lasith Malinga,Kumar Dharmasena,Chris Gaffaney
+2015,829753,CSK v KXIP,"MA Chidambaram Stadium, Chepauk, Chennai",2015-04-25T14:30Z,CSK,KXIP,CSK,BAT FIRST,192/3,95/9,CSK,Brendon McCullum,Johan Cloete,Chettithody Shamshuddin
+2015,829757,DC v RCB,"Arun Jaitley Stadium, Delhi",2015-04-26T14:30Z,DC,RCB,RCB,BOWL FIRST,95,99/0,RCB,Varun Aaron,Marais Erasmus,Sundaram Ravi
+2015,829759,KXIP v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2015-04-27T14:30Z,KXIP,SRH,KXIP,BOWL FIRST,150/6,130/9,SRH,Trent Boult,Kumar Dharmasena,Chris Gaffaney
+2015,829765,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2015-04-28T14:30Z,CSK,KKR,KKR,BOWL FIRST,134/6,132/9,CSK,Dwayne Bravo,Rajesh Deshpande,Vineet Kulkarni
+2015,829723,KKR v CSK,"Eden Gardens, Kolkata",2015-04-30T14:30Z,KKR,CSK,KKR,BOWL FIRST,165/9,169/3,KKR,Andre Russell,Marais Erasmus,Anil Chaudhary
+2015,829767,DC v KXIP,"Arun Jaitley Stadium, Delhi",2015-05-01T10:30Z,DC,KXIP,DC,BOWL FIRST,118/8,119/1,DC,Nathan Coulter-Nile,Richard Illingworth,Sundaram Ravi
+2015,829769,MI v RR,"Wankhede Stadium, Mumbai",2015-05-01T14:30Z,MI,RR,RR,BOWL FIRST,187/5,179/7,MI,Ambati Rayudu,Kumar Dharmasena,Nandan
+2015,829771,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2015-05-02T10:30Z,RCB,KKR,RCB,BOWL FIRST,111/4,115/3,RCB,Mandeep Singh,Johan Cloete,Pashchim Pathak
+2015,829773,SRH v CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2015-05-02T14:30Z,SRH,CSK,CSK,BOWL FIRST,192/7,170/6,SRH,David Warner,Anil Chaudhary,Krishnamachari Srinivasan
+2015,829775,KXIP v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2015-05-03T10:30Z,KXIP,MI,MI,BAT FIRST,172/3,149/7,MI,Lendl Simmons,Vineet Kulkarni,Richard Illingworth
+2015,829779,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2015-05-04T10:30Z,CSK,RCB,CSK,BAT FIRST,148/9,124,CSK,Suresh Raina,Chettithody Shamshuddin,Krishnaraj Srinath
+2015,829781,KKR v SRH,"Eden Gardens, Kolkata",2015-05-04T14:30Z,KKR,SRH,SRH,BOWL FIRST,167/7,132/9,KKR,Umesh Yadav,Marais Erasmus,Anil Chaudhary
+2015,829783,MI v DC,"Wankhede Stadium, Mumbai",2015-05-05T14:30Z,MI,DC,DC,BAT FIRST,152/6,153/5,MI,Harbhajan Singh,Kumar Dharmasena,Chris Gaffaney
+2015,829785,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2015-05-06T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,226/3,88,RCB,Chris Gayle,Vineet Kulkarni,Richard Illingworth
+2015,829787,RR v SRH,"Brabourne Stadium, Mumbai",2015-05-07T10:30Z,RR,SRH,RR,BOWL FIRST,201/4,194/7,SRH,Eoin Morgan,Johan Cloete,Chettithody Shamshuddin
+2015,829761,KKR v DC,"Eden Gardens, Kolkata",2015-05-07T14:30Z,KKR,DC,KKR,BAT FIRST,171/7,158/6,KKR,Piyush Chawla,Marais Erasmus,Anil Chaudhary
+2015,829789,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",2015-05-08T14:30Z,CSK,MI,CSK,BAT FIRST,158/5,159/4,MI,Hardik Pandya,Chris Gaffaney,Nandan
+2015,829791,KKR v KXIP,"Eden Gardens, Kolkata",2015-05-09T10:30Z,KKR,KXIP,KXIP,BAT FIRST,183/5,184/9,KKR,Andre Russell,Kumar Dharmasena,Anil Chaudhary
+2015,829793,DC v SRH,"Shaheed Veer Narayan Singh International Stadium, Raipur",2015-05-09T14:30Z,DC,SRH,SRH,BAT FIRST,163/4,157/4,SRH,Moises Henriques,Vineet Kulkarni,Sundaram Ravi
+2015,829795,MI v RCB,"Wankhede Stadium, Mumbai",2015-05-10T10:30Z,MI,RCB,RCB,BAT FIRST,235/1,196/7,RCB,AB de Villiers,Johan Cloete,Chettithody Shamshuddin
+2015,829797,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",2015-05-10T14:30Z,CSK,RR,CSK,BAT FIRST,157/5,145/9,CSK,Ravindra Jadeja,Marais Erasmus,Nandan
+2015,829799,SRH v KXIP,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2015-05-11T14:30Z,SRH,KXIP,SRH,BAT FIRST,185/5,180/7,SRH,David Warner,Kumar Dharmasena,Anil Chaudhary
+2015,829801,DC v CSK,"Shaheed Veer Narayan Singh International Stadium, Raipur",2015-05-12T14:30Z,DC,CSK,CSK,BAT FIRST,119/6,120/4,DC,Zaheer Khan,Vineet Kulkarni,Richard Illingworth
+2015,829803,KXIP v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2015-05-13T14:30Z,KXIP,RCB,RCB,BOWL FIRST,106/6,84/6,KXIP,Axar Patel,Johan Cloete,Chettithody Shamshuddin
+2015,829805,MI v KKR,"Wankhede Stadium, Mumbai",2015-05-14T14:30Z,MI,KKR,KKR,BOWL FIRST,171/4,166/7,MI,Hardik Pandya,Vineet Kulkarni,Richard Illingworth
+2015,829807,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2015-05-15T14:30Z,SRH,RCB,SRH,BAT FIRST,135/3,83/4,RCB,Virat Kohli,Kumar Dharmasena,Anil Chaudhary
+2015,829809,KXIP v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2015-05-16T10:30Z,KXIP,CSK,KXIP,BAT FIRST,130/7,134/3,CSK,Pawan Negi,Chettithody Shamshuddin,Nandan
+2015,829811,RR v KKR,"Brabourne Stadium, Mumbai",2015-05-16T14:30Z,RR,KKR,RR,BAT FIRST,199/6,190/9,RR,Shane Watson,Rajesh Deshpande,Richard Illingworth
+2015,829815,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2015-05-17T14:30Z,SRH,MI,SRH,BAT FIRST,113,114/1,MI,Mitchell McClenaghan,Krishnaraj Srinath,Chris Gaffaney
+2014,729279,MI v KKR,"Sheikh Zayed Stadium, Abu Dhabi",2014-04-16T14:30Z,MI,KKR,KKR,BAT FIRST,163/5,122/7,KKR,Jacques Kallis,Richard Illingworth,Marais Erasmus
+2014,729281,DC v RCB,Sharjah Cricket Stadium,2014-04-17T14:30Z,DC,RCB,RCB,BOWL FIRST,145/4,146/2,RCB,Yuzvendra Chahal,Aleem Dar,Sundaram Ravi
+2014,729283,CSK v KXIP,"Sheikh Zayed Stadium, Abu Dhabi",2014-04-18T10:30Z,CSK,KXIP,CSK,BAT FIRST,205/4,206/4,KXIP,Glenn Maxwell,Chettithody Shamshuddin,Richard Illingworth
+2014,729285,SRH v RR,"Sheikh Zayed Stadium, Abu Dhabi",2014-04-18T14:30Z,SRH,RR,RR,BOWL FIRST,133/6,135/6,RR,Ajinkya Rahane,Billy Bowden,Richard Illingworth
+2014,729287,RCB v MI,Dubai International Cricket Stadium,2014-04-19T10:30Z,RCB,MI,RCB,BOWL FIRST,115/9,116/3,RCB,Parthiv Patel,Aleem Dar,Anil Chaudhary
+2014,729289,KKR v DC,Dubai International Cricket Stadium,2014-04-19T14:30Z,KKR,DC,KKR,BAT FIRST,166/5,167/6,DC,Jean-Paul Duminy,Vineet Kulkarni,Aleem Dar
+2014,729291,RR v KXIP,Sharjah Cricket Stadium,2014-04-20T14:30Z,RR,KXIP,KXIP,BOWL FIRST,191/5,193/3,KXIP,Glenn Maxwell,Billy Bowden,Marais Erasmus
+2014,729293,CSK v DC,"Sheikh Zayed Stadium, Abu Dhabi",2014-04-21T14:30Z,CSK,DC,CSK,BAT FIRST,177/7,84,CSK,Suresh Raina,Chettithody Shamshuddin,Richard Illingworth
+2014,729295,KXIP v SRH,Sharjah Cricket Stadium,2014-04-22T14:30Z,KXIP,SRH,SRH,BOWL FIRST,193/6,121,KXIP,Glenn Maxwell,Marais Erasmus,Sundaram Ravi
+2014,729297,RR v CSK,Dubai International Cricket Stadium,2014-04-23T14:30Z,RR,CSK,RR,BOWL FIRST,140/6,133,CSK,Ravindra Jadeja,Kumar Dharmasena,Richard Illingworth
+2014,729299,RCB v KKR,Sharjah Cricket Stadium,2014-04-24T14:30Z,RCB,KKR,RCB,BOWL FIRST,150/7,148/5,KKR,Chris Lynn,Vineet Kulkarni,Aleem Dar
+2014,729301,SRH v DC,Dubai International Cricket Stadium,2014-04-25T10:30Z,SRH,DC,SRH,BAT FIRST,184/1,180/4,SRH,Aaron Finch,Marais Erasmus,Sundaram Ravi
+2014,729303,CSK v MI,Dubai International Cricket Stadium,2014-04-25T14:30Z,CSK,MI,MI,BAT FIRST,141/7,142/3,CSK,Mohit Sharma,Billy Bowden,Marais Erasmus
+2014,729305,RR v RCB,"Sheikh Zayed Stadium, Abu Dhabi",2014-04-26T10:30Z,RR,RCB,RR,BOWL FIRST,70,71/4,RR,Pravin Tambe,Chettithody Shamshuddin,Kumar Dharmasena
+2014,729307,KKR v KXIP,"Sheikh Zayed Stadium, Abu Dhabi",2014-04-26T14:30Z,KKR,KXIP,KKR,BOWL FIRST,132/9,109,KXIP,Sandeep Sharma,Kumar Dharmasena,Richard Illingworth
+2014,729309,DC v MI,Sharjah Cricket Stadium,2014-04-27T10:30Z,DC,MI,MI,BAT FIRST,125/6,126/4,DC,Murali Vijay,Vineet Kulkarni,Aleem Dar
+2014,729311,SRH v CSK,Sharjah Cricket Stadium,2014-04-27T14:30Z,SRH,CSK,SRH,BAT FIRST,145/5,146/5,CSK,Dwayne Smith,Vineet Kulkarni,Anil Chaudhary
+2014,729313,KXIP v RCB,Dubai International Cricket Stadium,2014-04-28T14:30Z,KXIP,RCB,KXIP,BOWL FIRST,124/8,127/5,KXIP,Sandeep Sharma,Billy Bowden,Sundaram Ravi
+2014,729315,KKR v RR,"Sheikh Zayed Stadium, Abu Dhabi",2014-04-29T14:30Z,KKR,RR,RR,BAT FIRST,152/5,152/8,KKR,James Faulkner,Aleem Dar,Anil Chaudhary
+2014,729317,MI v SRH,Dubai International Cricket Stadium,2014-04-30T14:30Z,MI,SRH,MI,BOWL FIRST,172/5,157/7,SRH,Bhuvneshwar Kumar,Kumar Dharmasena,Marais Erasmus
+2014,733971,CSK v KKR,"JSCA International Stadium Complex, Ranchi",2014-05-02T14:30Z,CSK,KKR,CSK,BAT FIRST,148/3,114/9,CSK,Ravindra Jadeja,Nigel Llong,Anil Chaudhary
+2014,733973,MI v KXIP,"Wankhede Stadium, Mumbai",2014-05-03T10:30Z,MI,KXIP,KXIP,BAT FIRST,168/5,170/5,MI,Corey Anderson,Chettithody Shamshuddin,Bruce Oxenford
+2014,733975,DC v RR,"Arun Jaitley Stadium, Delhi",2014-05-03T14:30Z,DC,RR,RR,BOWL FIRST,152/5,156/3,RR,Karun Nair,Sanjay Hazare,Sundaram Ravi
+2014,733977,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",2014-05-04T14:30Z,RCB,SRH,RCB,BOWL FIRST,155/6,158/6,RCB,AB de Villiers,Vineet Kulkarni,Kumar Dharmasena
+2014,733979,RR v KKR,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2014-05-05T10:30Z,RR,KKR,KKR,BOWL FIRST,170/6,160/6,RR,Pravin Tambe,Nigel Llong,Nandan
+2014,733981,DC v CSK,"Arun Jaitley Stadium, Delhi",2014-05-05T14:30Z,DC,CSK,CSK,BOWL FIRST,178/5,181/2,CSK,Dwayne Smith,Rajesh Deshpande,Bruce Oxenford
+2014,733983,MI v RCB,"Wankhede Stadium, Mumbai",2014-05-06T14:30Z,MI,RCB,RCB,BOWL FIRST,187/5,168/8,MI,Rohit Sharma,Krishnaraj Srinath,Sundaram Ravi
+2014,733985,DC v KKR,"Arun Jaitley Stadium, Delhi",2014-05-07T10:30Z,DC,KKR,DC,BAT FIRST,160/5,161/2,KKR,Gautam Gambhir,Chettithody Shamshuddin,Bruce Oxenford
+2014,733987,KXIP v CSK,"Barabati Stadium, Cuttack",2014-05-07T14:30Z,KXIP,CSK,CSK,BOWL FIRST,231/4,187/6,KXIP,Glenn Maxwell,Kumar Dharmasena,Pashchim Pathak
+2014,733989,RR v SRH,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2014-05-08T14:30Z,RR,SRH,RR,BOWL FIRST,134/9,102,SRH,Bhuvneshwar Kumar,Nigel Llong,Anil Chaudhary
+2014,733991,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2014-05-09T14:30Z,RCB,KXIP,RCB,BOWL FIRST,198/8,166/9,KXIP,Sandeep Sharma,Krishnaraj Srinath,Sundaram Ravi
+2014,733993,DC v SRH,"Arun Jaitley Stadium, Delhi",2014-05-10T10:30Z,DC,SRH,SRH,BOWL FIRST,143/7,44/2,SRH,Dale Steyn,Rajesh Deshpande,Bruce Oxenford
+2014,733995,MI v CSK,"Wankhede Stadium, Mumbai",2014-05-10T14:30Z,MI,CSK,CSK,BOWL FIRST,157/6,160/6,CSK,Dwayne Smith,Vineet Kulkarni,Kumar Dharmasena
+2014,733997,KXIP v KKR,"Barabati Stadium, Cuttack",2014-05-11T10:30Z,KXIP,KKR,KKR,BOWL FIRST,149/8,150/1,KKR,Gautam Gambhir,Nigel Llong,Nandan
+2014,733999,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",2014-05-11T14:30Z,RCB,RR,RCB,BAT FIRST,190/5,191/5,RR,James Faulkner,Rod Tucker,Sundaram Ravi
+2014,734001,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2014-05-12T14:30Z,SRH,MI,SRH,BAT FIRST,157/3,160/3,MI,Ambati Rayudu,Vineet Kulkarni,Kumar Dharmasena
+2014,734003,CSK v RR,"JSCA International Stadium Complex, Ranchi",2014-05-13T10:30Z,CSK,RR,RR,BAT FIRST,148/8,149/5,CSK,Ravindra Jadeja,Chettithody Shamshuddin,Bruce Oxenford
+2014,734005,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2014-05-13T14:30Z,RCB,DC,DC,BOWL FIRST,186/4,170/7,RCB,Yuvraj Singh,Rod Tucker,Krishnaraj Srinath
+2014,734007,SRH v KXIP,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2014-05-14T10:30Z,SRH,KXIP,KXIP,BOWL FIRST,205/5,211/4,KXIP,Wriddhiman Saha,Vineet Kulkarni,Pashchim Pathak
+2014,734009,KKR v MI,"Barabati Stadium, Cuttack",2014-05-14T14:30Z,KKR,MI,KKR,BOWL FIRST,141/5,142/4,KKR,Robin Uthappa,Nigel Llong,Anil Chaudhary
+2014,734011,RR v DC,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2014-05-15T14:30Z,RR,DC,DC,BOWL FIRST,201/6,139/9,RR,Ajinkya Rahane,Rod Tucker,Sundaram Ravi
+2014,734013,CSK v RCB,"JSCA International Stadium Complex, Ranchi",2014-05-18T10:30Z,CSK,RCB,CSK,BAT FIRST,138/4,142/5,RCB,AB de Villiers,Chettithody Shamshuddin,Bruce Oxenford
+2014,734015,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2014-05-18T14:30Z,SRH,KKR,SRH,BAT FIRST,142/8,146/3,KKR,Umesh Yadav,Nigel Llong,Nandan
+2014,734017,RR v MI,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2014-05-19T10:30Z,RR,MI,MI,BAT FIRST,178/3,153/8,MI,Michael Hussey,Rod Tucker,Sundaram Ravi
+2014,734019,DC v KXIP,"Arun Jaitley Stadium, Delhi",2014-05-19T14:30Z,DC,KXIP,KXIP,BOWL FIRST,164/7,165/6,KXIP,Axar Patel,Kumar Dharmasena,Pashchim Pathak
+2014,734021,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2014-05-20T10:30Z,SRH,RCB,RCB,BAT FIRST,160/6,161/3,SRH,David Warner,Nigel Llong,Anil Chaudhary
+2014,734023,KKR v CSK,"Eden Gardens, Kolkata",2014-05-20T14:30Z,KKR,CSK,KKR,BOWL FIRST,154/4,156/2,KKR,Robin Uthappa,Chettithody Shamshuddin,Rajesh Deshpande
+2014,734025,KXIP v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2014-05-21T14:30Z,KXIP,MI,MI,BOWL FIRST,156/8,159/3,MI,Lendl Simmons,Vineet Kulkarni,Kumar Dharmasena
+2014,734027,KKR v RCB,"Eden Gardens, Kolkata",2014-05-22T10:30Z,KKR,RCB,RCB,BOWL FIRST,195/4,165/5,KKR,Robin Uthappa,Anil Chaudhary,Nandan
+2014,734029,CSK v SRH,"JSCA International Stadium Complex, Ranchi",2014-05-22T14:30Z,CSK,SRH,SRH,BOWL FIRST,185/3,189/4,SRH,David Warner,Chettithody Shamshuddin,Bruce Oxenford
+2014,734031,MI v DC,"Wankhede Stadium, Mumbai",2014-05-23T10:30Z,MI,DC,DC,BOWL FIRST,173,158/4,MI,Michael Hussey,Rod Tucker,Sundaram Ravi
+2014,734033,KXIP v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2014-05-23T14:30Z,KXIP,RR,RR,BOWL FIRST,179/4,163/8,KXIP,Shaun Marsh,Kumar Dharmasena,Pashchim Pathak
+2014,734035,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",2014-05-24T10:30Z,RCB,CSK,CSK,BOWL FIRST,154/6,160/2,CSK,MS Dhoni,Nigel Llong,Anil Chaudhary
+2014,734037,KKR v SRH,"Eden Gardens, Kolkata",2014-05-24T14:30Z,KKR,SRH,KKR,BOWL FIRST,160/7,161/6,KKR,Yusuf Pathan,Rajesh Deshpande,Bruce Oxenford
+2014,734039,KXIP v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2014-05-25T10:30Z,KXIP,DC,KXIP,BOWL FIRST,115,119/3,KXIP,Manan Vohra,Vineet Kulkarni,Kumar Dharmasena
+2014,734041,MI v RR,"Wankhede Stadium, Mumbai",2014-05-25T14:30Z,MI,RR,MI,BOWL FIRST,189/4,195/5,MI,Corey Anderson,Rod Tucker,Krishnaraj Srinath
+2013,597998,KKR v DC,"Eden Gardens, Kolkata",2013-04-03T14:30Z,KKR,DC,KKR,BOWL FIRST,128,129/4,KKR,Sunil Narine,Simon Taufel,Sundaram Ravi
+2013,597999,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",2013-04-04T14:30Z,RCB,MI,MI,BOWL FIRST,156/5,154/5,RCB,Chris Gayle,Chettithody Shamshuddin,Vineet Kulkarni
+2013,598000,SRH v PWI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2013-04-05T14:30Z,SRH,PWI,PWI,BOWL FIRST,126/6,104,SRH,Amit Mishra,Simon Taufel,Sundaram Ravi
+2013,598001,DC v RR,"Arun Jaitley Stadium, Delhi",2013-04-06T10:30Z,DC,RR,RR,BAT FIRST,165/7,160/6,RR,Rahul Dravid,Chettithody Shamshuddin,Subrat Das
+2013,598002,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",2013-04-06T14:30Z,CSK,MI,MI,BAT FIRST,148/6,139/9,MI,Kieron Pollard,Vineet Kulkarni,Marais Erasmus
+2013,598003,PWI v KXIP,"Maharashtra Cricket Association Stadium, Pune",2013-04-07T10:30Z,PWI,KXIP,PWI,BAT FIRST,99/9,100/2,KXIP,Manan Vohra,Sudhir Asnani,Simon Taufel
+2013,598004,SRH v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2013-04-07T14:30Z,SRH,RCB,RCB,BAT FIRST,130/8,130/7,SRH,Hanuma Vihari,Anil Chaudhary,Sundaram Ravi
+2013,598005,RR v KKR,"Sawai Mansingh Stadium, Jaipur",2013-04-08T14:30Z,RR,KKR,KKR,BOWL FIRST,144/6,125,RR,Siddharth Trivedi,Aleem Dar,Subrat Das
+2013,598048,RCB v SRH,"M.Chinnaswamy Stadium, Bengaluru",2013-04-09T10:30Z,RCB,SRH,SRH,BAT FIRST,161/6,162/3,RCB,Virat Kohli,Simon Taufel,Sundaram Ravi
+2013,598006,MI v DC,"Wankhede Stadium, Mumbai",2013-04-09T14:30Z,MI,DC,MI,BAT FIRST,209/5,165/9,MI,Dinesh Karthik,Vineet Kulkarni,Marais Erasmus
+2013,598007,KXIP v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2013-04-10T14:30Z,KXIP,CSK,CSK,BOWL FIRST,138,139/0,CSK,Michael Hussey,Chettithody Shamshuddin,Aleem Dar
+2013,598008,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2013-04-11T10:30Z,RCB,KKR,RCB,BOWL FIRST,154/8,158/2,RCB,Chris Gayle,Asad Rauf,Anil Chaudhary
+2013,598009,PWI v RR,"Maharashtra Cricket Association Stadium, Pune",2013-04-11T14:30Z,PWI,RR,RR,BAT FIRST,145/5,148/3,PWI,Aaron Finch,Krishnaraj Srinath,Marais Erasmus
+2013,598010,DC v SRH,"Arun Jaitley Stadium, Delhi",2013-04-12T14:30Z,DC,SRH,DC,BAT FIRST,114/8,115/7,SRH,Amit Mishra,Aleem Dar,Subroto Das
+2013,598011,MI v PWI,"Wankhede Stadium, Mumbai",2013-04-13T10:30Z,MI,PWI,MI,BAT FIRST,183/3,142/8,MI,Rohit Sharma,Simon Taufel,Sundaram Ravi
+2013,598012,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2013-04-13T14:30Z,CSK,RCB,CSK,BOWL FIRST,165/6,166/6,CSK,Ravindra Jadeja,Asad Rauf,Anil Chaudhary
+2013,598013,KKR v SRH,"Eden Gardens, Kolkata",2013-04-14T10:30Z,KKR,SRH,KKR,BAT FIRST,180/4,132/7,KKR,Gautam Gambhir,Vineet Kulkarni,Marais Erasmus
+2013,598014,RR v KXIP,"Sawai Mansingh Stadium, Jaipur",2013-04-14T14:30Z,RR,KXIP,RR,BOWL FIRST,124,126/4,RR,James Faulkner,Chettithody Shamshuddin,Aleem Dar
+2013,598015,CSK v PWI,"MA Chidambaram Stadium, Chepauk, Chennai",2013-04-15T14:30Z,CSK,PWI,PWI,BAT FIRST,159/5,135/8,PWI,Steven Smith,Asad Rauf,Anil Chaudhary
+2013,598017,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2013-04-16T14:30Z,RCB,DC,RCB,BOWL FIRST,152/5,152/7,RCB,Virat Kohli,Vineet Kulkarni,Marais Erasmus
+2013,598018,PWI v SRH,"Maharashtra Cricket Association Stadium, Pune",2013-04-17T10:30Z,PWI,SRH,PWI,BOWL FIRST,119/8,108,SRH,Amit Mishra,Asad Rauf,Anil Chaudhary
+2013,598019,RR v MI,"Sawai Mansingh Stadium, Jaipur",2013-04-17T14:30Z,RR,MI,RR,BAT FIRST,179/3,92,RR,Ajinkya Rahane,Chettithody Shamshuddin,Aleem Dar
+2013,598020,DC v CSK,"Arun Jaitley Stadium, Delhi",2013-04-18T14:30Z,DC,CSK,CSK,BAT FIRST,169/4,83,CSK,Michael Hussey,Vineet Kulkarni,Marais Erasmus
+2013,598022,KKR v CSK,"Eden Gardens, Kolkata",2013-04-20T10:30Z,KKR,CSK,KKR,BAT FIRST,119/9,124/6,CSK,Ravindra Jadeja,Asad Rauf,Anil Chaudhary
+2013,598023,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",2013-04-20T14:30Z,RCB,RR,RCB,BOWL FIRST,117,123/3,RCB,Vinay Kumar,Chettithody Shamshuddin,Aleem Dar
+2013,598024,DC v MI,"Arun Jaitley Stadium, Delhi",2013-04-21T10:30Z,DC,MI,MI,BAT FIRST,161/4,165/1,DC,Virender Sehwag,Kumar Dharmasena,Sundaram Ravi
+2013,598025,KXIP v PWI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2013-04-21T14:30Z,KXIP,PWI,KXIP,BOWL FIRST,185/4,186/3,KXIP,David Miller,Krishnaraj Srinath,Marais Erasmus
+2013,598026,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",2013-04-22T14:30Z,CSK,RR,RR,BAT FIRST,185/4,186/5,CSK,Michael Hussey,Sudhir Asnani,Anil Chaudhary
+2013,598027,RCB v PWI,"M.Chinnaswamy Stadium, Bengaluru",2013-04-23T10:30Z,RCB,PWI,PWI,BOWL FIRST,263/5,133/9,RCB,Chris Gayle,Chettithody Shamshuddin,Aleem Dar
+2013,598059,DC v KXIP,"Arun Jaitley Stadium, Delhi",2013-04-23T14:30Z,DC,KXIP,KXIP,BOWL FIRST,120/7,121/5,KXIP,Harmeet Singh,Krishnaraj Srinath,Vineet Kulkarni
+2013,598029,KKR v MI,"Eden Gardens, Kolkata",2013-04-24T14:30Z,KKR,MI,KKR,BAT FIRST,159/6,162/5,MI,Dwayne Smith,Kumar Dharmasena,Sundaram Ravi
+2013,598030,CSK v SRH,"MA Chidambaram Stadium, Chepauk, Chennai",2013-04-25T14:30Z,CSK,SRH,SRH,BAT FIRST,159/6,160/5,CSK,MS Dhoni,Aleem Dar,Subrat Das
+2013,598031,KKR v KXIP,"Eden Gardens, Kolkata",2013-04-26T14:30Z,KKR,KXIP,KXIP,BAT FIRST,149/6,150/4,KKR,Jacques Kallis,Nandan,Sundaram Ravi
+2013,598032,RR v SRH,"Sawai Mansingh Stadium, Jaipur",2013-04-27T10:30Z,RR,SRH,SRH,BAT FIRST,144/9,146/2,RR,James Faulkner,Krishnaraj Srinath,Vineet Kulkarni
+2013,598033,MI v RCB,"Wankhede Stadium, Mumbai",2013-04-27T14:30Z,MI,RCB,MI,BAT FIRST,194/7,136/7,MI,Dwayne Smith,Asad Rauf,Sudhir Asnani
+2013,598034,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2013-04-28T10:30Z,CSK,KKR,KKR,BOWL FIRST,200/3,186/4,CSK,Michael Hussey,Aleem Dar,Simon Taufel
+2013,598035,DC v PWI,"Shaheed Veer Narayan Singh International Stadium, Raipur",2013-04-28T14:30Z,DC,PWI,PWI,BOWL FIRST,164/5,149/4,DC,David Warner,Nandan,Sundaram Ravi
+2013,598036,RR v RCB,"Sawai Mansingh Stadium, Jaipur",2013-04-29T10:30Z,RR,RCB,RR,BOWL FIRST,171/6,173/6,RR,Sanju Samson,Krishnaraj Srinath,Marais Erasmus
+2013,598037,MI v KXIP,"Wankhede Stadium, Mumbai",2013-04-29T14:30Z,MI,KXIP,MI,BAT FIRST,174/3,170,MI,Rohit Sharma,Asad Rauf,Anil Chaudhary
+2013,598038,PWI v CSK,"Maharashtra Cricket Association Stadium, Pune",2013-04-30T14:30Z,PWI,CSK,CSK,BAT FIRST,164/3,127/9,CSK,MS Dhoni,Simon Taufel,Subrat Das
+2013,598039,SRH v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2013-05-01T10:30Z,SRH,MI,MI,BAT FIRST,129/4,130/3,SRH,Ishant Sharma,Asad Rauf,Sudhir Asnani
+2013,598040,DC v KKR,"Shaheed Veer Narayan Singh International Stadium, Raipur",2013-05-01T14:30Z,DC,KKR,KKR,BAT FIRST,136/7,137/3,DC,David Warner,Kumar Dharmasena,Nandan
+2013,598041,CSK v KXIP,"MA Chidambaram Stadium, Chepauk, Chennai",2013-05-02T10:30Z,CSK,KXIP,CSK,BAT FIRST,186/4,171/6,CSK,Suresh Raina,Vineet Kulkarni,Marais Erasmus
+2013,598042,PWI v RCB,"Maharashtra Cricket Association Stadium, Pune",2013-05-02T14:30Z,PWI,RCB,RCB,BAT FIRST,187/3,170/9,RCB,AB de Villiers,Chettithody Shamshuddin,Aleem Dar
+2013,598043,KKR v RR,"Eden Gardens, Kolkata",2013-05-03T14:30Z,KKR,RR,RR,BAT FIRST,132/6,133/2,KKR,Yusuf Pathan,Kumar Dharmasena,Nandan
+2013,598044,SRH v DC,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2013-05-04T14:30Z,SRH,DC,DC,BAT FIRST,80,81/4,SRH,Daren Sammy,Asad Rauf,Sudhir Asnani
+2013,598046,MI v CSK,"Wankhede Stadium, Mumbai",2013-05-05T10:30Z,MI,CSK,MI,BAT FIRST,139/5,79,MI,Mitchell Johnson,Kumar Dharmasena,Nandan
+2013,598047,RR v PWI,"Sawai Mansingh Stadium, Jaipur",2013-05-05T14:30Z,RR,PWI,PWI,BAT FIRST,178/4,182/5,RR,Ajinkya Rahane,Rod Tucker,Chettithody Shamshuddin
+2013,598064,KXIP v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2013-05-06T14:30Z,KXIP,RCB,KXIP,BOWL FIRST,190/3,194/4,KXIP,David Miller,Vineet Kulkarni,Nigel Llong
+2013,598049,RR v DC,"Sawai Mansingh Stadium, Jaipur",2013-05-07T10:30Z,RR,DC,DC,BAT FIRST,154/4,155/1,RR,Ajinkya Rahane,Rod Tucker,Aleem Dar
+2013,598050,MI v KKR,"Wankhede Stadium, Mumbai",2013-05-07T14:30Z,MI,KKR,MI,BAT FIRST,170/6,105,MI,Sachin Tendulkar,Kumar Dharmasena,Sundaram Ravi
+2013,598051,SRH v CSK,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2013-05-08T14:30Z,SRH,CSK,SRH,BOWL FIRST,223/3,146/8,CSK,Suresh Raina,Nigel Llong,Subrat Das
+2013,598052,KXIP v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2013-05-09T10:30Z,KXIP,RR,RR,BOWL FIRST,145/6,147/2,RR,Kevon Cooper,Kumar Dharmasena,Sundaram Ravi
+2013,598053,PWI v KKR,"Maharashtra Cricket Association Stadium, Pune",2013-05-09T14:30Z,PWI,KKR,KKR,BAT FIRST,152/6,106,KKR,Gautam Gambhir,Asad Rauf,Sudhir Asnani
+2013,598054,DC v RCB,"Arun Jaitley Stadium, Delhi",2013-05-10T14:30Z,DC,RCB,DC,BOWL FIRST,183/4,179/7,RCB,Jaydev Unadkat,Krishnaraj Srinath,Nigel Llong
+2013,598055,PWI v MI,"Maharashtra Cricket Association Stadium, Pune",2013-05-11T10:30Z,PWI,MI,PWI,BAT FIRST,112/8,116/5,MI,Mitchell Johnson,Asad Rauf,Anil Chaudhary
+2013,598056,KXIP v SRH,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2013-05-11T14:30Z,KXIP,SRH,KXIP,BOWL FIRST,150/7,120/9,SRH,Parthiv Patel,Rod Tucker,Subrat Das
+2013,598057,KKR v RCB,"JSCA International Stadium Complex, Ranchi",2013-05-12T10:30Z,KKR,RCB,KKR,BOWL FIRST,115/9,116/5,KKR,Jacques Kallis,Krishnaraj Srinath,Nigel Llong
+2013,598058,RR v CSK,"Sawai Mansingh Stadium, Jaipur",2013-05-12T14:30Z,RR,CSK,RR,BOWL FIRST,141/4,144/5,RR,Shane Watson,Kumar Dharmasena,Nandan
+2013,598060,MI v SRH,"Wankhede Stadium, Mumbai",2013-05-13T14:30Z,MI,SRH,SRH,BAT FIRST,178/3,184/3,MI,Kieron Pollard,Anil Chaudhary,Simon Taufel
+2013,598045,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2013-05-14T10:30Z,RCB,KXIP,KXIP,BOWL FIRST,174/5,176/3,KXIP,Adam Gilchrist,Kumar Dharmasena,Sundaram Ravi
+2013,598062,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2013-05-14T14:30Z,CSK,DC,CSK,BAT FIRST,168/4,135/9,CSK,MS Dhoni,Rod Tucker,Chettithody Shamshuddin
+2013,598061,KKR v PWI,"JSCA International Stadium Complex, Ranchi",2013-05-15T10:30Z,KKR,PWI,KKR,BOWL FIRST,170/4,163/7,PWI,Manish Pandey,Krishnaraj Srinath,Nigel Llong
+2013,598063,MI v RR,"Wankhede Stadium, Mumbai",2013-05-15T14:30Z,MI,RR,RR,BOWL FIRST,166/8,152/7,MI,Aditya Tare,Asad Rauf,Sudhir Asnani
+2013,598028,KXIP v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2013-05-16T14:30Z,KXIP,DC,DC,BOWL FIRST,171/4,164/7,KXIP,David Miller,Kumar Dharmasena,Sundaram Ravi
+2013,598065,SRH v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2013-05-17T14:30Z,SRH,RR,SRH,BAT FIRST,136/9,113/9,SRH,Amit Mishra,Asad Rauf,Anil Chaudhary
+2013,598068,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",2013-05-18T14:30Z,RCB,CSK,CSK,BOWL FIRST,106/2,82/6,RCB,Virat Kohli,Rod Tucker,Chettithody Shamshuddin
+2013,598067,PWI v DC,"Maharashtra Cricket Association Stadium, Pune",2013-05-19T10:30Z,PWI,DC,PWI,BAT FIRST,172/5,134/9,PWI,Luke Wright,Nigel Llong,Simon Taufel
+2013,598069,SRH v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2013-05-19T14:30Z,SRH,KKR,KKR,BAT FIRST,130/7,132/5,SRH,Parthiv Patel,Asad Rauf,Sudhir Asnani
+2012,548306,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",2012-04-04T14:30Z,CSK,MI,MI,BOWL FIRST,112,115/2,MI,Richard Levi,Johan Cloete,Simon Taufel
+2012,548307,KKR v DC,"Eden Gardens, Kolkata",2012-04-05T14:30Z,KKR,DC,DC,BOWL FIRST,97/9,100/2,DC,Irfan Pathan,Kumar Dharmasena,Sudhir Asnani
+2012,548308,MI v PWI,"Wankhede Stadium, Mumbai",2012-04-06T10:30Z,MI,PWI,MI,BOWL FIRST,129/9,101/9,PWI,Steven Smith,Anil Chaudhary,Simon Taufel
+2012,548309,RR v KXIP,"Sawai Mansingh Stadium, Jaipur",2012-04-06T14:30Z,RR,KXIP,KXIP,BOWL FIRST,191/4,160/9,RR,Ajinkya Rahane,Shavir Tarapore,Billy Bowden
+2012,548310,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2012-04-07T10:30Z,RCB,DC,DC,BOWL FIRST,157/8,137/7,RCB,AB de Villiers,Sudhir Asnani,Sundaram Ravi
+2012,548311,DC v CSK,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2012-04-07T14:30Z,SRH,CSK,SRH,BOWL FIRST,193/6,119,CSK,Ravindra Jadeja,Johan Cloete,Kumar Dharmasena
+2012,548312,RR v KKR,"Sawai Mansingh Stadium, Jaipur",2012-04-08T10:30Z,RR,KKR,KKR,BOWL FIRST,164/5,142,RR,Brad Hodge,Billy Bowden,Vineet Kulkarni
+2012,548313,PWI v KXIP,"Maharashtra Cricket Association Stadium, Pune",2012-04-08T14:30Z,PWI,KXIP,PWI,BAT FIRST,166/6,144/8,PWI,Marlon Samuels,Simon Taufel,Subrat Das
+2012,548314,DC v MI,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2012-04-09T14:30Z,SRH,MI,SRH,BAT FIRST,138/9,142/5,MI,Rohit Sharma,Johan Cloete,Anil Chaudhary
+2012,548315,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2012-04-10T10:30Z,RCB,KKR,RCB,BOWL FIRST,165/8,123/9,KKR,Lakshmipathy Balaji,Rod Tucker,Sundaram Ravi
+2012,548316,DC v CSK,"Arun Jaitley Stadium, Delhi",2012-04-10T14:30Z,DC,CSK,DC,BOWL FIRST,110/8,111/2,DC,Morne Morkel,Shavir Tarapore,Asad Rauf
+2012,548317,MI v RR,"Wankhede Stadium, Mumbai",2012-04-11T14:30Z,MI,RR,RR,BOWL FIRST,197/6,170,MI,Kieron Pollard,Bruce Oxenford,Aleem Dar
+2012,548318,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2012-04-12T10:30Z,CSK,RCB,RCB,BAT FIRST,205/8,208/5,CSK,Faf du Plessis,Rod Tucker,Kumar Dharmasena
+2012,548319,KXIP v PWI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2012-04-12T14:30Z,KXIP,PWI,KXIP,BOWL FIRST,115,116/3,KXIP,Dimitri Mascarenhas,Shavir Tarapore,Vineet Kulkarni
+2012,548320,KKR v RR,"Eden Gardens, Kolkata",2012-04-13T14:30Z,KKR,RR,RR,BAT FIRST,131/5,137/5,KKR,Shakib Al Hasan,Asad Rauf,Sudhir Asnani
+2012,548322,PWI v CSK,"Maharashtra Cricket Association Stadium, Pune",2012-04-14T14:30Z,PWI,CSK,CSK,BAT FIRST,155/5,156/3,PWI,Jesse Ryder,Bruce Oxenford,Aleem Dar
+2012,548323,KKR v KXIP,"Eden Gardens, Kolkata",2012-04-15T10:30Z,KKR,KXIP,KKR,BOWL FIRST,134/9,132/7,KXIP,Sunil Narine,Asad Rauf,Sudhir Asnani
+2012,548324,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",2012-04-15T14:30Z,RCB,RR,RR,BAT FIRST,195/2,136,RR,Ajinkya Rahane,Johan Cloete,Rod Tucker
+2012,548325,MI v DC,"Wankhede Stadium, Mumbai",2012-04-16T14:30Z,MI,DC,DC,BOWL FIRST,92,93/3,DC,Shahbaz Nadeem,Shavir Tarapore,Billy Bowden
+2012,548326,RR v DC,"Sawai Mansingh Stadium, Jaipur",2012-04-17T10:30Z,RR,SRH,SRH,BAT FIRST,196/2,197/5,RR,Brad Hodge,Bruce Oxenford,Aleem Dar
+2012,548327,RCB v PWI,"M.Chinnaswamy Stadium, Bengaluru",2012-04-17T14:30Z,RCB,PWI,PWI,BAT FIRST,182/6,186/4,RCB,Chris Gayle,Sudhir Asnani,Subrat Das
+2012,548328,KXIP v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2012-04-18T14:30Z,KXIP,KKR,KXIP,BAT FIRST,124/7,127/2,KKR,Gautam Gambhir,Johan Cloete,Rod Tucker
+2012,548330,CSK v PWI,"MA Chidambaram Stadium, Chepauk, Chennai",2012-04-19T14:30Z,CSK,PWI,PWI,BOWL FIRST,164/5,151/7,CSK,Nuwan Kulasekara,Asad Rauf,Subrat Das
+2012,548331,KXIP v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2012-04-20T14:30Z,KXIP,RCB,RCB,BOWL FIRST,163/6,166/5,RCB,Chris Gayle,Rod Tucker,Sundaram Ravi
+2012,548332,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",2012-04-21T10:30Z,CSK,RR,RR,BAT FIRST,146/4,147/3,CSK,Faf du Plessis,Bruce Oxenford,Aleem Dar
+2012,548333,DC v PWI,"Arun Jaitley Stadium, Delhi",2012-04-21T14:30Z,DC,PWI,DC,BOWL FIRST,192/3,172/7,PWI,Sourav Ganguly,Asad Rauf,Subrat Das
+2012,548334,MI v KXIP,"Wankhede Stadium, Mumbai",2012-04-22T10:30Z,MI,KXIP,MI,BAT FIRST,163/6,164/4,KXIP,Shaun Marsh,Rod Tucker,Sundaram Ravi
+2012,548335,DC v KKR,"Barabati Stadium, Cuttack",2012-04-22T14:30Z,SRH,KKR,KKR,BOWL FIRST,126/7,127/5,KKR,Brett Lee,Shavir Tarapore,Billy Bowden
+2012,548336,RR v RCB,"Sawai Mansingh Stadium, Jaipur",2012-04-23T14:30Z,RR,RCB,RR,BOWL FIRST,189/3,143/7,RCB,AB de Villiers,Asad Rauf,Sudhir Asnani
+2012,548337,PWI v DC,"Maharashtra Cricket Association Stadium, Pune",2012-04-24T10:30Z,PWI,DC,PWI,BAT FIRST,146/2,148/2,DC,Virender Sehwag,Rod Tucker,Sundaram Ravi
+2012,548339,KXIP v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2012-04-25T10:30Z,KXIP,MI,KXIP,BAT FIRST,168/3,171/6,MI,Ambati Rayudu,Bruce Oxenford,Aleem Dar
+2012,548341,PWI v DC,"Maharashtra Cricket Association Stadium, Pune",2012-04-26T14:30Z,PWI,SRH,SRH,BAT FIRST,177/4,159/7,SRH,Cameron White,Rod Tucker,Sundaram Ravi
+2012,548342,DC v MI,"Arun Jaitley Stadium, Delhi",2012-04-27T14:30Z,DC,MI,MI,BOWL FIRST,207/5,170/9,DC,Virender Sehwag,Bruce Oxenford,Aleem Dar
+2012,548343,CSK v KXIP,"MA Chidambaram Stadium, Chepauk, Chennai",2012-04-28T10:30Z,CSK,KXIP,KXIP,BAT FIRST,156/8,149/8,KXIP,Mandeep Singh,Shavir Tarapore,Billy Bowden
+2012,548344,KKR v RCB,"Eden Gardens, Kolkata",2012-04-28T14:30Z,KKR,RCB,KKR,BAT FIRST,190/4,143/6,KKR,Gautam Gambhir,Asad Rauf,Billy Doctrove
+2012,548345,DC v RR,"Arun Jaitley Stadium, Delhi",2012-04-29T10:30Z,DC,RR,DC,BAT FIRST,152/6,151/3,DC,Virender Sehwag,Rod Tucker,Sundaram Ravi
+2012,548346,MI v DC,"Wankhede Stadium, Mumbai",2012-04-29T14:30Z,MI,SRH,MI,BOWL FIRST,100,101/5,MI,Dale Steyn,Bruce Oxenford,Anil Chaudhary
+2012,548347,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2012-04-30T14:30Z,CSK,KKR,CSK,BAT FIRST,139/5,140/5,KKR,Gautam Gambhir,Chettithody Shamshuddin,Billy Bowden
+2012,548348,DC v PWI,"Barabati Stadium, Cuttack",2012-05-01T10:30Z,SRH,PWI,SRH,BAT FIRST,186/4,173/5,SRH,Kumar Sangakkara,Aleem Dar,Anil Chaudhary
+2012,548349,RR v DC,"Sawai Mansingh Stadium, Jaipur",2012-05-01T14:30Z,RR,DC,RR,BAT FIRST,141/6,144/4,DC,Pawan Negi,Johan Cloete,Simon Taufel
+2012,548350,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2012-05-02T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,158/5,163/6,KXIP,Azhar Mahmood,Chettithody Shamshuddin,Billy Bowden
+2012,548351,PWI v MI,"Maharashtra Cricket Association Stadium, Pune",2012-05-03T14:30Z,PWI,MI,MI,BAT FIRST,120/9,119/6,MI,Lasith Malinga,Asad Rauf,Sudhir Asnani
+2012,548352,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2012-05-04T14:30Z,CSK,SRH,CSK,BAT FIRST,160/6,150/5,CSK,Suresh Raina,Bruce Oxenford,Kumar Dharmasena
+2012,548353,KKR v PWI,"Eden Gardens, Kolkata",2012-05-05T10:30Z,KKR,PWI,KKR,BAT FIRST,150/5,143/8,KKR,Sunil Narine,Shavir Tarapore,Billy Bowden
+2012,548354,KXIP v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2012-05-05T14:30Z,KXIP,RR,RR,BAT FIRST,177/6,134/8,RR,Shane Watson,Johan Cloete,Simon Taufel
+2012,548355,MI v CSK,"Wankhede Stadium, Mumbai",2012-05-06T10:30Z,MI,CSK,MI,BOWL FIRST,173/8,174/8,MI,Dwayne Smith,Asad Rauf,Sudhir Asnani
+2012,548356,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2012-05-06T14:30Z,RCB,SRH,RCB,BOWL FIRST,181/2,185/5,RCB,AB de Villiers,Bruce Oxenford,Kumar Dharmasena
+2012,548357,DC v KKR,"Arun Jaitley Stadium, Delhi",2012-05-07T14:30Z,DC,KKR,DC,BAT FIRST,153/9,154/4,KKR,Jacques Kallis,Johan Cloete,Sundaram Ravi
+2012,548358,PWI v RR,"Maharashtra Cricket Association Stadium, Pune",2012-05-08T10:30Z,PWI,RR,PWI,BAT FIRST,125/6,126/3,RR,Shane Watson,Asad Rauf,Billy Doctrove
+2012,548359,DC v KXIP,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2012-05-08T14:30Z,SRH,KXIP,SRH,BOWL FIRST,170/5,145/8,KXIP,Mandeep Singh,Bruce Oxenford,Kumar Dharmasena
+2012,548360,MI v RCB,"Wankhede Stadium, Mumbai",2012-05-09T14:30Z,MI,RCB,RCB,BOWL FIRST,141/6,142/1,RCB,Chris Gayle,Billy Bowden,Vineet Kulkarni
+2012,548361,RR v CSK,"Sawai Mansingh Stadium, Jaipur",2012-05-10T14:30Z,RR,CSK,CSK,BOWL FIRST,126/6,127/6,CSK,Ben Hilfenhaus,Chettithody Shamshuddin,Bruce Oxenford
+2012,548362,PWI v RCB,"Maharashtra Cricket Association Stadium, Pune",2012-05-11T14:30Z,PWI,RCB,PWI,BOWL FIRST,173/3,138/9,RCB,Chris Gayle,Shavir Tarapore,Billy Bowden
+2012,548363,KKR v MI,"Eden Gardens, Kolkata",2012-05-12T10:30Z,KKR,MI,MI,BAT FIRST,182/1,155/4,MI,Rohit Sharma,Simon Taufel,Sundaram Ravi
+2012,548364,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2012-05-12T14:30Z,CSK,DC,CSK,BOWL FIRST,114/5,115/1,CSK,Ben Hilfenhaus,Billy Doctrove,Subrat Das
+2012,548365,RR v PWI,"Sawai Mansingh Stadium, Jaipur",2012-05-13T10:30Z,RR,PWI,RR,BAT FIRST,170/4,125/9,RR,Ajit  Chandila,Shavir Tarapore,Billy Bowden
+2012,548366,KXIP v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2012-05-13T14:30Z,KXIP,SRH,SRH,BAT FIRST,190/4,194/6,KXIP,David Hussey,Bruce Oxenford,Kumar Dharmasena
+2012,548367,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",2012-05-14T10:30Z,RCB,MI,MI,BOWL FIRST,171/6,173/5,MI,Ambati Rayudu,Billy Doctrove,Subrat Das
+2012,548368,KKR v CSK,"Eden Gardens, Kolkata",2012-05-14T14:30Z,KKR,CSK,CSK,BOWL FIRST,158/6,160/5,CSK,Michael Hussey,Johan Cloete,Simon Taufel
+2012,548369,DC v KXIP,"Arun Jaitley Stadium, Delhi",2012-05-15T14:30Z,DC,KXIP,KXIP,BAT FIRST,136/8,140/5,DC,Umesh Yadav,Bruce Oxenford,Kumar Dharmasena
+2012,548370,MI v KKR,"Wankhede Stadium, Mumbai",2012-05-16T14:30Z,MI,KKR,MI,BOWL FIRST,140/7,108,KKR,Sunil Narine,Billy Doctrove,Subrat Das
+2012,548371,KXIP v CSK,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2012-05-17T10:30Z,KXIP,CSK,KXIP,BOWL FIRST,120/7,123/4,KXIP,Adam Gilchrist,Shavir Tarapore,Vineet Kulkarni
+2012,548372,DC v RCB,"Arun Jaitley Stadium, Delhi",2012-05-17T14:30Z,DC,RCB,DC,BOWL FIRST,215/1,194/9,RCB,Chris Gayle,Chettithody Shamshuddin,Kumar Dharmasena
+2012,548373,DC v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2012-05-18T14:30Z,SRH,RR,RR,BAT FIRST,126/8,128/5,SRH,Dale Steyn,Simon Taufel,Sundaram Ravi
+2012,548374,KXIP v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2012-05-19T10:30Z,KXIP,DC,DC,BOWL FIRST,141/8,145/4,DC,Umesh Yadav,Billy Bowden,Vineet Kulkarni
+2012,548375,PWI v KKR,"Maharashtra Cricket Association Stadium, Pune",2012-05-19T14:30Z,PWI,KKR,KKR,BAT FIRST,136/4,102/8,KKR,Shakib Al Hasan,Sudhir Asnani,Billy Doctrove
+2012,548376,DC v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2012-05-20T10:30Z,SRH,RCB,RCB,BOWL FIRST,132/7,123/9,SRH,Dale Steyn,Simon Taufel,Sundaram Ravi
+2012,548377,RR v MI,"Sawai Mansingh Stadium, Jaipur",2012-05-20T14:30Z,RR,MI,RR,BAT FIRST,162/6,163/0,MI,Dwayne Smith,Chettithody Shamshuddin,Kumar Dharmasena
+2011,501198,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2011-04-08T14:30Z,CSK,KKR,CSK,BAT FIRST,153/4,151/7,CSK,Srikkanth Anirudha,Paul Reiffel,Billy Doctrove
+2011,501199,DC v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2011-04-09T10:30Z,SRH,RR,RR,BOWL FIRST,137/8,141/2,RR,Siddharth Trivedi,Shavir Tarapore,Rudi Koertzen
+2011,501200,Kochi v RCB,"Nehru Stadium, Kochi",2011-04-09T14:30Z,Kochi,RCB,Kochi,BAT FIRST,161/5,162/4,RCB,AB de Villiers,Kumar Dharmasena,Krishna Hariharan
+2011,501201,DC v MI,"Arun Jaitley Stadium, Delhi",2011-04-10T10:30Z,DC,MI,DC,BAT FIRST,95,99/2,MI,Lasith Malinga,Amiesh Saheba,Russell Tiffin
+2011,501202,PWI v KXIP,"Dr DY Patil Sports Academy, Mumbai",2011-04-10T14:30Z,PWI,KXIP,KXIP,BAT FIRST,112/8,113/3,PWI,Shrikant Wagh,Paul Reiffel,Billy Doctrove
+2011,501203,KKR v DC,"Eden Gardens, Kolkata",2011-04-11T14:30Z,KKR,SRH,KKR,BAT FIRST,163/4,154/8,KKR,Jacques Kallis,Shavir Tarapore,Rudi Koertzen
+2011,501204,RR v DC,"Sawai Mansingh Stadium, Jaipur",2011-04-12T10:30Z,RR,DC,DC,BAT FIRST,151/6,152/4,RR,Shane Warne,Russell Tiffin,Aleem Dar
+2011,501205,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",2011-04-12T14:30Z,RCB,MI,MI,BOWL FIRST,140/4,143/1,MI,Sachin Tendulkar,Kumar Dharmasena,Tony Hill
+2011,501206,KXIP v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2011-04-13T10:30Z,KXIP,CSK,KXIP,BOWL FIRST,188/4,193/4,KXIP,Paul Valthaty,Asad Rauf,Suresh Shastri
+2011,501207,PWI v Kochi,"Dr DY Patil Sports Academy, Mumbai",2011-04-13T14:30Z,PWI,Kochi,Kochi,BAT FIRST,148/8,151/6,PWI,Mohnish  Mishra,Sudhir Asnani,Paul Reiffel
+2011,501208,DC v RCB,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2011-04-14T14:30Z,SRH,RCB,RCB,BOWL FIRST,175/5,142/9,SRH,Dale Steyn,Rudi Koertzen,Sundaram Ravi
+2011,501209,RR v KKR,"Sawai Mansingh Stadium, Jaipur",2011-04-15T10:30Z,RR,KKR,KKR,BOWL FIRST,159/4,160/1,KKR,Gautam Gambhir,Aleem Dar,Sanjay Hazare
+2011,501210,MI v Kochi,"Wankhede Stadium, Mumbai",2011-04-15T14:30Z,MI,Kochi,Kochi,BOWL FIRST,182/2,184/2,Kochi,Brendon McCullum,Paul Reiffel,Billy Doctrove
+2011,501211,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2011-04-16T10:30Z,CSK,RCB,CSK,BAT FIRST,183/5,162/7,CSK,Michael Hussey,Kumar Dharmasena,Tony Hill
+2011,501212,DC v KXIP,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2011-04-16T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,165/8,166/2,KXIP,Paul Valthaty,Rudi Koertzen,Sundaram Ravi
+2011,501213,PWI v DC,"Dr DY Patil Sports Academy, Mumbai",2011-04-17T10:30Z,PWI,DC,DC,BOWL FIRST,187/5,190/7,DC,Yuvraj Singh,Amiesh Saheba,Asad Rauf
+2011,501214,KKR v RR,"Eden Gardens, Kolkata",2011-04-17T14:30Z,KKR,RR,KKR,BOWL FIRST,81,85/2,KKR,Lakshmipathy Balaji,Russell Tiffin,Aleem Dar
+2011,501215,Kochi v CSK,"Nehru Stadium, Kochi",2011-04-18T14:30Z,Kochi,CSK,Kochi,BOWL FIRST,131/4,135/3,Kochi,Brendon McCullum,Krishna Hariharan,Tony Hill
+2011,501218,MI v PWI,"Wankhede Stadium, Mumbai",2011-04-20T10:30Z,MI,PWI,PWI,BAT FIRST,118,124/3,MI,Munaf Patel,Amiesh Saheba,Asad Rauf
+2011,501219,KKR v Kochi,"Eden Gardens, Kolkata",2011-04-20T14:30Z,KKR,Kochi,KKR,BOWL FIRST,132/7,126/9,Kochi,Mahela Jayawardene,Russell Tiffin,Aleem Dar
+2011,501220,KXIP v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2011-04-21T14:30Z,KXIP,RR,RR,BOWL FIRST,195/7,147/7,KXIP,Shaun Marsh,Sudhir Asnani,Paul Reiffel
+2011,501222,KKR v RCB,"Eden Gardens, Kolkata",2011-04-22T10:30Z,KKR,RCB,RCB,BOWL FIRST,171/5,175/1,RCB,Chris Gayle,Russell Tiffin,Sanjay Hazare
+2011,501221,MI v CSK,"Wankhede Stadium, Mumbai",2011-04-22T14:30Z,MI,CSK,CSK,BOWL FIRST,164/4,156/9,MI,Harbhajan Singh,Amiesh Saheba,Asad Rauf
+2011,501223,DC v KXIP,"Arun Jaitley Stadium, Delhi",2011-04-23T14:30Z,DC,KXIP,KXIP,BOWL FIRST,231/4,202/6,DC,David Warner,Rudi Koertzen,Sudhir Asnani
+2011,501224,DC v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2011-04-24T10:30Z,SRH,MI,SRH,BOWL FIRST,172/4,135/8,MI,Lasith Malinga,Kumar Dharmasena,Tony Hill
+2011,501225,RR v Kochi,"Sawai Mansingh Stadium, Jaipur",2011-04-24T14:30Z,RR,Kochi,RR,BOWL FIRST,109,111/2,RR,Shane Warne,Shavir Tarapore,Billy Doctrove
+2011,501226,CSK v PWI,"MA Chidambaram Stadium, Chepauk, Chennai",2011-04-25T14:30Z,CSK,PWI,PWI,BOWL FIRST,142/6,117/9,CSK,Michael Hussey,Russell Tiffin,Aleem Dar
+2011,501227,DC v RCB,"Arun Jaitley Stadium, Delhi",2011-04-26T14:30Z,DC,RCB,RCB,BOWL FIRST,160/6,161/7,RCB,Virat Kohli,Rod Tucker,Sudhir Asnani
+2011,501228,PWI v CSK,"Dr DY Patil Sports Academy, Mumbai",2011-04-27T10:30Z,PWI,CSK,PWI,BAT FIRST,141/6,145/2,CSK,Doug Bollinger,Asad Rauf,Suresh Shastri
+2011,501229,Kochi v DC,"Nehru Stadium, Kochi",2011-04-27T14:30Z,Kochi,SRH,Kochi,BOWL FIRST,129/7,74,SRH,Ishant Sharma,Kumar Dharmasena,Tony Hill
+2011,501230,DC v KKR,"Arun Jaitley Stadium, Delhi",2011-04-28T14:30Z,DC,KKR,DC,BOWL FIRST,148/7,131/9,KKR,Manoj Tiwary,Rod Tucker,Paul Reiffel
+2011,501231,RR v MI,"Sawai Mansingh Stadium, Jaipur",2011-04-29T10:30Z,RR,MI,RR,BOWL FIRST,94/8,95/3,RR,Johan Botha,Shavir Tarapore,Asad Rauf
+2011,501232,RCB v PWI,"M.Chinnaswamy Stadium, Bengaluru",2011-04-29T14:30Z,RCB,PWI,PWI,BOWL FIRST,181/5,155/5,RCB,Virat Kohli,Aleem Dar,Sanjay Hazare
+2011,501233,Kochi v DC,"Nehru Stadium, Kochi",2011-04-30T10:30Z,Kochi,DC,DC,BAT FIRST,157/7,119,DC,Virender Sehwag,Kumar Dharmasena,Tony Hill
+2011,501234,KKR v KXIP,"Eden Gardens, Kolkata",2011-04-30T14:30Z,KKR,KXIP,KKR,BOWL FIRST,119/6,120/2,KKR,Iqbal Abdulla,Amiesh Saheba,Suresh Shastri
+2011,501235,RR v PWI,"Sawai Mansingh Stadium, Jaipur",2011-05-01T10:30Z,RR,PWI,RR,BOWL FIRST,143/7,144/4,RR,Ross Taylor,Shavir Tarapore,Simon Taufel
+2011,501236,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2011-05-01T14:30Z,CSK,SRH,CSK,BAT FIRST,165/5,146/8,CSK,Albie Morkel,Russell Tiffin,Aleem Dar
+2011,501237,MI v KXIP,"Wankhede Stadium, Mumbai",2011-05-02T10:30Z,MI,KXIP,KXIP,BOWL FIRST,159/5,136/8,MI,Kieron Pollard,Kumar Dharmasena,Paul Reiffel
+2011,501238,DC v Kochi,"Arun Jaitley Stadium, Delhi",2011-05-02T14:30Z,DC,Kochi,Kochi,BOWL FIRST,140/6,141/3,Kochi,Prasanth Parameswaran,Asad Rauf,Suresh Shastri
+2011,501239,DC v KKR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2011-05-03T14:30Z,SRH,KKR,SRH,BOWL FIRST,169/4,149/6,KKR,Yusuf Pathan,Rod Tucker,Sudhir Asnani
+2011,501240,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",2011-05-04T10:30Z,CSK,RR,RR,BAT FIRST,147/6,149/2,CSK,Michael Hussey,Russell Tiffin,Sanjay Hazare
+2011,501241,PWI v MI,"Dr DY Patil Sports Academy, Mumbai",2011-05-04T14:30Z,PWI,MI,PWI,BOWL FIRST,160/7,139/7,MI,Rahul Sharma,Kumar Dharmasena,Simon Taufel
+2011,501242,Kochi v KKR,"Nehru Stadium, Kochi",2011-05-05T10:30Z,Kochi,KKR,KKR,BOWL FIRST,156/5,139/7,Kochi,Brad Hodge,Rod Tucker,Sundaram Ravi
+2011,501244,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2011-05-06T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,205/6,120/9,RCB,Chris Gayle,Russell Tiffin,Aleem Dar
+2011,501245,KKR v CSK,"Eden Gardens, Kolkata",2011-05-07T10:30Z,KKR,CSK,CSK,BAT FIRST,114/4,61/2,KKR,Iqbal Abdulla,Asad Rauf,Paul Reiffel
+2011,501246,MI v DC,"Wankhede Stadium, Mumbai",2011-05-07T14:30Z,MI,DC,DC,BOWL FIRST,178/4,146,MI,Ambati Rayudu,Krishna Hariharan,Simon Taufel
+2011,501247,RCB v Kochi,"M.Chinnaswamy Stadium, Bengaluru",2011-05-08T10:30Z,RCB,Kochi,Kochi,BAT FIRST,125/9,128/1,RCB,Chris Gayle,Aleem Dar,Sanjay Hazare
+2011,501248,KXIP v PWI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2011-05-08T14:30Z,KXIP,PWI,KXIP,BAT FIRST,119/8,120/5,PWI,Rahul Sharma,Rod Tucker,Shavir Tarapore
+2011,501249,RR v CSK,"Sawai Mansingh Stadium, Jaipur",2011-05-09T14:30Z,RR,CSK,RR,BOWL FIRST,196/3,133,CSK,Murali Vijay,Krishna Hariharan,Simon Taufel
+2011,501250,DC v PWI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2011-05-10T10:30Z,SRH,PWI,SRH,BAT FIRST,136/8,137/4,PWI,Mitchell Marsh,Amiesh Saheba,Asad Rauf
+2011,501251,KXIP v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2011-05-10T14:30Z,KXIP,MI,MI,BOWL FIRST,163/8,87,KXIP,Bhargav Bhatt,Rod Tucker,Shavir Tarapore
+2011,501252,RR v RCB,"Sawai Mansingh Stadium, Jaipur",2011-05-11T14:30Z,RR,RCB,RCB,BOWL FIRST,146/6,151/1,RCB,Sreenath Aravind,Kumar Dharmasena,Krishna Hariharan
+2011,501253,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2011-05-12T14:30Z,CSK,DC,CSK,BAT FIRST,176/4,158/6,CSK,MS Dhoni,Amiesh Saheba,Suresh Shastri
+2011,501254,Kochi v KXIP,"Holkar Cricket Stadium, Indore",2011-05-13T14:30Z,Kochi,KXIP,KXIP,BOWL FIRST,178/7,181/4,KXIP,Dinesh Karthik,Rod Tucker,Sudhir Asnani
+2011,501255,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2011-05-14T10:30Z,RCB,KKR,RCB,BOWL FIRST,89/4,105/6,RCB,Chris Gayle,Russell Tiffin,Rudi Koertzen
+2011,501256,MI v DC,"Wankhede Stadium, Mumbai",2011-05-14T14:30Z,MI,SRH,SRH,BAT FIRST,135/6,125/8,SRH,Amit Mishra,Shavir Tarapore,Sundaram Ravi
+2011,501257,KXIP v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2011-05-15T10:30Z,KXIP,DC,DC,BOWL FIRST,170/6,141/8,KXIP,Piyush Chawla,Asad Rauf,Suresh Shastri
+2011,501258,Kochi v RR,"Holkar Cricket Stadium, Indore",2011-05-15T14:30Z,Kochi,RR,Kochi,BOWL FIRST,97,98/2,Kochi,Brad Hodge,Rod Tucker,Paul Reiffel
+2011,501259,PWI v DC,"Dr DY Patil Sports Academy, Mumbai",2011-05-16T14:30Z,PWI,SRH,SRH,BOWL FIRST,136/9,138/4,SRH,Amit Mishra,Shavir Tarapore,Sundaram Ravi
+2011,501260,KXIP v RCB,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2011-05-17T14:30Z,KXIP,RCB,KXIP,BAT FIRST,232/2,121,KXIP,Adam Gilchrist,Amiesh Saheba,Asad Rauf
+2011,501261,CSK v Kochi,"MA Chidambaram Stadium, Chepauk, Chennai",2011-05-18T14:30Z,CSK,Kochi,CSK,BAT FIRST,152/5,141/5,CSK,Wriddhiman Saha,Kumar Dharmasena,Rudi Koertzen
+2011,501262,PWI v KKR,"Dr DY Patil Sports Academy, Mumbai",2011-05-19T14:30Z,PWI,KKR,KKR,BOWL FIRST,118/7,119/3,KKR,Yusuf Pathan,Simon Taufel,Sundaram Ravi
+2011,501263,MI v RR,"Wankhede Stadium, Mumbai",2011-05-20T14:30Z,MI,RR,MI,BAT FIRST,133/5,134/0,RR,Shane Watson,Rudi Koertzen,Paul Reiffel
+2011,501264,KXIP v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2011-05-21T10:30Z,KXIP,SRH,KXIP,BOWL FIRST,198/2,116,SRH,Shikhar Dhawan,Amiesh Saheba,Asad Rauf
+2011,501266,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",2011-05-22T10:30Z,RCB,CSK,RCB,BOWL FIRST,128/8,129/2,RCB,Chris Gayle,Rudi Koertzen,Krishna Hariharan
+2011,501267,KKR v MI,"Eden Gardens, Kolkata",2011-05-22T14:30Z,KKR,MI,MI,BOWL FIRST,175/7,178/5,MI,James Franklin,Shavir Tarapore,Simon Taufel
+2010,419106,DC v KKR,"Dr DY Patil Sports Academy, Mumbai",2010-03-12T14:30Z,SRH,KKR,SRH,BOWL FIRST,161/4,150/7,KKR,Angelo Mathews,Russell Tiffin,Rudi Koertzen
+2010,419107,MI v RR,"Brabourne Stadium, Mumbai",2010-03-13T09:30Z,MI,RR,MI,BAT FIRST,212/6,208/7,MI,Yusuf Pathan,Russell Tiffin,Rudi Koertzen
+2010,419108,KXIP v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2010-03-13T14:30Z,KXIP,DC,DC,BOWL FIRST,142/9,146/5,DC,Gautam Gambhir,Billy Doctrove,Sundaram Ravi
+2010,419109,KKR v RCB,"Eden Gardens, Kolkata",2010-03-14T10:30Z,KKR,RCB,KKR,BOWL FIRST,135/7,136/3,KKR,Manoj Tiwary,Amiesh Saheba,Kumar Dharmasena
+2010,419110,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2010-03-14T14:30Z,CSK,SRH,SRH,BAT FIRST,190/4,159/9,SRH,Chaminda Vaas,Krishna Hariharan,Daryl Harper
+2010,419111,RR v DC,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2010-03-15T14:30Z,RR,DC,DC,BOWL FIRST,141/6,142/4,DC,Virender Sehwag,Rudi Koertzen,Brian Jerling
+2010,419112,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2010-03-16T10:30Z,RCB,KXIP,KXIP,BAT FIRST,203/3,204/2,RCB,Jacques Kallis,Daryl Harper,Subrat Das
+2010,419113,KKR v CSK,"Eden Gardens, Kolkata",2010-03-16T14:30Z,KKR,CSK,CSK,BAT FIRST,164/3,109,CSK,MS Dhoni,Amiesh Saheba,Kumar Dharmasena
+2010,419114,DC v MI,"Arun Jaitley Stadium, Delhi",2010-03-17T14:30Z,DC,MI,DC,BOWL FIRST,218/7,120,MI,Sachin Tendulkar,Shavir Tarapore,Billy Doctrove
+2010,419115,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",2010-03-18T14:30Z,RCB,RR,RCB,BOWL FIRST,92,93/0,RCB,Jacques Kallis,Krishna Hariharan,Daryl Harper
+2010,419116,DC v CSK,"Arun Jaitley Stadium, Delhi",2010-03-19T10:30Z,DC,CSK,DC,BAT FIRST,185/6,190/5,CSK,Matthew Hayden,Shavir Tarapore,Billy Doctrove
+2010,419117,DC v KXIP,"Barabati Stadium, Cuttack",2010-03-19T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,170/7,164/8,SRH,Andrew Symonds,Billy Bowden,Marais Erasmus
+2010,419118,RR v KKR,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2010-03-20T10:30Z,RR,KKR,RR,BAT FIRST,168/7,134/5,RR,Abhishek Jhunjhunwala,Russell Tiffin,Rudi Koertzen
+2010,419119,MI v RCB,"Brabourne Stadium, Mumbai",2010-03-20T14:30Z,MI,RCB,MI,BAT FIRST,151/9,155/3,RCB,Jacques Kallis,Kumar Dharmasena,Sanjay Hazare
+2010,419122,MI v KKR,"Brabourne Stadium, Mumbai",2010-03-22T14:30Z,MI,KKR,KKR,BAT FIRST,155/3,156/3,MI,Sachin Tendulkar,Sanjay Hazare,Simon Taufel
+2010,419123,RCB v CSK,"M.Chinnaswamy Stadium, Bengaluru",2010-03-23T14:30Z,RCB,CSK,CSK,BOWL FIRST,171/5,135/7,RCB,Robin Uthappa,Russell Tiffin,Rudi Koertzen
+2010,419124,KXIP v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2010-03-24T14:30Z,KXIP,RR,KXIP,BOWL FIRST,183/5,152,RR,Adam Voges,Shavir Tarapore,Billy Doctrove
+2010,419128,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2010-03-25T10:30Z,RCB,DC,RCB,BOWL FIRST,183/4,166/9,DC,Kedar Jadhav,Rudi Koertzen,Brian Jerling
+2010,419125,MI v CSK,"Brabourne Stadium, Mumbai",2010-03-25T14:30Z,MI,CSK,MI,BOWL FIRST,180/2,181/5,MI,Sachin Tendulkar,Amiesh Saheba,Billy Bowden
+2010,419126,RR v DC,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2010-03-26T14:30Z,RR,SRH,SRH,BAT FIRST,148/9,151/2,RR,Yusuf Pathan,Kumar Dharmasena,Simon Taufel
+2010,419127,KXIP v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2010-03-27T14:30Z,KXIP,KKR,KKR,BAT FIRST,183/5,144/6,KKR,Manoj Tiwary,Billy Doctrove,Sundaram Ravi
+2010,419129,RR v CSK,"Sardar Patel (Gujarat) Stadium, Motera, Ahmedabad",2010-03-28T10:30Z,RR,CSK,RR,BAT FIRST,177/8,160/6,RR,Naman Ojha,Sanjay Hazare,Simon Taufel
+2010,419130,DC v MI,"Dr DY Patil Sports Academy, Mumbai",2010-03-28T14:30Z,SRH,MI,SRH,BOWL FIRST,172/7,131,MI,Harbhajan Singh,Krishna Hariharan,Subrat Das
+2010,419131,DC v KKR,"Arun Jaitley Stadium, Delhi",2010-03-29T14:30Z,DC,KKR,DC,BAT FIRST,177/4,137/9,DC,David Warner,Sanjay Hazare,Simon Taufel
+2010,419132,MI v KXIP,"Brabourne Stadium, Mumbai",2010-03-30T14:30Z,MI,KXIP,MI,BOWL FIRST,163,164/6,MI,Lasith Malinga,Shavir Tarapore,Billy Doctrove
+2010,419133,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2010-03-31T10:30Z,CSK,RCB,RCB,BAT FIRST,161/4,162/5,CSK,Murali Vijay,Rudi Koertzen,Brian Jerling
+2010,419134,DC v RR,"Arun Jaitley Stadium, Delhi",2010-03-31T14:30Z,DC,RR,DC,BAT FIRST,188/6,121,DC,Dinesh Karthik,Kumar Dharmasena,Simon Taufel
+2010,419135,KKR v DC,"Eden Gardens, Kolkata",2010-04-01T14:30Z,KKR,SRH,KKR,BAT FIRST,181/6,157/5,KKR,Sourav Ganguly,Krishna Hariharan,Daryl Harper
+2010,419136,KXIP v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2010-04-02T14:30Z,KXIP,RCB,KXIP,BAT FIRST,181/5,184/4,RCB,Kevin Pietersen,Billy Bowden,Marais Erasmus
+2010,419137,CSK v RR,"MA Chidambaram Stadium, Chepauk, Chennai",2010-04-03T10:30Z,CSK,RR,CSK,BAT FIRST,246/5,223/5,CSK,Murali Vijay,Russell Tiffin,Rudi Koertzen
+2010,419138,MI v DC,"Brabourne Stadium, Mumbai",2010-04-03T14:30Z,MI,SRH,MI,BAT FIRST,178/5,115,MI,Ambati Rayudu,Billy Doctrove,Sundaram Ravi
+2010,419139,KKR v KXIP,"Eden Gardens, Kolkata",2010-04-04T10:30Z,KKR,KXIP,KKR,BAT FIRST,200/3,204/2,KXIP,Mahela Jayawardene,Daryl Harper,Sudhir Asnani
+2010,419140,DC v RCB,"Arun Jaitley Stadium, Delhi",2010-04-04T14:30Z,DC,RCB,DC,BAT FIRST,184/5,147/9,DC,Paul Collingwood,Billy Bowden,Marais Erasmus
+2010,419141,DC v RR,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",2010-04-05T14:30Z,SRH,RR,RR,BAT FIRST,159,157,RR,Shane Warne,Kumar Dharmasena,Simon Taufel
+2010,419142,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",2010-04-06T14:30Z,CSK,MI,CSK,BAT FIRST,165/4,141/9,CSK,Suresh Raina,Daryl Harper,Sudhir Asnani
+2010,419143,RR v KXIP,"Sawai Mansingh Stadium, Jaipur",2010-04-07T10:30Z,RR,KXIP,KXIP,BAT FIRST,153/6,157/1,RR,Michael Lumb,Shavir Tarapore,Sundaram Ravi
+2010,419144,KKR v DC,"Eden Gardens, Kolkata",2010-04-07T14:30Z,KKR,DC,KKR,BAT FIRST,181/3,167/8,KKR,Sourav Ganguly,Rudi Koertzen,Brian Jerling
+2010,419145,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2010-04-08T14:30Z,RCB,SRH,SRH,BOWL FIRST,184/6,186/3,SRH,Tirumalasetti Suman,Daryl Harper,Sudhir Asnani
+2010,419146,KXIP v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2010-04-09T14:30Z,KXIP,MI,MI,BAT FIRST,154/9,158/4,KXIP,Kumar Sangakkara,Amiesh Saheba,Marais Erasmus
+2010,419147,DC v CSK,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",2010-04-10T10:30Z,SRH,CSK,CSK,BAT FIRST,138/8,139/4,SRH,Ryan Harris,Kumar Dharmasena,Simon Taufel
+2010,419148,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2010-04-10T14:30Z,RCB,KKR,RCB,BOWL FIRST,160/9,162/3,RCB,Vinay Kumar,Krishna Hariharan,Daryl Harper
+2010,419149,DC v KXIP,"Arun Jaitley Stadium, Delhi",2010-04-11T10:30Z,DC,KXIP,DC,BAT FIRST,111,112/3,KXIP,Piyush Chawla,Amiesh Saheba,Billy Bowden
+2010,419150,RR v MI,"Sawai Mansingh Stadium, Jaipur",2010-04-11T14:30Z,RR,MI,RR,BOWL FIRST,174/5,137/8,MI,Sachin Tendulkar,Shavir Tarapore,Billy Doctrove
+2010,419151,DC v RCB,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",2010-04-12T14:30Z,SRH,RCB,RCB,BOWL FIRST,151/6,138,SRH,Harmeet Singh,Russell Tiffin,Rudi Koertzen
+2010,419152,MI v DC,"Brabourne Stadium, Mumbai",2010-04-13T10:30Z,MI,DC,MI,BAT FIRST,183/4,144/7,MI,Kieron Pollard,Daryl Harper,Sudhir Asnani
+2010,419153,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2010-04-13T14:30Z,CSK,KKR,KKR,BAT FIRST,139/8,143/1,CSK,Ravichandran Ashwin,Sanjay Hazare,Simon Taufel
+2010,419154,RR v RCB,"Sawai Mansingh Stadium, Jaipur",2010-04-14T14:30Z,RR,RCB,RR,BAT FIRST,130/6,132/5,RCB,Kevin Pietersen,Billy Doctrove,Sundaram Ravi
+2010,419155,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2010-04-15T14:30Z,CSK,DC,CSK,BAT FIRST,112/9,113/4,DC,Gautam Gambhir,Kumar Dharmasena,Sanjay Hazare
+2010,419156,KXIP v DC,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2010-04-16T14:30Z,KXIP,SRH,SRH,BOWL FIRST,174/3,178/5,SRH,Rohit Sharma,Amiesh Saheba,Marais Erasmus
+2010,419157,RCB v MI,"M.Chinnaswamy Stadium, Bengaluru",2010-04-17T10:30Z,RCB,MI,RCB,BOWL FIRST,191/4,134/9,MI,Ryan McLaren,Kumar Dharmasena,Simon Taufel
+2010,419158,KKR v RR,"Eden Gardens, Kolkata",2010-04-17T14:30Z,KKR,RR,RR,BAT FIRST,132/9,133/2,KKR,Jaydev Unadkat,Russell Tiffin,Brian Jerling
+2010,419159,KXIP v CSK,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2010-04-18T10:30Z,KXIP,CSK,CSK,BOWL FIRST,192/3,195/4,CSK,MS Dhoni,Amiesh Saheba,Billy Bowden
+2010,419161,KKR v MI,"Eden Gardens, Kolkata",2010-04-19T14:30Z,KKR,MI,MI,BAT FIRST,133/8,135/1,KKR,Murali Kartik,Rudi Koertzen,Brian Jerling
+2009,392181,CSK v MI,"Newlands, Cape Town",2009-04-18T10:30Z,CSK,MI,CSK,BOWL FIRST,165/7,146/7,MI,Sachin Tendulkar,Krishna Hariharan,Billy Doctrove
+2009,392183,DC v KXIP,"Newlands, Cape Town",2009-04-19T10:30Z,DC,KXIP,DC,BOWL FIRST,104/7,58/0,DC,Daniel Vettori,Mark Benson,Shashank Ranade
+2009,392184,DC v KKR,"Newlands, Cape Town",2009-04-19T16:50Z,SRH,KKR,KKR,BAT FIRST,101,104/2,SRH,RP Singh,Mark Benson,Billy Doctrove
+2009,392186,KXIP v KKR,"Kingsmead, Durban",2009-04-21T10:30Z,KXIP,KKR,KKR,BOWL FIRST,158/6,79/1,KKR,Chris Gayle,Shashank Ranade,Daryl Harper
+2009,392189,CSK v DC,"Kingsmead, Durban",2009-04-23T10:30Z,CSK,DC,DC,BAT FIRST,189/5,180/9,DC,AB de Villiers,Simon Taufel,Billy Doctrove
+2009,392190,KKR v RR,"Newlands, Cape Town",2009-04-23T14:45Z,KKR,RR,KKR,BOWL FIRST,150/6,150/8,KKR,Yusuf Pathan,Mark Benson,Marais Erasmus
+2009,392191,RCB v KXIP,"Kingsmead, Durban",2009-04-24T14:30Z,RCB,KXIP,RCB,BAT FIRST,168/9,173/3,KXIP,Ravi Bopara,Tyron Wijewardene,Billy Doctrove
+2009,392192,DC v MI,"Kingsmead, Durban",2009-04-25T10:30Z,SRH,MI,SRH,BAT FIRST,168/9,156/7,SRH,Pragyan Ojha,Kumar Dharmasena,Simon Taufel
+2009,392194,RCB v DC,"St George's Park, Port Elizabeth",2009-04-26T10:30Z,RCB,DC,RCB,BAT FIRST,149/7,150/4,DC,Tillakaratne Dilshan,Sudhir Asnani,Brian Jerling
+2009,392195,KXIP v RR,"Newlands, Cape Town",2009-04-26T14:45Z,KXIP,RR,KXIP,BAT FIRST,139/6,112/7,KXIP,Kumar Sangakkara,Krishna Hariharan,Marais Erasmus
+2009,392196,CSK v DC,"Kingsmead, Durban",2009-04-27T10:30Z,CSK,SRH,SRH,BOWL FIRST,165/6,169/4,SRH,Herschelle Gibbs,Tyron Wijewardene,Ian Howell
+2009,392197,KKR v MI,"St George's Park, Port Elizabeth",2009-04-27T14:45Z,KKR,MI,MI,BAT FIRST,187/6,95,MI,Sachin Tendulkar,Russell Tiffin,Brian Jerling
+2009,392198,DC v RR,"SuperSport Park, Centurion",2009-04-28T14:30Z,DC,RR,DC,BAT FIRST,143/7,147/5,RR,Yusuf Pathan,Gary Baxter,Rudi Koertzen
+2009,392199,RCB v KKR,"Kingsmead, Durban",2009-04-29T10:30Z,RCB,KKR,KKR,BAT FIRST,139/6,143/5,RCB,Mark Boucher,Mark Benson,Tyron Wijewardene
+2009,392200,KXIP v MI,"Kingsmead, Durban",2009-04-29T14:30Z,KXIP,MI,KXIP,BAT FIRST,119/8,116/7,KXIP,Kumar Sangakkara,Mark Benson,Suresh Shastri
+2009,392202,CSK v RR,"SuperSport Park, Centurion",2009-04-30T14:30Z,CSK,RR,RR,BOWL FIRST,164/5,126,CSK,Suresh Raina,Gary Baxter,Rudi Koertzen
+2009,392203,KKR v MI,"Buffalo Park, East London",2009-05-01T10:30Z,KKR,MI,MI,BAT FIRST,148/6,139/6,MI,Jean-Paul Duminy,Shavir Tarapore,Marais Erasmus
+2009,392204,RCB v KXIP,"Kingsmead, Durban",2009-05-01T14:45Z,RCB,KXIP,RCB,BAT FIRST,145/9,137/7,RCB,Yuvraj Singh,Kumar Dharmasena,Sundaram Ravi
+2009,392205,DC v RR,"St George's Park, Port Elizabeth",2009-05-02T10:30Z,SRH,RR,SRH,BAT FIRST,141/5,142/7,RR,Yusuf Pathan,Sudhir Asnani,Brian Jerling
+2009,392206,CSK v DC,"The Wanderers Stadium, Johannesburg",2009-05-02T14:45Z,CSK,DC,DC,BOWL FIRST,163,145/8,CSK,Shadab Jakati,Rudi Koertzen,Daryl Harper
+2009,392207,KXIP v KKR,"St George's Park, Port Elizabeth",2009-05-03T10:30Z,KXIP,KKR,KKR,BAT FIRST,153/3,154/4,KXIP,Mahela Jayawardene,Mark Benson,Sudhir Asnani
+2009,392208,RCB v MI,"The Wanderers Stadium, Johannesburg",2009-05-03T14:45Z,RCB,MI,MI,BAT FIRST,149/4,150/1,RCB,Jacques Kallis,Rudi Koertzen,Tyron Wijewardene
+2009,392209,CSK v DC,"Buffalo Park, East London",2009-05-04T14:30Z,CSK,SRH,CSK,BAT FIRST,178/3,100,CSK,MS Dhoni,Marais Erasmus,Billy Doctrove
+2009,392210,KXIP v RR,"Kingsmead, Durban",2009-05-05T10:30Z,KXIP,RR,KXIP,BOWL FIRST,211/4,133/8,RR,Graeme Smith,Sanjay Hazare,Ian Howell
+2009,392211,DC v KKR,"Kingsmead, Durban",2009-05-05T14:30Z,DC,KKR,KKR,BAT FIRST,154/3,157/1,DC,Gautam Gambhir,Gary Baxter,Ian Howell
+2009,392212,DC v MI,"SuperSport Park, Centurion",2009-05-06T14:30Z,SRH,MI,SRH,BAT FIRST,145/6,126/8,SRH,Rohit Sharma,Mark Benson,Kumar Dharmasena
+2009,392213,RCB v RR,"SuperSport Park, Centurion",2009-05-07T10:30Z,RCB,RR,RR,BOWL FIRST,105,107/3,RR,Amit Singh,Krishna Hariharan,Daryl Harper
+2009,392214,CSK v KXIP,"SuperSport Park, Centurion",2009-05-07T14:30Z,CSK,KXIP,CSK,BAT FIRST,185/3,174/3,CSK,Matthew Hayden,Daryl Harper,Tyron Wijewardene
+2009,392215,DC v MI,"Buffalo Park, East London",2009-05-08T14:30Z,DC,MI,MI,BAT FIRST,116,118/3,DC,Ashish Nehra,Shavir Tarapore,Marais Erasmus
+2009,392216,DC v KXIP,"Diamond Oval, Kimberley",2009-05-09T10:30Z,SRH,KXIP,KXIP,BOWL FIRST,168/5,169/7,KXIP,Mahela Jayawardene,Amiesh Saheba,Gary Baxter
+2009,392217,CSK v RR,"Diamond Oval, Kimberley",2009-05-09T14:30Z,CSK,RR,RR,BAT FIRST,140/7,141/3,CSK,S Badrinath,Gary Baxter,Kumar Dharmasena
+2009,392218,RCB v MI,"St George's Park, Port Elizabeth",2009-05-10T10:30Z,RCB,MI,MI,BAT FIRST,157/2,141/7,MI,Jean-Paul Duminy,Brian Jerling,Billy Doctrove
+2009,392219,DC v KKR,"The Wanderers Stadium, Johannesburg",2009-05-10T14:45Z,DC,KKR,DC,BOWL FIRST,123/8,125/3,DC,Amit Mishra,Russell Tiffin,Suresh Shastri
+2009,392220,DC v RR,"Diamond Oval, Kimberley",2009-05-11T14:30Z,SRH,RR,SRH,BAT FIRST,166/7,113,SRH,Dwayne Smith,Gary Baxter,Kumar Dharmasena
+2009,392221,RCB v KKR,"SuperSport Park, Centurion",2009-05-12T10:30Z,RCB,KKR,RCB,BOWL FIRST,173/4,176/4,RCB,Ross Taylor,Sanjay Hazare,Marais Erasmus
+2009,392222,KXIP v MI,"SuperSport Park, Centurion",2009-05-12T14:30Z,KXIP,MI,KXIP,BAT FIRST,119/9,122/2,MI,Harbhajan Singh,Rudi Koertzen,Sanjay Hazare
+2009,392225,MI v RR,"Kingsmead, Durban",2009-05-14T14:30Z,MI,RR,RR,BAT FIRST,145/7,143,RR,Shane Warne,Daryl Harper,Billy Doctrove
+2009,392226,DC v KXIP,"Mangaung Oval, Bloemfontein",2009-05-15T14:30Z,DC,KXIP,KXIP,BOWL FIRST,120/9,123/4,KXIP,Brett Lee,Kumar Dharmasena,Ian Howell
+2009,392227,CSK v MI,"St George's Park, Port Elizabeth",2009-05-16T10:30Z,CSK,MI,MI,BAT FIRST,147/5,151/3,CSK,Matthew Hayden,Shavir Tarapore,Simon Taufel
+2009,392228,DC v KKR,"The Wanderers Stadium, Johannesburg",2009-05-16T14:45Z,SRH,KKR,SRH,BOWL FIRST,160/5,166/4,SRH,Rohit Sharma,Rudi Koertzen,Sundaram Ravi
+2009,392229,DC v KXIP,"The Wanderers Stadium, Johannesburg",2009-05-17T10:30Z,SRH,KXIP,SRH,BOWL FIRST,134/7,133/8,KXIP,Yuvraj Singh,Russell Tiffin,Sundaram Ravi
+2009,392230,DC v RR,"Mangaung Oval, Bloemfontein",2009-05-17T14:45Z,DC,RR,DC,BAT FIRST,150/3,136/9,DC,AB de Villiers,Sanjay Hazare,Ian Howell
+2009,392231,CSK v KKR,"SuperSport Park, Centurion",2009-05-18T14:30Z,CSK,KKR,CSK,BAT FIRST,188/3,189/3,KKR,Brad Hodge,Russell Tiffin,Simon Taufel
+2009,392232,RCB v DC,"The Wanderers Stadium, Johannesburg",2009-05-19T14:30Z,RCB,DC,DC,BAT FIRST,134/7,135/3,RCB,Jacques Kallis,Russell Tiffin,Ian Howell
+2009,392233,KKR v RR,"Kingsmead, Durban",2009-05-20T10:30Z,KKR,RR,KKR,BOWL FIRST,101/9,102/6,KKR,Laxmi Shukla,Simon Taufel,Brian Jerling
+2009,392234,CSK v KXIP,"Kingsmead, Durban",2009-05-20T14:30Z,CSK,KXIP,CSK,BAT FIRST,116/9,92/8,CSK,Muttiah Muralitharan,Simon Taufel,Brian Jerling
+2009,392235,DC v MI,"SuperSport Park, Centurion",2009-05-21T10:30Z,DC,MI,DC,BOWL FIRST,165/8,166/6,DC,Virender Sehwag,Ian Howell,Sundaram Ravi
+2009,392236,RCB v DC,"SuperSport Park, Centurion",2009-05-21T14:30Z,RCB,SRH,RCB,BAT FIRST,170/4,158/6,RCB,Manish Pandey,Ian Howell,Sundaram Ravi
+2008,335982,RCB v KKR,"M.Chinnaswamy Stadium, Bengaluru",2008-04-18T14:30Z,RCB,KKR,RCB,BOWL FIRST,222/3,82,KKR,Brendon McCullum,Asad Rauf,Rudi Koertzen
+2008,335983,KXIP v CSK,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2008-04-19T11:30Z,KXIP,CSK,CSK,BAT FIRST,240/5,207/4,CSK,Michael Hussey,Mark Benson,Suresh Shastri
+2008,335986,KKR v DC,"Eden Gardens, Kolkata",2008-04-20T10:30Z,KKR,SRH,SRH,BAT FIRST,110,112/5,KKR,David Hussey,Billy Bowden,Krishna Hariharan
+2008,335985,MI v RCB,"Wankhede Stadium, Mumbai",2008-04-20T14:30Z,MI,RCB,MI,BAT FIRST,165/6,166/5,RCB,Mark Boucher,Steve Davis,Daryl Harper
+2008,335987,RR v KXIP,"Sawai Mansingh Stadium, Jaipur",2008-04-21T14:30Z,RR,KXIP,KXIP,BAT FIRST,166/8,168/4,RR,Shane Watson,Russell Tiffin,Aleem Dar
+2008,335989,CSK v MI,"MA Chidambaram Stadium, Chepauk, Chennai",2008-04-23T14:30Z,CSK,MI,MI,BOWL FIRST,208/5,202/7,CSK,Matthew Hayden,Daryl Harper,GA Pratapkumar
+2008,335990,DC v RR,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2008-04-24T14:30Z,SRH,RR,RR,BOWL FIRST,214/5,217/7,RR,Yusuf Pathan,Mark Benson,Asad Rauf
+2008,335991,KXIP v MI,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2008-04-25T14:30Z,KXIP,MI,MI,BOWL FIRST,182,116/9,KXIP,Kumar Sangakkara,Amiesh Saheba,Aleem Dar
+2008,335993,CSK v KKR,"MA Chidambaram Stadium, Chepauk, Chennai",2008-04-26T10:30Z,CSK,KKR,KKR,BAT FIRST,147/9,152/1,CSK,Jacob Oram,Billy Bowden,Arani Jayaprakash
+2008,335992,RCB v RR,"M.Chinnaswamy Stadium, Bengaluru",2008-04-26T14:30Z,RCB,RR,RR,BOWL FIRST,135/8,138/3,RR,Shane Watson,Mark Benson,Ian Howell
+2008,335995,KXIP v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2008-04-27T10:30Z,KXIP,DC,DC,BAT FIRST,158/8,162/6,KXIP,Simon Katich,Rudi Koertzen,Ivaturi Shivram
+2008,335994,MI v DC,"Dr DY Patil Sports Academy, Mumbai",2008-04-27T14:30Z,MI,SRH,SRH,BOWL FIRST,154/7,155/0,SRH,Adam Gilchrist,Asad Rauf,Suresh Shastri
+2008,335997,KKR v MI,"Eden Gardens, Kolkata",2008-04-29T14:30Z,KKR,MI,KKR,BAT FIRST,137/8,138/3,MI,Sanath Jayasuriya,Billy Bowden,Arani Jayaprakash
+2008,335998,DC v RCB,"Arun Jaitley Stadium, Delhi",2008-04-30T14:30Z,DC,RCB,RCB,BOWL FIRST,191/5,181/5,DC,Glenn McGrath,Aleem Dar,Ivaturi Shivram
+2008,336000,RR v KKR,"Sawai Mansingh Stadium, Jaipur",2008-05-01T10:30Z,RR,KKR,RR,BAT FIRST,196/7,151,RR,Swapnil Asnodkar,Rudi Koertzen,GA Pratapkumar
+2008,335999,DC v KXIP,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2008-05-01T14:30Z,SRH,KXIP,KXIP,BOWL FIRST,164/8,167/3,KXIP,Shaun Marsh,Russell Tiffin,Billy Doctrove
+2008,336001,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2008-05-02T14:30Z,CSK,DC,CSK,BAT FIRST,169/6,172/2,DC,Virender Sehwag,Billy Bowden,Krishna Hariharan
+2008,336034,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2008-05-03T10:30Z,RCB,SRH,SRH,BOWL FIRST,156/8,153/6,RCB,Praveen Kumar,Suresh Shastri,Billy Doctrove
+2008,336003,KXIP v KKR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2008-05-03T14:30Z,KXIP,KKR,KXIP,BAT FIRST,178/6,169/6,KXIP,Irfan Pathan,Daryl Harper,Ivaturi Shivram
+2008,336004,MI v DC,"Dr DY Patil Sports Academy, Mumbai",2008-05-04T10:30Z,MI,DC,DC,BOWL FIRST,162/8,133,MI,Shaun Pollock,Rudi Koertzen,Ian Howell
+2008,336005,RR v CSK,"Sawai Mansingh Stadium, Jaipur",2008-05-04T14:30Z,RR,CSK,CSK,BAT FIRST,109,110/2,RR,Sohail Tanvir,Asad Rauf,Arani Jayaprakash
+2008,336006,RCB v KXIP,"M.Chinnaswamy Stadium, Bengaluru",2008-05-05T14:30Z,RCB,KXIP,KXIP,BOWL FIRST,126,127/4,KXIP,Sreesanth,Steve Davis,Billy Doctrove
+2008,336007,CSK v DC,"MA Chidambaram Stadium, Chepauk, Chennai",2008-05-06T14:30Z,CSK,SRH,SRH,BOWL FIRST,144/7,148/3,SRH,Adam Gilchrist,Mark Benson,Russell Tiffin
+2008,336008,MI v RR,"Dr DY Patil Sports Academy, Mumbai",2008-05-07T14:30Z,MI,RR,MI,BOWL FIRST,103,104/3,MI,Ashish Nehra,Rudi Koertzen,Daryl Harper
+2008,336013,CSK v KXIP,"MA Chidambaram Stadium, Chepauk, Chennai",2008-05-10T14:30Z,CSK,KXIP,KXIP,BOWL FIRST,181/4,163/9,CSK,Lakshmipathy Balaji,Arani Jayaprakash,Brian Jerling
+2008,336016,KXIP v RCB,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2008-05-12T14:30Z,KXIP,RCB,RCB,BAT FIRST,143/8,144/1,KXIP,Shaun Marsh,Ivaturi Shivram,Billy Doctrove
+2008,336018,MI v CSK,"Wankhede Stadium, Mumbai",2008-05-14T14:30Z,MI,CSK,MI,BOWL FIRST,156/6,158/1,MI,Sanath Jayasuriya,Amiesh Saheba,Billy Doctrove
+2008,336021,MI v KKR,"Wankhede Stadium, Mumbai",2008-05-16T14:30Z,MI,KKR,MI,BOWL FIRST,67,68/2,MI,Shaun Pollock,Daryl Harper,Billy Doctrove
+2008,336023,RR v RCB,"Sawai Mansingh Stadium, Jaipur",2008-05-17T10:30Z,RR,RCB,RCB,BOWL FIRST,197/1,132/9,RR,Graeme Smith,Billy Bowden,Suresh Shastri
+2008,336022,DC v KXIP,"Arun Jaitley Stadium, Delhi",2008-05-17T14:30Z,DC,KXIP,DC,BAT FIRST,118/4,94/3,KXIP,Mahela Jayawardene,Rudi Koertzen,Arani Jayaprakash
+2008,336025,KKR v CSK,"Eden Gardens, Kolkata",2008-05-18T10:30Z,KKR,CSK,KKR,BAT FIRST,149/5,55/0,CSK,Makhaya Ntini,Asad Rauf,Krishna Hariharan
+2008,336024,DC v MI,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2008-05-18T14:30Z,SRH,MI,SRH,BOWL FIRST,178/7,153/7,MI,Dwayne Bravo,Daryl Harper,Billy Doctrove
+2008,336026,RCB v DC,"M.Chinnaswamy Stadium, Bengaluru",2008-05-19T14:30Z,RCB,DC,DC,BOWL FIRST,154/7,158/5,DC,Shreevats Goswami,Steve Davis,GA Pratapkumar
+2008,336027,KKR v RR,"Eden Gardens, Kolkata",2008-05-20T14:30Z,KKR,RR,RR,BOWL FIRST,147/8,150/4,RR,Yusuf Pathan,Rudi Koertzen,Brian Jerling
+2008,336029,CSK v RCB,"MA Chidambaram Stadium, Chepauk, Chennai",2008-05-21T14:30Z,CSK,RCB,RCB,BAT FIRST,126/8,112/8,RCB,Anil Kumble,Daryl Harper,Ivaturi Shivram
+2008,336031,KXIP v DC,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2008-05-23T14:30Z,KXIP,SRH,KXIP,BOWL FIRST,175/4,178/4,KXIP,Shaun Marsh,Asad Rauf,Steve Davis
+2008,336036,RR v MI,"Sawai Mansingh Stadium, Jaipur",2008-05-26T14:30Z,RR,MI,RR,BOWL FIRST,145/7,146/5,RR,Sohail Tanvir,Billy Bowden,Krishna Hariharan
+2008,336019,KXIP v RR,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",2008-05-28T14:30Z,KXIP,RR,RR,BOWL FIRST,221/3,180/7,KXIP,Shaun Marsh,Krishna Hariharan,Steve Davis
